@@ -1,0 +1,53 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-11-08T14:30:29-05:00",
+  "document": {
+    "document_id": "freddie-selling-guide-2026-07-01",
+    "agency": "Freddie Mac",
+    "guide": "Freddie Mac Single-Family Seller/Servicer Guide (Selling scope)",
+    "edition_date": "2026-07-01",
+    "bulletin": "2026-9",
+    "source_file": "freddie-seller-servicer-guide-2026-07-01.pdf",
+    "source_sha256": "02deb8e566bef06c54aa8d2ebcfcac63bbae511c18a687d4e656e2e8ee0ee4b1",
+    "source_url": null,
+    "source_pdf_pages": 2807,
+    "pdf_metadata": {
+      "Author": "Freddie Mac",
+      "CreationDate": "D:20230126205502-05'00'",
+      "Creator": "Acrobat PDFMaker 17 for Word",
+      "Keywords": "Freddie Mac Single-Family Seller/Servicer Guide, selling requirements, servicing requirements, Guide PDF, Seller requirements, Servicer requirements",
+      "ModDate": "D:20260630103326-04'00'",
+      "Producer": "Adobe PDF Library 15.0",
+      "Subject": "Single-Family Seller/Servicer Guide",
+      "Title": "Freddie Mac Single-Family Seller/Servicer Guide PDF"
+    }
+  },
+  "scope": {
+    "included": [
+      "Compilation notice (PDF p. 1)",
+      "Freddie Mac - Seller/Servicer Relationship segment (PDF pp. 2-473)",
+      "Selling segment (PDF pp. 474-1965)"
+    ],
+    "excluded": [
+      "Servicing segment (PDF p. 1966 onward; Series 7000-9000)",
+      "External materials referenced but not embedded in the PDF"
+    ],
+    "interpretation": "The shared Seller/Servicer Relationship segment is kept because Freddie Mac states that it applies to all Seller/Servicers."
+  },
+  "versioning": {
+    "strategy": "current and future-effective versions are separate records (section_record_id '<id>::current' or '<id>::future-<date>')",
+    "current_records": 541,
+    "future_records": 61
+  },
+  "chunking": {
+    "strategy": "canonical-section-version-first, then paragraph/line-aware character windows",
+    "max_chars": 4500,
+    "overlap_chars": 500
+  },
+  "counts": {
+    "outline_items": 3529,
+    "unique_policy_section_ids": 542,
+    "policy_section_records": 602,
+    "chunks": 1154
+  }
+}

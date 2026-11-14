@@ -1,0 +1,5647 @@
+[
+  {
+    "title": "Table of Contents",
+    "pdf_page": 3,
+    "level": 0,
+    "ancestors": []
+  },
+  {
+    "title": "Preface",
+    "pdf_page": 14,
+    "level": 0,
+    "ancestors": []
+  },
+  {
+    "title": "Part A, Doing Business with Fannie Mae",
+    "pdf_page": 19,
+    "level": 0,
+    "ancestors": []
+  },
+  {
+    "title": "Subpart A1, Approval Qualification",
+    "pdf_page": 20,
+    "level": 1,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae"
+    ]
+  },
+  {
+    "title": "Chapter A1-1, Application and Approval of Seller/Servicer",
+    "pdf_page": 20,
+    "level": 2,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A1, Approval Qualification"
+    ]
+  },
+  {
+    "title": "A1-1-01, Application and Approval of Seller/Servicer (09/04/2018)",
+    "pdf_page": 20,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A1, Approval Qualification",
+      "Chapter A1-1, Application and Approval of Seller/Servicer"
+    ]
+  },
+  {
+    "title": "Subpart A2, Lender Contract",
+    "pdf_page": 20,
+    "level": 1,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae"
+    ]
+  },
+  {
+    "title": "Chapter A2-1, Contractual Obligations for Sellers/Servicers",
+    "pdf_page": 21,
+    "level": 2,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract"
+    ]
+  },
+  {
+    "title": "A2-1-01, Contractual Obligations for Sellers/Servicers (06/04/2025)",
+    "pdf_page": 21,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-1, Contractual Obligations for Sellers/Servicers"
+    ]
+  },
+  {
+    "title": "A2-1-02, Nature of Mortgage Transaction (02/27/2018)",
+    "pdf_page": 25,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-1, Contractual Obligations for Sellers/Servicers"
+    ]
+  },
+  {
+    "title": "A2-1-03, Indemnification for Losses (10/06/2021)",
+    "pdf_page": 26,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-1, Contractual Obligations for Sellers/Servicers"
+    ]
+  },
+  {
+    "title": "Chapter A2-2, Contractual Representations and Warranties",
+    "pdf_page": 31,
+    "level": 2,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract"
+    ]
+  },
+  {
+    "title": "A2-2-01, Representations and Warranties Overview (02/05/2020)",
+    "pdf_page": 32,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-2, Contractual Representations and Warranties"
+    ]
+  },
+  {
+    "title": "A2-2-02, Delivery Information and Delivery-Option Specific Representations and Warranties (08/30/2016)",
+    "pdf_page": 34,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-2, Contractual Representations and Warranties"
+    ]
+  },
+  {
+    "title": "A2-2-03, Document Warranties (10/06/2021)",
+    "pdf_page": 35,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-2, Contractual Representations and Warranties"
+    ]
+  },
+  {
+    "title": "A2-2-04, Limited Waiver and Enforcement Relief of Representations and Warranties (04/01/2026)",
+    "pdf_page": 38,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-2, Contractual Representations and Warranties"
+    ]
+  },
+  {
+    "title": "A2-2-05, Invalidation of Limited Waiver of Representations and Warranties (01/27/2015)",
+    "pdf_page": 44,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-2, Contractual Representations and Warranties"
+    ]
+  },
+  {
+    "title": "A2-2-06, Representations and Warranties on Property Value (06/03/2026)",
+    "pdf_page": 45,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-2, Contractual Representations and Warranties"
+    ]
+  },
+  {
+    "title": "A2-2-07, Life-of-Loan Representations and Warranties (08/02/2023)",
+    "pdf_page": 48,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-2, Contractual Representations and Warranties"
+    ]
+  },
+  {
+    "title": "Chapter A2-3, Lender Breach of Contract",
+    "pdf_page": 56,
+    "level": 2,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract"
+    ]
+  },
+  {
+    "title": "Section A2-3.1, Lender Breach of Contract",
+    "pdf_page": 56,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-3, Lender Breach of Contract"
+    ]
+  },
+  {
+    "title": "A2-3.1-01, Lender Breach of Contract (08/05/2020)",
+    "pdf_page": 56,
+    "level": 4,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-3, Lender Breach of Contract",
+      "Section A2-3.1, Lender Breach of Contract"
+    ]
+  },
+  {
+    "title": "A2-3.1-02, Sanctions, Suspensions, and Terminations (02/23/2016)",
+    "pdf_page": 58,
+    "level": 4,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-3, Lender Breach of Contract",
+      "Section A2-3.1, Lender Breach of Contract"
+    ]
+  },
+  {
+    "title": "Section A2-3.2, Loan Repurchases and Make Whole Payments Requested by Fannie Mae",
+    "pdf_page": 60,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-3, Lender Breach of Contract"
+    ]
+  },
+  {
+    "title": "A2-3.2-01, Loan Repurchases and Make Whole Payments Requested by Fannie Mae (08/29/2017)",
+    "pdf_page": 60,
+    "level": 4,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-3, Lender Breach of Contract",
+      "Section A2-3.2, Loan Repurchases and Make Whole Payments Requested by Fannie Mae"
+    ]
+  },
+  {
+    "title": "A2-3.2-02, Enforcement Relief for Breaches of Certain Representations and Warranties Related to Underwriting and Eligibility (08/06/2025)",
+    "pdf_page": 65,
+    "level": 4,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-3, Lender Breach of Contract",
+      "Section A2-3.2, Loan Repurchases and Make Whole Payments Requested by Fannie Mae"
+    ]
+  },
+  {
+    "title": "A2-3.2-03, Remedies Framework (08/30/2016)",
+    "pdf_page": 70,
+    "level": 4,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-3, Lender Breach of Contract",
+      "Section A2-3.2, Loan Repurchases and Make Whole Payments Requested by Fannie Mae"
+    ]
+  },
+  {
+    "title": "Section A2-3.3, Compensatory Fees",
+    "pdf_page": 76,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-3, Lender Breach of Contract"
+    ]
+  },
+  {
+    "title": "A2-3.3-01, Compensatory Fees (07/30/2013)",
+    "pdf_page": 76,
+    "level": 4,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-3, Lender Breach of Contract",
+      "Section A2-3.3, Compensatory Fees"
+    ]
+  },
+  {
+    "title": "Chapter A2-4, Loan Files and Records",
+    "pdf_page": 78,
+    "level": 2,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract"
+    ]
+  },
+  {
+    "title": "Section A2-4.1, Establishment, Ownership, and Retention of Loan Files and Records",
+    "pdf_page": 78,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-4, Loan Files and Records"
+    ]
+  },
+  {
+    "title": "A2-4.1-01, Establishing Loan Files (09/04/2024)",
+    "pdf_page": 78,
+    "level": 4,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-4, Loan Files and Records",
+      "Section A2-4.1, Establishment, Ownership, and Retention of Loan Files and Records"
+    ]
+  },
+  {
+    "title": "A2-4.1-02, Ownership and Retention of Loan Files and Records (12/19/2017)",
+    "pdf_page": 83,
+    "level": 4,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-4, Loan Files and Records",
+      "Section A2-4.1, Establishment, Ownership, and Retention of Loan Files and Records"
+    ]
+  },
+  {
+    "title": "A2-4.1-03, Electronic Records, Signatures, and Transactions (05/06/2026)",
+    "pdf_page": 89,
+    "level": 4,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-4, Loan Files and Records",
+      "Section A2-4.1, Establishment, Ownership, and Retention of Loan Files and Records"
+    ]
+  },
+  {
+    "title": "A2-4.1-04, Notarization Standards (06/02/2021)",
+    "pdf_page": 98,
+    "level": 4,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-4, Loan Files and Records",
+      "Section A2-4.1, Establishment, Ownership, and Retention of Loan Files and Records"
+    ]
+  },
+  {
+    "title": "Chapter A2-5, Fannie Mae Trade Name and Trademarks",
+    "pdf_page": 102,
+    "level": 2,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract"
+    ]
+  },
+  {
+    "title": "A2-5-01, Fannie Mae Trade Name and Trademarks (08/29/2017)",
+    "pdf_page": 102,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A2, Lender Contract",
+      "Chapter A2-5, Fannie Mae Trade Name and Trademarks"
+    ]
+  },
+  {
+    "title": "Subpart A3, Getting Started With Fannie Mae",
+    "pdf_page": 105,
+    "level": 1,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae"
+    ]
+  },
+  {
+    "title": "Chapter A3-1, Fannie Mae’s Technology Products",
+    "pdf_page": 105,
+    "level": 2,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae"
+    ]
+  },
+  {
+    "title": "A3-1-01, Fannie Mae’s Technology Products (10/06/2021)",
+    "pdf_page": 106,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-1, Fannie Mae’s Technology Products"
+    ]
+  },
+  {
+    "title": "Chapter A3-2, Compliance With Requirements and Laws",
+    "pdf_page": 107,
+    "level": 2,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae"
+    ]
+  },
+  {
+    "title": "A3-2-01, Compliance With Laws (12/10/2025)",
+    "pdf_page": 107,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-2, Compliance With Requirements and Laws"
+    ]
+  },
+  {
+    "title": "A3-2-02, Responsible Lending Practices (09/01/2021)",
+    "pdf_page": 119,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-2, Compliance With Requirements and Laws"
+    ]
+  },
+  {
+    "title": "Chapter A3-3, Third-Party Lending Functions and Servicing Arrangements",
+    "pdf_page": 122,
+    "level": 2,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae"
+    ]
+  },
+  {
+    "title": "A3-3-01, Outsourcing of Mortgage Processing and Third-Party Originations (02/07/2024)",
+    "pdf_page": 123,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-3, Third-Party Lending Functions and Servicing Arrangements"
+    ]
+  },
+  {
+    "title": "A3-3-02, Concurrent Servicing Transfers (05/01/2024)",
+    "pdf_page": 125,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-3, Third-Party Lending Functions and Servicing Arrangements"
+    ]
+  },
+  {
+    "title": "A3-3-03, Other Servicing Arrangements (12/15/2015)",
+    "pdf_page": 131,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-3, Third-Party Lending Functions and Servicing Arrangements"
+    ]
+  },
+  {
+    "title": "A3-3-04, Document Custodians (05/04/2022)",
+    "pdf_page": 133,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-3, Third-Party Lending Functions and Servicing Arrangements"
+    ]
+  },
+  {
+    "title": "A3-3-05, Custody of Mortgage Documents (05/04/2022)",
+    "pdf_page": 135,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-3, Third-Party Lending Functions and Servicing Arrangements"
+    ]
+  },
+  {
+    "title": "Chapter A3-4, Lending Practices",
+    "pdf_page": 137,
+    "level": 2,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae"
+    ]
+  },
+  {
+    "title": "A3-4-01, Confidentiality of Information (02/05/2025)",
+    "pdf_page": 137,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-4, Lending Practices"
+    ]
+  },
+  {
+    "title": "A3-4-02, Data Quality and Integrity (08/07/2018)",
+    "pdf_page": 141,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-4, Lending Practices"
+    ]
+  },
+  {
+    "title": "A3-4-03, Preventing, Detecting, and Reporting Mortgage Fraud (12/10/2025)",
+    "pdf_page": 141,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-4, Lending Practices"
+    ]
+  },
+  {
+    "title": "Chapter A3-5, Fidelity Bond and Errors and Omissions Coverage",
+    "pdf_page": 145,
+    "level": 2,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae"
+    ]
+  },
+  {
+    "title": "A3-5-01, Fidelity Bond and Errors and Omissions Coverage Provisions (07/25/2017)",
+    "pdf_page": 145,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-5, Fidelity Bond and Errors and Omissions Coverage"
+    ]
+  },
+  {
+    "title": "A3-5-02, Fidelity Bond Policy Requirements (07/25/2017)",
+    "pdf_page": 146,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-5, Fidelity Bond and Errors and Omissions Coverage"
+    ]
+  },
+  {
+    "title": "A3-5-03, Errors and Omissions Policy Requirements (07/25/2017)",
+    "pdf_page": 148,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-5, Fidelity Bond and Errors and Omissions Coverage"
+    ]
+  },
+  {
+    "title": "A3-5-04, Reporting Fidelity Bond and Errors and Omissions Events (12/04/2019)",
+    "pdf_page": 150,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A3, Getting Started With Fannie Mae",
+      "Chapter A3-5, Fidelity Bond and Errors and Omissions Coverage"
+    ]
+  },
+  {
+    "title": "Subpart A4, Maintaining Seller/Servicer Eligibility",
+    "pdf_page": 150,
+    "level": 1,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae"
+    ]
+  },
+  {
+    "title": "Chapter A4-1, Maintaining Seller/Servicer Eligibility: Overview",
+    "pdf_page": 151,
+    "level": 2,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A4, Maintaining Seller/Servicer Eligibility"
+    ]
+  },
+  {
+    "title": "A4-1-01, Maintaining Seller/Servicer Eligibility (08/05/2026)",
+    "pdf_page": 151,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A4, Maintaining Seller/Servicer Eligibility",
+      "Chapter A4-1, Maintaining Seller/Servicer Eligibility: Overview"
+    ]
+  },
+  {
+    "title": "A4-1-02, Submission of Financial Statements and Reports (05/01/2024)",
+    "pdf_page": 158,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A4, Maintaining Seller/Servicer Eligibility",
+      "Chapter A4-1, Maintaining Seller/Servicer Eligibility: Overview"
+    ]
+  },
+  {
+    "title": "A4-1-03, Report of Changes in the Seller/Servicer’s Organization (05/01/2024)",
+    "pdf_page": 162,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A4, Maintaining Seller/Servicer Eligibility",
+      "Chapter A4-1, Maintaining Seller/Servicer Eligibility: Overview"
+    ]
+  },
+  {
+    "title": "A4-1-04, Submission of Irrevocable Limited Powers of Attorney (05/04/2022)",
+    "pdf_page": 164,
+    "level": 3,
+    "ancestors": [
+      "Part A, Doing Business with Fannie Mae",
+      "Subpart A4, Maintaining Seller/Servicer Eligibility",
+      "Chapter A4-1, Maintaining Seller/Servicer Eligibility: Overview"
+    ]
+  },
+  {
+    "title": "Part B, Origination Through Closing",
+    "pdf_page": 166,
+    "level": 0,
+    "ancestors": []
+  },
+  {
+    "title": "Subpart B1, Loan Application Package",
+    "pdf_page": 167,
+    "level": 1,
+    "ancestors": [
+      "Part B, Origination Through Closing"
+    ]
+  },
+  {
+    "title": "Chapter B1-1, Application Package Documentation",
+    "pdf_page": 167,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B1, Loan Application Package"
+    ]
+  },
+  {
+    "title": "B1-1-01, Contents of the Application Package (05/01/2024)",
+    "pdf_page": 167,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B1, Loan Application Package",
+      "Chapter B1-1, Application Package Documentation"
+    ]
+  },
+  {
+    "title": "B1-1-02, Blanket Authorization Form (04/01/2009)",
+    "pdf_page": 169,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B1, Loan Application Package",
+      "Chapter B1-1, Application Package Documentation"
+    ]
+  },
+  {
+    "title": "B1-1-03, Allowable Age of Credit Documents and Federal Income Tax Returns (04/02/2025)",
+    "pdf_page": 170,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B1, Loan Application Package",
+      "Chapter B1-1, Application Package Documentation"
+    ]
+  },
+  {
+    "title": "Subpart B2, Eligibility",
+    "pdf_page": 175,
+    "level": 1,
+    "ancestors": [
+      "Part B, Origination Through Closing"
+    ]
+  },
+  {
+    "title": "Chapter B2-1, Mortgage Eligibility",
+    "pdf_page": 175,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility"
+    ]
+  },
+  {
+    "title": "Section B2-1.1, Occupancy Types",
+    "pdf_page": 175,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility"
+    ]
+  },
+  {
+    "title": "B2-1.1-01, Occupancy Types (10/05/2022)",
+    "pdf_page": 175,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.1, Occupancy Types"
+    ]
+  },
+  {
+    "title": "Section B2-1.2, LTV, CLTV, HCLTV, and Subordinate Financing",
+    "pdf_page": 178,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility"
+    ]
+  },
+  {
+    "title": "B2-1.2-01, Loan-to-Value (LTV) Ratios (06/01/2022)",
+    "pdf_page": 179,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.2, LTV, CLTV, HCLTV, and Subordinate Financing"
+    ]
+  },
+  {
+    "title": "B2-1.2-02, Combined Loan-to-Value (CLTV) Ratios (12/04/2018)",
+    "pdf_page": 181,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.2, LTV, CLTV, HCLTV, and Subordinate Financing"
+    ]
+  },
+  {
+    "title": "B2-1.2-03, Home Equity Combined Loan-to-Value (HCLTV) Ratios (02/23/2016)",
+    "pdf_page": 182,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.2, LTV, CLTV, HCLTV, and Subordinate Financing"
+    ]
+  },
+  {
+    "title": "B2-1.2-04, Subordinate Financing (08/06/2025)",
+    "pdf_page": 183,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.2, LTV, CLTV, HCLTV, and Subordinate Financing"
+    ]
+  },
+  {
+    "title": "Section B2-1.3, Loan Purpose",
+    "pdf_page": 188,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility"
+    ]
+  },
+  {
+    "title": "B2-1.3-01, Purchase Transactions (11/05/2025)",
+    "pdf_page": 188,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.3, Loan Purpose"
+    ]
+  },
+  {
+    "title": "B2-1.3-02, Limited Cash-Out Refinance Transactions (10/08/2025)",
+    "pdf_page": 191,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.3, Loan Purpose"
+    ]
+  },
+  {
+    "title": "B2-1.3-03, Cash-Out Refinance Transactions (12/10/2025)",
+    "pdf_page": 197,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.3, Loan Purpose"
+    ]
+  },
+  {
+    "title": "B2-1.3-04, Prohibited Refinancing Practices (08/04/2021)",
+    "pdf_page": 202,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.3, Loan Purpose"
+    ]
+  },
+  {
+    "title": "B2-1.3-05, Payoff of Installment Land Contract Requirements (12/11/2024)",
+    "pdf_page": 205,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.3, Loan Purpose"
+    ]
+  },
+  {
+    "title": "Section B2-1.4, Loan Amortization Types",
+    "pdf_page": 206,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility"
+    ]
+  },
+  {
+    "title": "B2-1.4-01, Fixed-Rate Loans (12/14/2022)",
+    "pdf_page": 206,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.4, Loan Amortization Types"
+    ]
+  },
+  {
+    "title": "B2-1.4-02, Adjustable-Rate Mortgages (ARMs) (12/10/2025)",
+    "pdf_page": 207,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.4, Loan Amortization Types"
+    ]
+  },
+  {
+    "title": "B2-1.4-03, Convertible ARMs (02/23/2016)",
+    "pdf_page": 215,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.4, Loan Amortization Types"
+    ]
+  },
+  {
+    "title": "B2-1.4-04, Temporary Interest Rate Buydowns (08/07/2024)",
+    "pdf_page": 219,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.4, Loan Amortization Types"
+    ]
+  },
+  {
+    "title": "Section B2-1.5, Other Loan Attributes and Related Policies",
+    "pdf_page": 223,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility"
+    ]
+  },
+  {
+    "title": "B2-1.5-01, Loan Limits (02/02/2022)",
+    "pdf_page": 224,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.5, Other Loan Attributes and Related Policies"
+    ]
+  },
+  {
+    "title": "B2-1.5-02, Loan Eligibility (06/05/2024)",
+    "pdf_page": 225,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.5, Other Loan Attributes and Related Policies"
+    ]
+  },
+  {
+    "title": "B2-1.5-03, Legal Requirements (06/03/2020)",
+    "pdf_page": 236,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.5, Other Loan Attributes and Related Policies"
+    ]
+  },
+  {
+    "title": "B2-1.5-04, Escrow Accounts (04/01/2020)",
+    "pdf_page": 238,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.5, Other Loan Attributes and Related Policies"
+    ]
+  },
+  {
+    "title": "B2-1.5-05, Principal Curtailments (11/06/2024)",
+    "pdf_page": 239,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-1, Mortgage Eligibility",
+      "Section B2-1.5, Other Loan Attributes and Related Policies"
+    ]
+  },
+  {
+    "title": "Chapter B2-2, Borrower Eligibility",
+    "pdf_page": 241,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility"
+    ]
+  },
+  {
+    "title": "B2-2-01, General Borrower Eligibility Requirements (09/03/2025)",
+    "pdf_page": 241,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-2, Borrower Eligibility"
+    ]
+  },
+  {
+    "title": "B2-2-02, Non-U.S. Citizen Borrower Eligibility Requirements (07/28/2015)",
+    "pdf_page": 243,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-2, Borrower Eligibility"
+    ]
+  },
+  {
+    "title": "B2-2-03, Multiple Financed Properties for the Same Borrower (11/05/2025)",
+    "pdf_page": 244,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-2, Borrower Eligibility"
+    ]
+  },
+  {
+    "title": "B2-2-04, Guarantors, Co-Signers, or Non-Occupant Borrowers on the Subject Transaction (09/02/2020)",
+    "pdf_page": 247,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-2, Borrower Eligibility"
+    ]
+  },
+  {
+    "title": "B2-2-05, Inter Vivos Revocable Trusts (10/31/2017)",
+    "pdf_page": 250,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-2, Borrower Eligibility"
+    ]
+  },
+  {
+    "title": "B2-2-06, Homeownership Education and Housing Counseling (11/05/2025)",
+    "pdf_page": 253,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-2, Borrower Eligibility"
+    ]
+  },
+  {
+    "title": "B2-2-07, First-Generation Homebuyer Loans (05/01/2024)",
+    "pdf_page": 256,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-2, Borrower Eligibility"
+    ]
+  },
+  {
+    "title": "Chapter B2-3, Property Eligibility",
+    "pdf_page": 257,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility"
+    ]
+  },
+  {
+    "title": "B2-3-01, General Property Eligibility (09/03/2025)",
+    "pdf_page": 258,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-3, Property Eligibility"
+    ]
+  },
+  {
+    "title": "B2-3-02, Special Property Eligibility and Underwriting Considerations: Factory-Built Housing (02/04/2026)",
+    "pdf_page": 261,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-3, Property Eligibility"
+    ]
+  },
+  {
+    "title": "B2-3-03, Special Property Eligibility and Underwriting Considerations: Leasehold Estates (08/05/2026)",
+    "pdf_page": 268,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-3, Property Eligibility"
+    ]
+  },
+  {
+    "title": "B2-3-04, Special Property Eligibility Considerations (10/08/2025)",
+    "pdf_page": 275,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-3, Property Eligibility"
+    ]
+  },
+  {
+    "title": "B2-3-05, Properties Affected by a Disaster (09/03/2025)",
+    "pdf_page": 283,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B2, Eligibility",
+      "Chapter B2-3, Property Eligibility"
+    ]
+  },
+  {
+    "title": "Subpart B3, Underwriting Borrowers",
+    "pdf_page": 285,
+    "level": 1,
+    "ancestors": [
+      "Part B, Origination Through Closing"
+    ]
+  },
+  {
+    "title": "Chapter B3-1, Manual Underwriting",
+    "pdf_page": 286,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers"
+    ]
+  },
+  {
+    "title": "B3-1-01, Comprehensive Risk Assessment (11/05/2025)",
+    "pdf_page": 286,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-1, Manual Underwriting"
+    ]
+  },
+  {
+    "title": "Chapter B3-2, Desktop Underwriter (DU)",
+    "pdf_page": 287,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers"
+    ]
+  },
+  {
+    "title": "B3-2-01, General Information on DU (04/01/2026)",
+    "pdf_page": 288,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-2, Desktop Underwriter (DU)"
+    ]
+  },
+  {
+    "title": "B3-2-02, DU Validation Service (02/05/2025)",
+    "pdf_page": 292,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-2, Desktop Underwriter (DU)"
+    ]
+  },
+  {
+    "title": "B3-2-03, Risk Factors Evaluated by DU (02/05/2025)",
+    "pdf_page": 300,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-2, Desktop Underwriter (DU)"
+    ]
+  },
+  {
+    "title": "B3-2-04, DU Documentation Requirements (03/31/2015)",
+    "pdf_page": 306,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-2, Desktop Underwriter (DU)"
+    ]
+  },
+  {
+    "title": "B3-2-05, Approve/Eligible Recommendations (01/27/2015)",
+    "pdf_page": 307,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-2, Desktop Underwriter (DU)"
+    ]
+  },
+  {
+    "title": "B3-2-06, Approve/Ineligible Recommendations (02/01/2023)",
+    "pdf_page": 308,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-2, Desktop Underwriter (DU)"
+    ]
+  },
+  {
+    "title": "B3-2-07, Refer with Caution Recommendations (02/01/2023)",
+    "pdf_page": 310,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-2, Desktop Underwriter (DU)"
+    ]
+  },
+  {
+    "title": "B3-2-08, Out of Scope Recommendations (04/01/2009)",
+    "pdf_page": 312,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-2, Desktop Underwriter (DU)"
+    ]
+  },
+  {
+    "title": "B3-2-09, Erroneous Credit Report Data (01/27/2015)",
+    "pdf_page": 312,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-2, Desktop Underwriter (DU)"
+    ]
+  },
+  {
+    "title": "B3-2-10, Accuracy of DU Data, DU Tolerances, and Errors in the Credit Report (12/04/2019)",
+    "pdf_page": 314,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-2, Desktop Underwriter (DU)"
+    ]
+  },
+  {
+    "title": "B3-2-11, DU Underwriting Findings Report (09/07/2022)",
+    "pdf_page": 317,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-2, Desktop Underwriter (DU)"
+    ]
+  },
+  {
+    "title": "Chapter B3-3, Income Assessment",
+    "pdf_page": 318,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers"
+    ]
+  },
+  {
+    "title": "Section B3-3.1, General Income Requirements",
+    "pdf_page": 319,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment"
+    ]
+  },
+  {
+    "title": "B3-3.1-01, General Income Information (03/04/2026)",
+    "pdf_page": 319,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.1, General Income Requirements"
+    ]
+  },
+  {
+    "title": "B3-3.1-02, Tax Return and Transcript Documentation Requirements (06/03/2026)",
+    "pdf_page": 321,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.1, General Income Requirements"
+    ]
+  },
+  {
+    "title": "B3-3.1-03, Income Calculator (03/04/2026)",
+    "pdf_page": 324,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.1, General Income Requirements"
+    ]
+  },
+  {
+    "title": "B3-3.1-04, Verbal Verification of Employment (03/04/2026)",
+    "pdf_page": 325,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.1, General Income Requirements"
+    ]
+  },
+  {
+    "title": "Section B3-3.2, Requirements for Employment-Related Income",
+    "pdf_page": 328,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment"
+    ]
+  },
+  {
+    "title": "B3-3.2-01, Standards for Employment and Income Documentation (03/04/2026)",
+    "pdf_page": 328,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.2, Requirements for Employment-Related Income"
+    ]
+  },
+  {
+    "title": "B3-3.2-02, Standards for Employment-Related Income (03/04/2026)",
+    "pdf_page": 331,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.2, Requirements for Employment-Related Income"
+    ]
+  },
+  {
+    "title": "Section B3-3.3, Sources of Employment-Related Income",
+    "pdf_page": 333,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment"
+    ]
+  },
+  {
+    "title": "B3-3.3-01, Base Income (03/04/2026)",
+    "pdf_page": 334,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.3, Sources of Employment-Related Income"
+    ]
+  },
+  {
+    "title": "B3-3.3-02, Bonus, Commission, Overtime, and Tip Income (03/04/2026)",
+    "pdf_page": 336,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.3, Sources of Employment-Related Income"
+    ]
+  },
+  {
+    "title": "B3-3.3-03, Employment Offers or Contracts (03/04/2026)",
+    "pdf_page": 338,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.3, Sources of Employment-Related Income"
+    ]
+  },
+  {
+    "title": "B3-3.3-04, Housing (Parsonage) and Automobile Allowances (03/04/2026)",
+    "pdf_page": 342,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.3, Sources of Employment-Related Income"
+    ]
+  },
+  {
+    "title": "B3-3.3-05, Military Income (03/04/2026)",
+    "pdf_page": 343,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.3, Sources of Employment-Related Income"
+    ]
+  },
+  {
+    "title": "B3-3.3-06, Mortgage Differential Payments Income (03/04/2026)",
+    "pdf_page": 344,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.3, Sources of Employment-Related Income"
+    ]
+  },
+  {
+    "title": "B3-3.3-07, Restricted Stock Units and Restricted Stock Employment Income (03/04/2026)",
+    "pdf_page": 345,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.3, Sources of Employment-Related Income"
+    ]
+  },
+  {
+    "title": "B3-3.3-08, Seasonal Income (03/04/2026)",
+    "pdf_page": 347,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.3, Sources of Employment-Related Income"
+    ]
+  },
+  {
+    "title": "B3-3.3-09, Temporary Leave Income (03/04/2026)",
+    "pdf_page": 348,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.3, Sources of Employment-Related Income"
+    ]
+  },
+  {
+    "title": "Section B3-3.4, Other Sources of Income",
+    "pdf_page": 352,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment"
+    ]
+  },
+  {
+    "title": "B3-3.4-01, General Requirements for Other Sources of Income (03/04/2026)",
+    "pdf_page": 352,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-02, Alimony, Child Support, Equalization Payments, or Separate Maintenance (03/04/2026)",
+    "pdf_page": 353,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-03, Annuity, Pension, or Retirement Income (03/04/2026)",
+    "pdf_page": 354,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-04, Boarder Income (03/04/2026)",
+    "pdf_page": 356,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-05, Capital Gains Income (03/04/2026)",
+    "pdf_page": 358,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-06, Employment Related Assets as Qualifying Income (03/04/2026)",
+    "pdf_page": 359,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-07, Foster-Care Income (03/04/2026)",
+    "pdf_page": 363,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-08, Interest and Dividend Income (03/04/2026)",
+    "pdf_page": 364,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-09, Long-term Disability Income (03/04/2026)",
+    "pdf_page": 365,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-10, Mortgage Credit Certificates (03/04/2026)",
+    "pdf_page": 366,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-11, Notes Receivable Income (03/04/2026)",
+    "pdf_page": 368,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-12, Public Assistance Income (03/04/2026)",
+    "pdf_page": 369,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-13, Royalty Payment Income (03/04/2026)",
+    "pdf_page": 370,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-14, Section 8 Housing Choice Voucher Homeownership Program Payments (03/04/2026)",
+    "pdf_page": 371,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-15, Social Security Income (03/04/2026)",
+    "pdf_page": 372,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-16, Trust Income (03/04/2026)",
+    "pdf_page": 375,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-17, Unemployment Benefits Income (03/04/2026)",
+    "pdf_page": 377,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-18, VA Benefits Income (03/04/2026)",
+    "pdf_page": 378,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "B3-3.4-19, Schedule K-1 Income <25% Ownership (03/04/2026)",
+    "pdf_page": 379,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.4, Other Sources of Income"
+    ]
+  },
+  {
+    "title": "Section B3-3.5, Self-Employment Income",
+    "pdf_page": 380,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment"
+    ]
+  },
+  {
+    "title": "B3-3.5-01, Underwriting Factors and Documentation for a Self-Employed Borrower (12/13/2023)",
+    "pdf_page": 380,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.5, Self-Employment Income"
+    ]
+  },
+  {
+    "title": "B3-3.5-02, Business Structures (12/16/2014)",
+    "pdf_page": 385,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.5, Self-Employment Income"
+    ]
+  },
+  {
+    "title": "B3-3.5-03, IRS Forms Quick Reference (12/16/2020)",
+    "pdf_page": 389,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.5, Self-Employment Income"
+    ]
+  },
+  {
+    "title": "Section B3-3.6, Self-Employment Documentation Requirements for an Individual",
+    "pdf_page": 391,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment"
+    ]
+  },
+  {
+    "title": "B3-3.6-01, General Information on Analyzing Individual Tax Returns (06/05/2019)",
+    "pdf_page": 391,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.6, Self-Employment Documentation Requirements for an Individual"
+    ]
+  },
+  {
+    "title": "B3-3.6-02, Income Reported on IRS Form 1040 (05/15/2012)",
+    "pdf_page": 392,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.6, Self-Employment Documentation Requirements for an Individual"
+    ]
+  },
+  {
+    "title": "B3-3.6-03, Income or Loss Reported on IRS Form 1040, Schedule C (04/01/2009)",
+    "pdf_page": 394,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.6, Self-Employment Documentation Requirements for an Individual"
+    ]
+  },
+  {
+    "title": "B3-3.6-04, Income or Loss Reported on IRS Form 1040, Schedule D (11/13/2012)",
+    "pdf_page": 395,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.6, Self-Employment Documentation Requirements for an Individual"
+    ]
+  },
+  {
+    "title": "B3-3.6-05, Income or Loss Reported on IRS Form 1040, Schedule E (09/30/2014)",
+    "pdf_page": 396,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.6, Self-Employment Documentation Requirements for an Individual"
+    ]
+  },
+  {
+    "title": "B3-3.6-06, Income or Loss Reported on IRS Form 1040, Schedule F (04/01/2009)",
+    "pdf_page": 397,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.6, Self-Employment Documentation Requirements for an Individual"
+    ]
+  },
+  {
+    "title": "B3-3.6-07, Income or Loss Reported on IRS Form 1065 or IRS Form 1120S, Schedule K-1 (05/07/2025)",
+    "pdf_page": 398,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.6, Self-Employment Documentation Requirements for an Individual"
+    ]
+  },
+  {
+    "title": "Section B3-3.7, Self-Employment Documentation Requirements for a Business",
+    "pdf_page": 400,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment"
+    ]
+  },
+  {
+    "title": "B3-3.7-01, Analyzing Partnership Returns for a Partnership or LLC (02/07/2024)",
+    "pdf_page": 400,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.7, Self-Employment Documentation Requirements for a Business"
+    ]
+  },
+  {
+    "title": "B3-3.7-02, Analyzing Returns for an S Corporation (02/07/2024)",
+    "pdf_page": 402,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.7, Self-Employment Documentation Requirements for a Business"
+    ]
+  },
+  {
+    "title": "B3-3.7-03, Analyzing Returns for a Corporation (06/05/2019)",
+    "pdf_page": 405,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.7, Self-Employment Documentation Requirements for a Business"
+    ]
+  },
+  {
+    "title": "B3-3.7-04, Analyzing Profit and Loss Statements (04/01/2009)",
+    "pdf_page": 406,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.7, Self-Employment Documentation Requirements for a Business"
+    ]
+  },
+  {
+    "title": "Section B3-3.8, Rental Income",
+    "pdf_page": 407,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment"
+    ]
+  },
+  {
+    "title": "B3-3.8-01, General Rental Income Information (09/02/2026)",
+    "pdf_page": 407,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.8, Rental Income"
+    ]
+  },
+  {
+    "title": "B3-3.8-02, Rental Income from the Subject Property (09/02/2026)",
+    "pdf_page": 412,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.8, Rental Income"
+    ]
+  },
+  {
+    "title": "B3-3.8-03, Rental Income from the Subject Property: Short-Term Rental (09/02/2026)",
+    "pdf_page": 416,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.8, Rental Income"
+    ]
+  },
+  {
+    "title": "B3-3.8-04, Rental Income from Non-Subject Property (09/02/2026)",
+    "pdf_page": 419,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.8, Rental Income"
+    ]
+  },
+  {
+    "title": "B3-3.8-05, Rental Income from Non-Subject Property: Departing Residence (09/02/2026)",
+    "pdf_page": 422,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.8, Rental Income"
+    ]
+  },
+  {
+    "title": "B3-3.8-06, Rental Income from Non-Subject Property: Investment Properties Purchased within 45 Days of the Subject Property (09/02/2026)",
+    "pdf_page": 425,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-3, Income Assessment",
+      "Section B3-3.8, Rental Income"
+    ]
+  },
+  {
+    "title": "Chapter B3-4, Asset Assessment",
+    "pdf_page": 427,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers"
+    ]
+  },
+  {
+    "title": "Section B3-4.1, General Asset Requirements",
+    "pdf_page": 427,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment"
+    ]
+  },
+  {
+    "title": "B3-4.1-01, Minimum Reserve Requirements (08/07/2024)",
+    "pdf_page": 427,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.1, General Asset Requirements"
+    ]
+  },
+  {
+    "title": "B3-4.1-02, Interested Party Contributions (IPCs) (05/07/2025)",
+    "pdf_page": 433,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.1, General Asset Requirements"
+    ]
+  },
+  {
+    "title": "B3-4.1-03, Lender Incentives (07/02/2025)",
+    "pdf_page": 437,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.1, General Asset Requirements"
+    ]
+  },
+  {
+    "title": "B3-4.1-04, Virtual Currency (05/04/2022)",
+    "pdf_page": 438,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.1, General Asset Requirements"
+    ]
+  },
+  {
+    "title": "Section B3-4.2, Verification of Depository Assets",
+    "pdf_page": 439,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment"
+    ]
+  },
+  {
+    "title": "B3-4.2-01, Verification of Deposits and Assets (05/04/2022)",
+    "pdf_page": 439,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.2, Verification of Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.2-02, Depository Accounts (12/14/2022)",
+    "pdf_page": 442,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.2, Verification of Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.2-03, Individual Development Accounts (02/06/2019)",
+    "pdf_page": 445,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.2, Verification of Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.2-04, Pooled Savings (Community Savings Funds) (04/01/2009)",
+    "pdf_page": 448,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.2, Verification of Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.2-05, Foreign Assets (05/04/2022)",
+    "pdf_page": 448,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.2, Verification of Depository Assets"
+    ]
+  },
+  {
+    "title": "Section B3-4.3, Verification of Non-Depository Assets",
+    "pdf_page": 449,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment"
+    ]
+  },
+  {
+    "title": "B3-4.3-01, Stocks, Stock Options, Bonds, and Mutual Funds (06/30/2015)",
+    "pdf_page": 449,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-02, Trust Accounts (04/01/2009)",
+    "pdf_page": 450,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-03, Retirement Accounts (06/30/2015)",
+    "pdf_page": 451,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-04, Personal Gifts (02/04/2026)",
+    "pdf_page": 452,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-05, Gifts of Equity (10/07/2020)",
+    "pdf_page": 455,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-06, Grants and Lender Contributions (05/07/2025)",
+    "pdf_page": 456,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-07, Disaster Relief Grants or Loans (04/01/2009)",
+    "pdf_page": 459,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-08, Employer Assistance (09/29/2015)",
+    "pdf_page": 460,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-09, Earnest Money Deposit (05/04/2022)",
+    "pdf_page": 462,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-10, Anticipated Sales Proceeds (02/23/2016)",
+    "pdf_page": 463,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-11, Trade Equity (12/16/2020)",
+    "pdf_page": 464,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-12, Rent-Related Credits (08/07/2024)",
+    "pdf_page": 466,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-13, Sweat Equity (04/15/2014)",
+    "pdf_page": 467,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-14, Bridge/Swing Loans (04/01/2009)",
+    "pdf_page": 468,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-15, Borrowed Funds Secured by an Asset (10/30/2009)",
+    "pdf_page": 468,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-16, Credit Card Financing and Reward Points (08/04/2021)",
+    "pdf_page": 469,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-17, Personal Unsecured Loans (09/20/2010)",
+    "pdf_page": 471,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-18, Sale of Personal Assets (12/16/2020)",
+    "pdf_page": 471,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-19, Cash Value of Life Insurance (05/27/2014)",
+    "pdf_page": 472,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-20, Anticipated Savings and Cash-on-Hand (04/01/2009)",
+    "pdf_page": 473,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "B3-4.3-21, Borrower's Earned Real Estate Commission (04/05/2023)",
+    "pdf_page": 474,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.3, Verification of Non-Depository Assets"
+    ]
+  },
+  {
+    "title": "Section B3-4.4, DU Requirements for Asset Assessment",
+    "pdf_page": 475,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment"
+    ]
+  },
+  {
+    "title": "B3-4.4-01, DU Asset Verification (12/16/2020)",
+    "pdf_page": 475,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.4, DU Requirements for Asset Assessment"
+    ]
+  },
+  {
+    "title": "B3-4.4-02, Requirements for Certain Assets in DU (06/01/2022)",
+    "pdf_page": 477,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-4, Asset Assessment",
+      "Section B3-4.4, DU Requirements for Asset Assessment"
+    ]
+  },
+  {
+    "title": "Chapter B3-5, Credit Assessment",
+    "pdf_page": 480,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers"
+    ]
+  },
+  {
+    "title": "Section B3-5.1, Credit Scores",
+    "pdf_page": 480,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment"
+    ]
+  },
+  {
+    "title": "B3-5.1-01, General Requirements for Credit Scores (04/22/2026)",
+    "pdf_page": 480,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.1, Credit Scores"
+    ]
+  },
+  {
+    "title": "B3-5.1-02, Determining the Credit Score for a Mortgage Loan (04/22/2026)",
+    "pdf_page": 484,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.1, Credit Scores"
+    ]
+  },
+  {
+    "title": "Section B3-5.2, Credit Reports",
+    "pdf_page": 486,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment"
+    ]
+  },
+  {
+    "title": "B3-5.2-01, Requirements for Credit Reports (11/05/2025)",
+    "pdf_page": 486,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.2, Credit Reports"
+    ]
+  },
+  {
+    "title": "B3-5.2-02, Types of Credit Reports (11/05/2025)",
+    "pdf_page": 490,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.2, Credit Reports"
+    ]
+  },
+  {
+    "title": "B3-5.2-03, Accuracy of Credit Information in a Credit Report (07/25/2017)",
+    "pdf_page": 492,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.2, Credit Reports"
+    ]
+  },
+  {
+    "title": "Section B3-5.3, Traditional Credit History",
+    "pdf_page": 493,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment"
+    ]
+  },
+  {
+    "title": "B3-5.3-01, Number and Age of Accounts (04/01/2009)",
+    "pdf_page": 493,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.3, Traditional Credit History"
+    ]
+  },
+  {
+    "title": "B3-5.3-02, Payment History (04/01/2009)",
+    "pdf_page": 494,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.3, Traditional Credit History"
+    ]
+  },
+  {
+    "title": "B3-5.3-03, Previous Mortgage Payment History (07/25/2017)",
+    "pdf_page": 494,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.3, Traditional Credit History"
+    ]
+  },
+  {
+    "title": "B3-5.3-04, Inquiries: Recent Attempts to Obtain New Credit (04/01/2009)",
+    "pdf_page": 496,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.3, Traditional Credit History"
+    ]
+  },
+  {
+    "title": "B3-5.3-05, Credit Utilization (05/31/2016)",
+    "pdf_page": 497,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.3, Traditional Credit History"
+    ]
+  },
+  {
+    "title": "B3-5.3-06, Authorized Users of Credit (10/30/2009)",
+    "pdf_page": 497,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.3, Traditional Credit History"
+    ]
+  },
+  {
+    "title": "B3-5.3-07, Significant Derogatory Credit Events - Waiting Periods and Re-establishing Credit (08/07/2019)",
+    "pdf_page": 498,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.3, Traditional Credit History"
+    ]
+  },
+  {
+    "title": "B3-5.3-08, Extenuating Circumstances for Derogatory Credit (12/16/2014)",
+    "pdf_page": 504,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.3, Traditional Credit History"
+    ]
+  },
+  {
+    "title": "B3-5.3-09, DU Credit Report Analysis (08/05/2026)",
+    "pdf_page": 505,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.3, Traditional Credit History"
+    ]
+  },
+  {
+    "title": "Section B3-5.4, Nontraditional Credit History",
+    "pdf_page": 513,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment"
+    ]
+  },
+  {
+    "title": "B3-5.4-01, Eligibility Requirements for Loans with Nontraditional Credit (11/05/2025)",
+    "pdf_page": 514,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.4, Nontraditional Credit History"
+    ]
+  },
+  {
+    "title": "B3-5.4-02, Number and Types of Nontraditional Credit References (02/04/2026)",
+    "pdf_page": 516,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.4, Nontraditional Credit History"
+    ]
+  },
+  {
+    "title": "B3-5.4-03, Documentation and Assessment of a Nontraditional Credit History (02/07/2024)",
+    "pdf_page": 519,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-5, Credit Assessment",
+      "Section B3-5.4, Nontraditional Credit History"
+    ]
+  },
+  {
+    "title": "Chapter B3-6, Liability Assessment",
+    "pdf_page": 522,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers"
+    ]
+  },
+  {
+    "title": "B3-6-01, General Information on Liabilities (05/04/2022)",
+    "pdf_page": 522,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-6, Liability Assessment"
+    ]
+  },
+  {
+    "title": "B3-6-02, Debt-to-Income Ratios (04/02/2025)",
+    "pdf_page": 524,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-6, Liability Assessment"
+    ]
+  },
+  {
+    "title": "B3-6-03, Monthly Housing Expense for the Subject Property (12/16/2020)",
+    "pdf_page": 528,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-6, Liability Assessment"
+    ]
+  },
+  {
+    "title": "B3-6-04, Qualifying Payment Requirements (02/07/2024)",
+    "pdf_page": 530,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-6, Liability Assessment"
+    ]
+  },
+  {
+    "title": "B3-6-05, Monthly Debt Obligations (08/05/2026)",
+    "pdf_page": 533,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-6, Liability Assessment"
+    ]
+  },
+  {
+    "title": "B3-6-06, Qualifying Impact of Other Real Estate Owned (09/02/2026)",
+    "pdf_page": 539,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-6, Liability Assessment"
+    ]
+  },
+  {
+    "title": "B3-6-07, Debts Paid Off At or Prior to Closing (04/05/2023)",
+    "pdf_page": 541,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-6, Liability Assessment"
+    ]
+  },
+  {
+    "title": "B3-6-08, DU: Requirements for Liability Assessment (01/27/2015)",
+    "pdf_page": 543,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B3, Underwriting Borrowers",
+      "Chapter B3-6, Liability Assessment"
+    ]
+  },
+  {
+    "title": "Subpart B4, Underwriting Property",
+    "pdf_page": 544,
+    "level": 1,
+    "ancestors": [
+      "Part B, Origination Through Closing"
+    ]
+  },
+  {
+    "title": "Chapter B4-1, Property Assessment and Valuation",
+    "pdf_page": 544,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property"
+    ]
+  },
+  {
+    "title": "Section B4-1.1, General Appraisal Requirements",
+    "pdf_page": 545,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation"
+    ]
+  },
+  {
+    "title": "B4-1.1-01, Definition of Market Value (06/04/2025)",
+    "pdf_page": 545,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.1, General Appraisal Requirements"
+    ]
+  },
+  {
+    "title": "B4-1.1-02, Lender Responsibilities (06/04/2025)",
+    "pdf_page": 546,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.1, General Appraisal Requirements"
+    ]
+  },
+  {
+    "title": "B4-1.1-03, Appraiser Selection Criteria (06/04/2025)",
+    "pdf_page": 548,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.1, General Appraisal Requirements"
+    ]
+  },
+  {
+    "title": "B4-1.1-04, Unacceptable Appraisal Practices (06/04/2025)",
+    "pdf_page": 552,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.1, General Appraisal Requirements"
+    ]
+  },
+  {
+    "title": "B4-1.1-05, Disclosure of Information to Appraisers (06/04/2025)",
+    "pdf_page": 554,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.1, General Appraisal Requirements"
+    ]
+  },
+  {
+    "title": "B4-1.1-06, Uniform Appraisal Dataset (UAD) and the Uniform Collateral Data Portal (UCDP) (06/04/2025)",
+    "pdf_page": 555,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.1, General Appraisal Requirements"
+    ]
+  },
+  {
+    "title": "Section B4-1.2, Documentation Standards",
+    "pdf_page": 557,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation"
+    ]
+  },
+  {
+    "title": "B4-1.2-01, Appraisal Report Forms and Exhibits (09/03/2025)",
+    "pdf_page": 557,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.2, Documentation Standards"
+    ]
+  },
+  {
+    "title": "B4-1.2-02, Desktop Appraisals (12/10/2025)",
+    "pdf_page": 564,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.2, Documentation Standards"
+    ]
+  },
+  {
+    "title": "B4-1.2-03, Hybrid Appraisals (12/10/2025)",
+    "pdf_page": 567,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.2, Documentation Standards"
+    ]
+  },
+  {
+    "title": "B4-1.2-04, Appraisal Age and Use Requirements (06/04/2025)",
+    "pdf_page": 570,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.2, Documentation Standards"
+    ]
+  },
+  {
+    "title": "B4-1.2-05, Requirements for Verifying Completion and Postponed Improvements (12/10/2025)",
+    "pdf_page": 572,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.2, Documentation Standards"
+    ]
+  },
+  {
+    "title": "Section B4-1.3, Appraisal Report Assessment",
+    "pdf_page": 579,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation"
+    ]
+  },
+  {
+    "title": "B4-1.3-01, Review of the Appraisal Report (06/04/2025)",
+    "pdf_page": 580,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.3, Appraisal Report Assessment"
+    ]
+  },
+  {
+    "title": "B4-1.3-02, Subject and Contract Sections of the Appraisal Report (06/04/2025)",
+    "pdf_page": 581,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.3, Appraisal Report Assessment"
+    ]
+  },
+  {
+    "title": "B4-1.3-03, Neighborhood Section of the Appraisal Report (06/04/2025)",
+    "pdf_page": 583,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.3, Appraisal Report Assessment"
+    ]
+  },
+  {
+    "title": "B4-1.3-04, Site Section of the Appraisal Report (06/04/2025)",
+    "pdf_page": 588,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.3, Appraisal Report Assessment"
+    ]
+  },
+  {
+    "title": "B4-1.3-05, Improvements Section of the Appraisal Report (06/04/2025)",
+    "pdf_page": 591,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.3, Appraisal Report Assessment"
+    ]
+  },
+  {
+    "title": "B4-1.3-06, Property Condition and Quality of Construction of the Improvements (06/04/2025)",
+    "pdf_page": 598,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.3, Appraisal Report Assessment"
+    ]
+  },
+  {
+    "title": "B4-1.3-07, Sales Comparison Approach Section of the Appraisal Report (06/04/2025)",
+    "pdf_page": 606,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.3, Appraisal Report Assessment"
+    ]
+  },
+  {
+    "title": "B4-1.3-08, Comparable Sales (06/04/2025)",
+    "pdf_page": 608,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.3, Appraisal Report Assessment"
+    ]
+  },
+  {
+    "title": "B4-1.3-09, Adjustments to Comparable Sales (06/04/2025)",
+    "pdf_page": 612,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.3, Appraisal Report Assessment"
+    ]
+  },
+  {
+    "title": "B4-1.3-10, Cost and Income Approach to Value (06/04/2025)",
+    "pdf_page": 615,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.3, Appraisal Report Assessment"
+    ]
+  },
+  {
+    "title": "B4-1.3-11, Valuation Analysis and Reconciliation (06/04/2025)",
+    "pdf_page": 617,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.3, Appraisal Report Assessment"
+    ]
+  },
+  {
+    "title": "B4-1.3-12, Appraisal Quality Matters (09/03/2025)",
+    "pdf_page": 618,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.3, Appraisal Report Assessment"
+    ]
+  },
+  {
+    "title": "Section B4-1.4, Special Appraisal and Other Valuation Considerations",
+    "pdf_page": 622,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation"
+    ]
+  },
+  {
+    "title": "B4-1.4-01, Factory-Built Housing: Manufactured Housing (02/04/2026)",
+    "pdf_page": 622,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.4, Special Appraisal and Other Valuation Considerations"
+    ]
+  },
+  {
+    "title": "B4-1.4-02, Factory-Built Housing: Modular, Prefabricated, Panelized, or Sectional Housing (10/06/2021)",
+    "pdf_page": 627,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.4, Special Appraisal and Other Valuation Considerations"
+    ]
+  },
+  {
+    "title": "B4-1.4-03, Condo Appraisal Requirements (04/15/2014)",
+    "pdf_page": 629,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.4, Special Appraisal and Other Valuation Considerations"
+    ]
+  },
+  {
+    "title": "B4-1.4-04, Co-op Appraisal Requirements (04/15/2014)",
+    "pdf_page": 629,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.4, Special Appraisal and Other Valuation Considerations"
+    ]
+  },
+  {
+    "title": "B4-1.4-05, Leasehold Interests Appraisal Requirements (06/04/2025)",
+    "pdf_page": 632,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.4, Special Appraisal and Other Valuation Considerations"
+    ]
+  },
+  {
+    "title": "B4-1.4-06, Community Land Trust Appraisal Requirements (06/04/2025)",
+    "pdf_page": 634,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.4, Special Appraisal and Other Valuation Considerations"
+    ]
+  },
+  {
+    "title": "B4-1.4-07, Mixed-Use Property Appraisal Requirements (06/04/2025)",
+    "pdf_page": 637,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.4, Special Appraisal and Other Valuation Considerations"
+    ]
+  },
+  {
+    "title": "B4-1.4-08, Environmental Hazards Appraisal Requirements (06/04/2025)",
+    "pdf_page": 638,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.4, Special Appraisal and Other Valuation Considerations"
+    ]
+  },
+  {
+    "title": "B4-1.4-09, Special Assessment or Community Facilities Districts Appraisal Requirements (06/04/2025)",
+    "pdf_page": 640,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.4, Special Appraisal and Other Valuation Considerations"
+    ]
+  },
+  {
+    "title": "B4-1.4-10, Value Acceptance (06/03/2026)",
+    "pdf_page": 642,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.4, Special Appraisal and Other Valuation Considerations"
+    ]
+  },
+  {
+    "title": "B4-1.4-11, Value Acceptance + Property Data (12/10/2025)",
+    "pdf_page": 645,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-1, Property Assessment and Valuation",
+      "Section B4-1.4, Special Appraisal and Other Valuation Considerations"
+    ]
+  },
+  {
+    "title": "Chapter B4-2, Project Standards",
+    "pdf_page": 649,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property"
+    ]
+  },
+  {
+    "title": "Section B4-2.1, General Project Standards",
+    "pdf_page": 649,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards"
+    ]
+  },
+  {
+    "title": "B4-2.1-01, General Information on Project Standards (08/05/2026)",
+    "pdf_page": 649,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.1, General Project Standards"
+    ]
+  },
+  {
+    "title": "B4-2.1-02, Waiver of Project Review (08/05/2026)",
+    "pdf_page": 660,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.1, General Project Standards"
+    ]
+  },
+  {
+    "title": "B4-2.1-03, Ineligible Projects (08/05/2026)",
+    "pdf_page": 662,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.1, General Project Standards"
+    ]
+  },
+  {
+    "title": "B4-2.1-04, Environmental Hazard Assessments (06/03/2020)",
+    "pdf_page": 676,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.1, General Project Standards"
+    ]
+  },
+  {
+    "title": "B4-2.1-05, Unacceptable Environmental Hazards (06/03/2020)",
+    "pdf_page": 679,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.1, General Project Standards"
+    ]
+  },
+  {
+    "title": "B4-2.1-06, Remedial Actions for Environmental Hazard Assessments Below Standards (06/03/2020)",
+    "pdf_page": 682,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.1, General Project Standards"
+    ]
+  },
+  {
+    "title": "Section B4-2.2, Project Eligibility",
+    "pdf_page": 684,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards"
+    ]
+  },
+  {
+    "title": "B4-2.2-01, Full Review Process (08/05/2026)",
+    "pdf_page": 684,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.2, Project Eligibility"
+    ]
+  },
+  {
+    "title": "B4-2.2-02, Full Review: Additional Eligibility Requirements for Units in New and Newly Converted Condo Projects (08/05/2026)",
+    "pdf_page": 693,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.2, Project Eligibility"
+    ]
+  },
+  {
+    "title": "B4-2.2-03, FHA-Approved Condo Review Eligibility (09/04/2018)",
+    "pdf_page": 697,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.2, Project Eligibility"
+    ]
+  },
+  {
+    "title": "B4-2.2-04, Project Eligibility Review Service (PERS) (08/05/2026)",
+    "pdf_page": 699,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.2, Project Eligibility"
+    ]
+  },
+  {
+    "title": "B4-2.2-05, Projects with Special Considerations (08/06/2025)",
+    "pdf_page": 708,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.2, Project Eligibility"
+    ]
+  },
+  {
+    "title": "Section B4-2.3, PUD and Co-op Eligibility Requirements",
+    "pdf_page": 708,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards"
+    ]
+  },
+  {
+    "title": "B4-2.3-01, Eligibility Requirements for Units in PUD Projects (08/05/2026)",
+    "pdf_page": 708,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.3, PUD and Co-op Eligibility Requirements"
+    ]
+  },
+  {
+    "title": "B4-2.3-02, Co-op Project Eligibility (05/06/2026)",
+    "pdf_page": 710,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.3, PUD and Co-op Eligibility Requirements"
+    ]
+  },
+  {
+    "title": "B4-2.3-03, Legal Requirements for Co-op Projects (11/06/2024)",
+    "pdf_page": 717,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.3, PUD and Co-op Eligibility Requirements"
+    ]
+  },
+  {
+    "title": "B4-2.3-04, Loan Eligibility for Co-op Share Loans (08/06/2025)",
+    "pdf_page": 720,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B4, Underwriting Property",
+      "Chapter B4-2, Project Standards",
+      "Section B4-2.3, PUD and Co-op Eligibility Requirements"
+    ]
+  },
+  {
+    "title": "Subpart B5, Unique Eligibility and Underwriting Considerations",
+    "pdf_page": 723,
+    "level": 1,
+    "ancestors": [
+      "Part B, Origination Through Closing"
+    ]
+  },
+  {
+    "title": "Chapter B5-1, High-Balance Mortgage Loans",
+    "pdf_page": 723,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations"
+    ]
+  },
+  {
+    "title": "B5-1-01, High-Balance Mortgage Loan Eligibility and Underwriting (07/02/2025)",
+    "pdf_page": 723,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-1, High-Balance Mortgage Loans"
+    ]
+  },
+  {
+    "title": "B5-1-02, High-Balance Pricing, Mortgage Insurance, Special Feature Codes, and Delivery Limitations (02/01/2023)",
+    "pdf_page": 725,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-1, High-Balance Mortgage Loans"
+    ]
+  },
+  {
+    "title": "Chapter B5-2, Manufactured Housing",
+    "pdf_page": 726,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations"
+    ]
+  },
+  {
+    "title": "B5-2-01, Manufactured Housing (11/06/2024)",
+    "pdf_page": 726,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-2, Manufactured Housing"
+    ]
+  },
+  {
+    "title": "B5-2-02, Manufactured Housing Loan Eligibility (12/10/2025)",
+    "pdf_page": 728,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-2, Manufactured Housing"
+    ]
+  },
+  {
+    "title": "B5-2-03, Manufactured Housing Underwriting Requirements (10/08/2025)",
+    "pdf_page": 729,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-2, Manufactured Housing"
+    ]
+  },
+  {
+    "title": "B5-2-04, Manufactured Housing Pricing, Mortgage Insurance, and Loan Delivery Requirements (12/10/2025)",
+    "pdf_page": 735,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-2, Manufactured Housing"
+    ]
+  },
+  {
+    "title": "B5-2-05, Manufactured Housing Legal Considerations (12/10/2025)",
+    "pdf_page": 737,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-2, Manufactured Housing"
+    ]
+  },
+  {
+    "title": "Chapter B5-3, Construction and Energy Financing",
+    "pdf_page": 743,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations"
+    ]
+  },
+  {
+    "title": "Section B5-3.1, Conversion of Construction-to-Permanent Financing",
+    "pdf_page": 743,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing"
+    ]
+  },
+  {
+    "title": "B5-3.1-01, Conversion of Construction-to-Permanent Financing: Overview (06/04/2025)",
+    "pdf_page": 743,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing",
+      "Section B5-3.1, Conversion of Construction-to-Permanent Financing"
+    ]
+  },
+  {
+    "title": "B5-3.1-02, Conversion of Construction-to-Permanent Financing: Single-Closing Transactions (05/06/2026)",
+    "pdf_page": 744,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing",
+      "Section B5-3.1, Conversion of Construction-to-Permanent Financing"
+    ]
+  },
+  {
+    "title": "B5-3.1-03, Conversion of Construction-to-Permanent Financing: Two-Closing Transactions (08/07/2019)",
+    "pdf_page": 751,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing",
+      "Section B5-3.1, Conversion of Construction-to-Permanent Financing"
+    ]
+  },
+  {
+    "title": "Section B5-3.2, HomeStyle Renovation Mortgage",
+    "pdf_page": 752,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing"
+    ]
+  },
+  {
+    "title": "B5-3.2-01, HomeStyle Renovation Mortgages (12/10/2025)",
+    "pdf_page": 753,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing",
+      "Section B5-3.2, HomeStyle Renovation Mortgage"
+    ]
+  },
+  {
+    "title": "B5-3.2-02, HomeStyle Renovation Mortgages: Loan and Borrower Eligibility (12/10/2025)",
+    "pdf_page": 756,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing",
+      "Section B5-3.2, HomeStyle Renovation Mortgage"
+    ]
+  },
+  {
+    "title": "B5-3.2-03, HomeStyle Renovation Mortgages: Collateral Considerations (12/10/2025)",
+    "pdf_page": 760,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing",
+      "Section B5-3.2, HomeStyle Renovation Mortgage"
+    ]
+  },
+  {
+    "title": "B5-3.2-04, HomeStyle Renovation Mortgages: Costs and Escrow Accounts (12/10/2025)",
+    "pdf_page": 762,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing",
+      "Section B5-3.2, HomeStyle Renovation Mortgage"
+    ]
+  },
+  {
+    "title": "B5-3.2-05, HomeStyle Renovation Mortgages: Completion Certification (08/05/2026)",
+    "pdf_page": 765,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing",
+      "Section B5-3.2, HomeStyle Renovation Mortgage"
+    ]
+  },
+  {
+    "title": "B5-3.2-06, HomeStyle Renovation: Renovation Contract, Renovation Loan Agreement, and Lien Waiver (12/11/2024)",
+    "pdf_page": 766,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing",
+      "Section B5-3.2, HomeStyle Renovation Mortgage"
+    ]
+  },
+  {
+    "title": "Section B5-3.3, HomeStyle Refresh Mortgages",
+    "pdf_page": 769,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing"
+    ]
+  },
+  {
+    "title": "B5-3.3-01, HomeStyle Refresh for Improvements on Existing Properties (08/05/2026)",
+    "pdf_page": 769,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing",
+      "Section B5-3.3, HomeStyle Refresh Mortgages"
+    ]
+  },
+  {
+    "title": "Section B5-3.4, Property Assessed Clean Energy Loans",
+    "pdf_page": 774,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing"
+    ]
+  },
+  {
+    "title": "B5-3.4-01, Property Assessed Clean Energy Loans (10/08/2025)",
+    "pdf_page": 775,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-3, Construction and Energy Financing",
+      "Section B5-3.4, Property Assessed Clean Energy Loans"
+    ]
+  },
+  {
+    "title": "Chapter B5-4, Property-Specific Products",
+    "pdf_page": 776,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations"
+    ]
+  },
+  {
+    "title": "Section B5-4.1, General Requirements of Texas Section 50(a)(6) Loans",
+    "pdf_page": 777,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-4, Property-Specific Products"
+    ]
+  },
+  {
+    "title": "B5-4.1-01, Texas Section 50(a)(6) Loans (12/19/2017)",
+    "pdf_page": 777,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-4, Property-Specific Products",
+      "Section B5-4.1, General Requirements of Texas Section 50(a)(6) Loans"
+    ]
+  },
+  {
+    "title": "B5-4.1-02, Texas Section 50(a)(6) Loan Eligibility (12/16/2020)",
+    "pdf_page": 779,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-4, Property-Specific Products",
+      "Section B5-4.1, General Requirements of Texas Section 50(a)(6) Loans"
+    ]
+  },
+  {
+    "title": "B5-4.1-03, Texas Section 50(a)(6) Loan Underwriting, Collateral, and Closing Considerations (03/04/2026)",
+    "pdf_page": 782,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-4, Property-Specific Products",
+      "Section B5-4.1, General Requirements of Texas Section 50(a)(6) Loans"
+    ]
+  },
+  {
+    "title": "B5-4.1-04, Texas Section 50(a)(6) Loan Delivery and Servicing Considerations (12/19/2017)",
+    "pdf_page": 784,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-4, Property-Specific Products",
+      "Section B5-4.1, General Requirements of Texas Section 50(a)(6) Loans"
+    ]
+  },
+  {
+    "title": "Section B5-4.2, Other Property-Specific Products",
+    "pdf_page": 785,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-4, Property-Specific Products"
+    ]
+  },
+  {
+    "title": "B5-4.2-01, Native American Conventional Lending Initiative (NACLI) (09/02/2026)",
+    "pdf_page": 786,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-4, Property-Specific Products",
+      "Section B5-4.2, Other Property-Specific Products"
+    ]
+  },
+  {
+    "title": "B5-4.2-02, Disaster-Related Limited Cash-Out Refinance Flexibilities (10/08/2025)",
+    "pdf_page": 787,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-4, Property-Specific Products",
+      "Section B5-4.2, Other Property-Specific Products"
+    ]
+  },
+  {
+    "title": "B5-4.2-03, Loans Secured by HomePath Properties (05/07/2025)",
+    "pdf_page": 790,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-4, Property-Specific Products",
+      "Section B5-4.2, Other Property-Specific Products"
+    ]
+  },
+  {
+    "title": "Chapter B5-5, Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions",
+    "pdf_page": 792,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations"
+    ]
+  },
+  {
+    "title": "Section B5-5.1, Community Seconds",
+    "pdf_page": 792,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-5, Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions"
+    ]
+  },
+  {
+    "title": "B5-5.1-01, Community Seconds Loans (05/03/2023)",
+    "pdf_page": 792,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-5, Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions",
+      "Section B5-5.1, Community Seconds"
+    ]
+  },
+  {
+    "title": "B5-5.1-02, Community Seconds Loan Eligibility (05/03/2023)",
+    "pdf_page": 793,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-5, Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions",
+      "Section B5-5.1, Community Seconds"
+    ]
+  },
+  {
+    "title": "B5-5.1-03, Community Seconds: Shared Appreciation Transactions (11/01/2023)",
+    "pdf_page": 798,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-5, Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions",
+      "Section B5-5.1, Community Seconds"
+    ]
+  },
+  {
+    "title": "Section B5-5.2, Loans with Resale Restrictions",
+    "pdf_page": 802,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-5, Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions"
+    ]
+  },
+  {
+    "title": "B5-5.2-01, Loans With Resale Restrictions: General Information (05/03/2023)",
+    "pdf_page": 802,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-5, Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions",
+      "Section B5-5.2, Loans with Resale Restrictions"
+    ]
+  },
+  {
+    "title": "B5-5.2-02, Loans with Resale Restrictions: Eligibility, Collateral and Delivery Requirements (08/05/2026)",
+    "pdf_page": 803,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-5, Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions",
+      "Section B5-5.2, Loans with Resale Restrictions"
+    ]
+  },
+  {
+    "title": "Section B5-5.3, Shared Equity Transactions",
+    "pdf_page": 805,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-5, Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions"
+    ]
+  },
+  {
+    "title": "B5-5.3-01, Shared Equity Overview (02/05/2025)",
+    "pdf_page": 806,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-5, Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions",
+      "Section B5-5.3, Shared Equity Transactions"
+    ]
+  },
+  {
+    "title": "B5-5.3-02, Shared Equity Transactions: General Requirements (02/05/2025)",
+    "pdf_page": 807,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-5, Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions",
+      "Section B5-5.3, Shared Equity Transactions"
+    ]
+  },
+  {
+    "title": "B5-5.3-03, Shared Equity Transactions: Eligibility, Underwriting and Collateral Requirements (02/05/2025)",
+    "pdf_page": 811,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-5, Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions",
+      "Section B5-5.3, Shared Equity Transactions"
+    ]
+  },
+  {
+    "title": "B5-5.3-04, Massachusetts Resale Restriction Loan Eligibility Requirements (05/03/2023)",
+    "pdf_page": 816,
+    "level": 4,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-5, Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions",
+      "Section B5-5.3, Shared Equity Transactions"
+    ]
+  },
+  {
+    "title": "Chapter B5-6, HomeReady Mortgage",
+    "pdf_page": 817,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations"
+    ]
+  },
+  {
+    "title": "B5-6-01, HomeReady Mortgage Loan and Borrower Eligibility (06/04/2025)",
+    "pdf_page": 817,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-6, HomeReady Mortgage"
+    ]
+  },
+  {
+    "title": "B5-6-02, HomeReady Mortgage Underwriting Methods and Requirements (11/05/2025)",
+    "pdf_page": 822,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-6, HomeReady Mortgage"
+    ]
+  },
+  {
+    "title": "B5-6-03, HomeReady Mortgage Loan Pricing, Mortgage Insurance, and Special Feature Codes (06/05/2024)",
+    "pdf_page": 827,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-6, HomeReady Mortgage"
+    ]
+  },
+  {
+    "title": "Chapter B5-7, High Loan-to-Value Refinance Option",
+    "pdf_page": 828,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations"
+    ]
+  },
+  {
+    "title": "B5-7-01, High LTV Refinance Loan and Borrower Eligibility (08/06/2025)",
+    "pdf_page": 828,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-7, High Loan-to-Value Refinance Option"
+    ]
+  },
+  {
+    "title": "B5-7-02, High LTV Refinance Underwriting, Documentation, and Collateral Requirements for the New Loan (09/03/2025)",
+    "pdf_page": 833,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-7, High Loan-to-Value Refinance Option"
+    ]
+  },
+  {
+    "title": "B5-7-03, High LTV Refinance Alternative Qualification Path (06/04/2025)",
+    "pdf_page": 837,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-7, High Loan-to-Value Refinance Option"
+    ]
+  },
+  {
+    "title": "B5-7-04, High LTV Refinance Representations and Warranties (03/01/2023)",
+    "pdf_page": 842,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-7, High Loan-to-Value Refinance Option"
+    ]
+  },
+  {
+    "title": "B5-7-05, High LTV Refinance Pricing, Mortgage Insurance, and Special Feature Codes (08/07/2018)",
+    "pdf_page": 843,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B5, Unique Eligibility and Underwriting Considerations",
+      "Chapter B5-7, High Loan-to-Value Refinance Option"
+    ]
+  },
+  {
+    "title": "Subpart B6, Government Programs Eligibility and Underwriting Requirements",
+    "pdf_page": 845,
+    "level": 1,
+    "ancestors": [
+      "Part B, Origination Through Closing"
+    ]
+  },
+  {
+    "title": "Chapter B6-1, Government Insured and Guaranteed Mortgages",
+    "pdf_page": 846,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B6, Government Programs Eligibility and Underwriting Requirements"
+    ]
+  },
+  {
+    "title": "B6-1-01, General Government Mortgage Loan Requirements (07/05/2023)",
+    "pdf_page": 846,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B6, Government Programs Eligibility and Underwriting Requirements",
+      "Chapter B6-1, Government Insured and Guaranteed Mortgages"
+    ]
+  },
+  {
+    "title": "B6-1-02, Eligible FHA-Insured Mortgage Loans (08/05/2020)",
+    "pdf_page": 849,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B6, Government Programs Eligibility and Underwriting Requirements",
+      "Chapter B6-1, Government Insured and Guaranteed Mortgages"
+    ]
+  },
+  {
+    "title": "B6-1-03, Eligible VA-Guaranteed Mortgages (02/02/2022)",
+    "pdf_page": 850,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B6, Government Programs Eligibility and Underwriting Requirements",
+      "Chapter B6-1, Government Insured and Guaranteed Mortgages"
+    ]
+  },
+  {
+    "title": "B6-1-04, Eligible HUD-Guaranteed Section 184 Mortgages (12/14/2022)",
+    "pdf_page": 851,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B6, Government Programs Eligibility and Underwriting Requirements",
+      "Chapter B6-1, Government Insured and Guaranteed Mortgages"
+    ]
+  },
+  {
+    "title": "B6-1-05, Eligible RD-Guaranteed Mortgages (12/14/2022)",
+    "pdf_page": 853,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B6, Government Programs Eligibility and Underwriting Requirements",
+      "Chapter B6-1, Government Insured and Guaranteed Mortgages"
+    ]
+  },
+  {
+    "title": "Subpart B7, Insurance",
+    "pdf_page": 855,
+    "level": 1,
+    "ancestors": [
+      "Part B, Origination Through Closing"
+    ]
+  },
+  {
+    "title": "Chapter B7-1, Mortgage Insurance/Loan Guaranty",
+    "pdf_page": 855,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance"
+    ]
+  },
+  {
+    "title": "B7-1-01, Provision of Mortgage Insurance (04/02/2025)",
+    "pdf_page": 855,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-1, Mortgage Insurance/Loan Guaranty"
+    ]
+  },
+  {
+    "title": "B7-1-02, Mortgage Insurance Coverage Requirements (08/07/2019)",
+    "pdf_page": 861,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-1, Mortgage Insurance/Loan Guaranty"
+    ]
+  },
+  {
+    "title": "B7-1-03, Lender-Purchased Mortgage Insurance (05/27/2010)",
+    "pdf_page": 862,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-1, Mortgage Insurance/Loan Guaranty"
+    ]
+  },
+  {
+    "title": "B7-1-04, Financed Borrower-Purchased Mortgage Insurance (12/15/2021)",
+    "pdf_page": 864,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-1, Mortgage Insurance/Loan Guaranty"
+    ]
+  },
+  {
+    "title": "B7-1-05, Government Mortgage Loan Guaranty or Insurance (02/23/2016)",
+    "pdf_page": 866,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-1, Mortgage Insurance/Loan Guaranty"
+    ]
+  },
+  {
+    "title": "Chapter B7-2, Title Insurance",
+    "pdf_page": 868,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance"
+    ]
+  },
+  {
+    "title": "B7-2-01, Provision of Title Insurance (04/06/2022)",
+    "pdf_page": 869,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-2, Title Insurance"
+    ]
+  },
+  {
+    "title": "B7-2-02, Title Insurer Requirements (06/05/2019)",
+    "pdf_page": 869,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-2, Title Insurance"
+    ]
+  },
+  {
+    "title": "B7-2-03, General Title Insurance Coverage (07/06/2022)",
+    "pdf_page": 870,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-2, Title Insurance"
+    ]
+  },
+  {
+    "title": "B7-2-04, Special Title Insurance Coverage Considerations (05/03/2023)",
+    "pdf_page": 872,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-2, Title Insurance"
+    ]
+  },
+  {
+    "title": "B7-2-05, Title Exceptions and Impediments (07/06/2022)",
+    "pdf_page": 876,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-2, Title Insurance"
+    ]
+  },
+  {
+    "title": "B7-2-06, Attorney Title Opinion Letter Requirements (12/10/2025)",
+    "pdf_page": 879,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-2, Title Insurance"
+    ]
+  },
+  {
+    "title": "Chapter B7-3, Property and Flood Insurance",
+    "pdf_page": 881,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance"
+    ]
+  },
+  {
+    "title": "B7-3-01, General Property Insurance Requirements for All Property Types (12/14/2022)",
+    "pdf_page": 881,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-3, Property and Flood Insurance"
+    ]
+  },
+  {
+    "title": "B7-3-02, Property Insurance Requirements for One-to Four-Unit Properties (08/05/2026)",
+    "pdf_page": 884,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-3, Property and Flood Insurance"
+    ]
+  },
+  {
+    "title": "B7-3-03, Master Property Insurance Requirements for Project Developments (08/05/2026)",
+    "pdf_page": 886,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-3, Property and Flood Insurance"
+    ]
+  },
+  {
+    "title": "B7-3-04, Property Insurance Requirements for Individual Units in a Project Development (08/05/2026)",
+    "pdf_page": 893,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-3, Property and Flood Insurance"
+    ]
+  },
+  {
+    "title": "B7-3-05, Additional Insurance Requirements (12/14/2022)",
+    "pdf_page": 895,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-3, Property and Flood Insurance"
+    ]
+  },
+  {
+    "title": "B7-3-06, Flood Insurance Requirements for All Property Types (02/07/2024)",
+    "pdf_page": 898,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-3, Property and Flood Insurance"
+    ]
+  },
+  {
+    "title": "B7-3-07, Evidence of Property Insurance (08/05/2026)",
+    "pdf_page": 905,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-3, Property and Flood Insurance"
+    ]
+  },
+  {
+    "title": "B7-3-08, Mortgagee Clause, Named Insured, and Notice of Cancellation Requirements (12/14/2022)",
+    "pdf_page": 908,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-3, Property and Flood Insurance"
+    ]
+  },
+  {
+    "title": "Chapter B7-4, Liability and Fidelity/Crime Insurance Requirements for Project Developments",
+    "pdf_page": 910,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance"
+    ]
+  },
+  {
+    "title": "B7-4-01, General Liability Insurance Requirements for Project Developments (08/05/2026)",
+    "pdf_page": 911,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-4, Liability and Fidelity/Crime Insurance Requirements for Project Developments"
+    ]
+  },
+  {
+    "title": "B7-4-02, Fidelity/Crime Insurance Requirements for Project Developments (08/05/2026)",
+    "pdf_page": 912,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B7, Insurance",
+      "Chapter B7-4, Liability and Fidelity/Crime Insurance Requirements for Project Developments"
+    ]
+  },
+  {
+    "title": "Subpart B8, Closing: Legal Documents",
+    "pdf_page": 914,
+    "level": 1,
+    "ancestors": [
+      "Part B, Origination Through Closing"
+    ]
+  },
+  {
+    "title": "Chapter B8-1, General Information on Legal Documents",
+    "pdf_page": 914,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents"
+    ]
+  },
+  {
+    "title": "B8-1-01, Publication of Legal Documents (06/28/2011)",
+    "pdf_page": 914,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-1, General Information on Legal Documents"
+    ]
+  },
+  {
+    "title": "Chapter B8-2, Security Instruments",
+    "pdf_page": 915,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents"
+    ]
+  },
+  {
+    "title": "B8-2-01, Security Instruments for Conventional Mortgages (02/06/2019)",
+    "pdf_page": 916,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-2, Security Instruments"
+    ]
+  },
+  {
+    "title": "B8-2-02, Special-Purpose Security Instruments (12/10/2025)",
+    "pdf_page": 917,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-2, Security Instruments"
+    ]
+  },
+  {
+    "title": "B8-2-03, Signature Requirements for Security Instruments (10/22/2013)",
+    "pdf_page": 919,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-2, Security Instruments"
+    ]
+  },
+  {
+    "title": "Chapter B8-3, Notes",
+    "pdf_page": 920,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents"
+    ]
+  },
+  {
+    "title": "B8-3-01, Notes for Conventional Mortgages (09/02/2020)",
+    "pdf_page": 921,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-3, Notes"
+    ]
+  },
+  {
+    "title": "B8-3-02, Special Note Provisions and Language Requirements (06/03/2020)",
+    "pdf_page": 922,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-3, Notes"
+    ]
+  },
+  {
+    "title": "B8-3-03, Signature Requirements for Notes (02/07/2024)",
+    "pdf_page": 923,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-3, Notes"
+    ]
+  },
+  {
+    "title": "B8-3-04, Note Endorsement (10/02/2019)",
+    "pdf_page": 924,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-3, Notes"
+    ]
+  },
+  {
+    "title": "Chapter B8-4, Riders and Addenda",
+    "pdf_page": 926,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents"
+    ]
+  },
+  {
+    "title": "B8-4-01, Riders and Addenda (06/05/2018)",
+    "pdf_page": 926,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-4, Riders and Addenda"
+    ]
+  },
+  {
+    "title": "Chapter B8-5, Special-Purpose Legal Documents",
+    "pdf_page": 929,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents"
+    ]
+  },
+  {
+    "title": "B8-5-01, General Information on Special-Purpose Legal Documents (05/01/2019)",
+    "pdf_page": 929,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-5, Special-Purpose Legal Documents"
+    ]
+  },
+  {
+    "title": "B8-5-02, Inter Vivos Revocable Trust Mortgage Documentation and Signature Requirements (10/31/2017)",
+    "pdf_page": 930,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-5, Special-Purpose Legal Documents"
+    ]
+  },
+  {
+    "title": "B8-5-03, HomeStyle Renovation Mortgage Documentation Requirements (06/05/2018)",
+    "pdf_page": 933,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-5, Special-Purpose Legal Documents"
+    ]
+  },
+  {
+    "title": "B8-5-04, Sample Legal Documents (02/05/2025)",
+    "pdf_page": 934,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-5, Special-Purpose Legal Documents"
+    ]
+  },
+  {
+    "title": "B8-5-05, Requirements for Use of a Power of Attorney (10/05/2022)",
+    "pdf_page": 935,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-5, Special-Purpose Legal Documents"
+    ]
+  },
+  {
+    "title": "Chapter B8-6, Mortgage Assignments",
+    "pdf_page": 939,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents"
+    ]
+  },
+  {
+    "title": "B8-6-01, Authorized Use of Intervening and Blanket Assignments (05/04/2022)",
+    "pdf_page": 939,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-6, Mortgage Assignments"
+    ]
+  },
+  {
+    "title": "Chapter B8-7, Mortgage Electronic Registration System (MERS)",
+    "pdf_page": 941,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents"
+    ]
+  },
+  {
+    "title": "B8-7-01, Mortgage Electronic Registration Systems (MERS), Inc. (05/01/2024)",
+    "pdf_page": 941,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-7, Mortgage Electronic Registration System (MERS)"
+    ]
+  },
+  {
+    "title": "Chapter B8-8, Sale of eMortgages to Fannie Mae",
+    "pdf_page": 945,
+    "level": 2,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents"
+    ]
+  },
+  {
+    "title": "B8-8-01, General Information on eMortgages (11/05/2025)",
+    "pdf_page": 945,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-8, Sale of eMortgages to Fannie Mae"
+    ]
+  },
+  {
+    "title": "B8-8-02, Requirements for Creating, Closing, and Correcting eNotes (12/13/2023)",
+    "pdf_page": 948,
+    "level": 3,
+    "ancestors": [
+      "Part B, Origination Through Closing",
+      "Subpart B8, Closing: Legal Documents",
+      "Chapter B8-8, Sale of eMortgages to Fannie Mae"
+    ]
+  },
+  {
+    "title": "Part C, Selling, Securitizing, and Delivering Loans",
+    "pdf_page": 951,
+    "level": 0,
+    "ancestors": []
+  },
+  {
+    "title": "Subpart C1, General Information on Execution Options and Loan Delivery",
+    "pdf_page": 952,
+    "level": 1,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans"
+    ]
+  },
+  {
+    "title": "Chapter C1-1, Execution Options Overview",
+    "pdf_page": 952,
+    "level": 2,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C1, General Information on Execution Options and Loan Delivery"
+    ]
+  },
+  {
+    "title": "C1-1-01, Execution Options (02/05/2025)",
+    "pdf_page": 952,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C1, General Information on Execution Options and Loan Delivery",
+      "Chapter C1-1, Execution Options Overview"
+    ]
+  },
+  {
+    "title": "Chapter C1-2, Loan Delivery Overview",
+    "pdf_page": 956,
+    "level": 2,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C1, General Information on Execution Options and Loan Delivery"
+    ]
+  },
+  {
+    "title": "C1-2-01, General Information on Delivering Loan Data and Documents (05/01/2019)",
+    "pdf_page": 957,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C1, General Information on Execution Options and Loan Delivery",
+      "Chapter C1-2, Loan Delivery Overview"
+    ]
+  },
+  {
+    "title": "C1-2-02, Loan Data and Documentation Delivery Requirements (10/04/2023)",
+    "pdf_page": 958,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C1, General Information on Execution Options and Loan Delivery",
+      "Chapter C1-2, Loan Delivery Overview"
+    ]
+  },
+  {
+    "title": "C1-2-03, Ownership of Mortgage Loans Prior to Purchase or Securitization and Third-Party Security Interests (04/06/2022)",
+    "pdf_page": 961,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C1, General Information on Execution Options and Loan Delivery",
+      "Chapter C1-2, Loan Delivery Overview"
+    ]
+  },
+  {
+    "title": "C1-2-04, Delivering eMortgages to Fannie Mae (12/13/2023)",
+    "pdf_page": 963,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C1, General Information on Execution Options and Loan Delivery",
+      "Chapter C1-2, Loan Delivery Overview"
+    ]
+  },
+  {
+    "title": "C1-2-05, Bailee Letters (04/06/2022)",
+    "pdf_page": 966,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C1, General Information on Execution Options and Loan Delivery",
+      "Chapter C1-2, Loan Delivery Overview"
+    ]
+  },
+  {
+    "title": "Chapter C1-3, Loan Remittance Types Overview",
+    "pdf_page": 967,
+    "level": 2,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C1, General Information on Execution Options and Loan Delivery"
+    ]
+  },
+  {
+    "title": "C1-3-01, General Information on Remittance Types (08/26/2014)",
+    "pdf_page": 968,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C1, General Information on Execution Options and Loan Delivery",
+      "Chapter C1-3, Loan Remittance Types Overview"
+    ]
+  },
+  {
+    "title": "Subpart C2, Whole Loan Transactions",
+    "pdf_page": 969,
+    "level": 1,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans"
+    ]
+  },
+  {
+    "title": "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans",
+    "pdf_page": 969,
+    "level": 2,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions"
+    ]
+  },
+  {
+    "title": "Section C2-1.1, Mandatory Commitments to Sell Whole Loans",
+    "pdf_page": 969,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans"
+    ]
+  },
+  {
+    "title": "C2-1.1-01, Mandatory Commitment Process (10/30/2009)",
+    "pdf_page": 969,
+    "level": 4,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans",
+      "Section C2-1.1, Mandatory Commitments to Sell Whole Loans"
+    ]
+  },
+  {
+    "title": "C2-1.1-02, General Information about Mandatory Commitment Pricing and Fees (06/07/2023)",
+    "pdf_page": 970,
+    "level": 4,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans",
+      "Section C2-1.1, Mandatory Commitments to Sell Whole Loans"
+    ]
+  },
+  {
+    "title": "C2-1.1-03, Mandatory Commitment Terms, Amounts, Periods and Other Requirements (07/05/2023)",
+    "pdf_page": 973,
+    "level": 4,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans",
+      "Section C2-1.1, Mandatory Commitments to Sell Whole Loans"
+    ]
+  },
+  {
+    "title": "C2-1.1-04, Mandatory Commitment Extensions and Pair-Offs (05/30/2017)",
+    "pdf_page": 975,
+    "level": 4,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans",
+      "Section C2-1.1, Mandatory Commitments to Sell Whole Loans"
+    ]
+  },
+  {
+    "title": "C2-1.1-05, Servicing Fees (05/01/2019)",
+    "pdf_page": 978,
+    "level": 4,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans",
+      "Section C2-1.1, Mandatory Commitments to Sell Whole Loans"
+    ]
+  },
+  {
+    "title": "C2-1.1-06, Accrued Interest Payments for Regularly Amortizing Mortgages (06/28/2011)",
+    "pdf_page": 979,
+    "level": 4,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans",
+      "Section C2-1.1, Mandatory Commitments to Sell Whole Loans"
+    ]
+  },
+  {
+    "title": "C2-1.1-07, Standard ARM and Converted ARM Resale Commitments (05/30/2017)",
+    "pdf_page": 980,
+    "level": 4,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans",
+      "Section C2-1.1, Mandatory Commitments to Sell Whole Loans"
+    ]
+  },
+  {
+    "title": "Section C2-1.2, Best Efforts Commitments to Sell Whole Loans",
+    "pdf_page": 982,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans"
+    ]
+  },
+  {
+    "title": "C2-1.2-01, Best Efforts Commitment Process (08/06/2025)",
+    "pdf_page": 982,
+    "level": 4,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans",
+      "Section C2-1.2, Best Efforts Commitments to Sell Whole Loans"
+    ]
+  },
+  {
+    "title": "C2-1.2-02, Best Efforts Commitment Pricing, Periods, and Fees (03/03/2021)",
+    "pdf_page": 983,
+    "level": 4,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans",
+      "Section C2-1.2, Best Efforts Commitments to Sell Whole Loans"
+    ]
+  },
+  {
+    "title": "C2-1.2-03, Best Efforts Commitment Terms, Amounts, and Other Requirements (03/03/2021)",
+    "pdf_page": 984,
+    "level": 4,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans",
+      "Section C2-1.2, Best Efforts Commitments to Sell Whole Loans"
+    ]
+  },
+  {
+    "title": "Section C2-1.3, Servicing Execution Tool to Sell Whole Loans",
+    "pdf_page": 986,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans"
+    ]
+  },
+  {
+    "title": "C2-1.3-01, Servicing Marketplace (03/03/2021)",
+    "pdf_page": 986,
+    "level": 4,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-1, Mandatory and Best Efforts Commitments to Sell Whole Loans",
+      "Section C2-1.3, Servicing Execution Tool to Sell Whole Loans"
+    ]
+  },
+  {
+    "title": "Chapter C2-2, Whole Loan Deliveries to and Purchasing by Fannie Mae",
+    "pdf_page": 988,
+    "level": 2,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions"
+    ]
+  },
+  {
+    "title": "C2-2-01, General Requirements for Good Delivery of Whole Loans (08/07/2018)",
+    "pdf_page": 988,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-2, Whole Loan Deliveries to and Purchasing by Fannie Mae"
+    ]
+  },
+  {
+    "title": "C2-2-02, Documentation Requirements for Whole Loan Deliveries (05/01/2019)",
+    "pdf_page": 991,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-2, Whole Loan Deliveries to and Purchasing by Fannie Mae"
+    ]
+  },
+  {
+    "title": "C2-2-03, General Information on Whole Loan Purchasing Policies (05/04/2022)",
+    "pdf_page": 993,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-2, Whole Loan Deliveries to and Purchasing by Fannie Mae"
+    ]
+  },
+  {
+    "title": "C2-2-04, Timing of Distribution of Whole Loan Purchase Proceeds (05/04/2022)",
+    "pdf_page": 995,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-2, Whole Loan Deliveries to and Purchasing by Fannie Mae"
+    ]
+  },
+  {
+    "title": "C2-2-05, Whole Loan Purchasing Process (10/04/2023)",
+    "pdf_page": 996,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-2, Whole Loan Deliveries to and Purchasing by Fannie Mae"
+    ]
+  },
+  {
+    "title": "C2-2-06, Authorization to Transfer Funds (05/01/2024)",
+    "pdf_page": 998,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-2, Whole Loan Deliveries to and Purchasing by Fannie Mae"
+    ]
+  },
+  {
+    "title": "C2-2-07, Purchase Payee Codes (05/01/2024)",
+    "pdf_page": 1000,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C2, Whole Loan Transactions",
+      "Chapter C2-2, Whole Loan Deliveries to and Purchasing by Fannie Mae"
+    ]
+  },
+  {
+    "title": "Subpart C3, Mortgage-Backed Securities (MBS)",
+    "pdf_page": 1002,
+    "level": 1,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans"
+    ]
+  },
+  {
+    "title": "Chapter C3-1, MBS Program Overview",
+    "pdf_page": 1002,
+    "level": 2,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)"
+    ]
+  },
+  {
+    "title": "C3-1-01, General Information About Fannie Mae’s MBS Program (10/06/2021)",
+    "pdf_page": 1002,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-1, MBS Program Overview"
+    ]
+  },
+  {
+    "title": "C3-1-02, Preparing to Pool Loans into MBS (05/01/2019)",
+    "pdf_page": 1006,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-1, MBS Program Overview"
+    ]
+  },
+  {
+    "title": "Chapter C3-2, MBS Securitization Process",
+    "pdf_page": 1007,
+    "level": 2,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)"
+    ]
+  },
+  {
+    "title": "C3-2-01, Determining Eligibility for Loans Pooled into MBS (09/07/2022)",
+    "pdf_page": 1007,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-2, MBS Securitization Process"
+    ]
+  },
+  {
+    "title": "C3-2-02, Selecting a Servicing Option (04/01/2009)",
+    "pdf_page": 1011,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-2, MBS Securitization Process"
+    ]
+  },
+  {
+    "title": "C3-2-03, MBS Remittance Type and Selecting a Remittance Cycle (10/25/2011)",
+    "pdf_page": 1012,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-2, MBS Securitization Process"
+    ]
+  },
+  {
+    "title": "C3-2-04, Mandatory MBS Commitments (12/06/2016)",
+    "pdf_page": 1013,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-2, MBS Securitization Process"
+    ]
+  },
+  {
+    "title": "Chapter C3-3, MBS Guaranty Fees and Guaranty Fee Buyups and Buydowns",
+    "pdf_page": 1014,
+    "level": 2,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)"
+    ]
+  },
+  {
+    "title": "C3-3-01, Determining and Remitting Guaranty Fees (10/25/2011)",
+    "pdf_page": 1015,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-3, MBS Guaranty Fees and Guaranty Fee Buyups and Buydowns"
+    ]
+  },
+  {
+    "title": "C3-3-02, Accessing Buyup and Buydown Ratios and Calculating Payments or Charges (12/04/2019)",
+    "pdf_page": 1016,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-3, MBS Guaranty Fees and Guaranty Fee Buyups and Buydowns"
+    ]
+  },
+  {
+    "title": "C3-3-03, Buying Up and Buying Down the Guaranty Fee for MBS (05/07/2025)",
+    "pdf_page": 1018,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-3, MBS Guaranty Fees and Guaranty Fee Buyups and Buydowns"
+    ]
+  },
+  {
+    "title": "Chapter C3-4, Pooling Loans into Fixed-Rate MBS",
+    "pdf_page": 1020,
+    "level": 2,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)"
+    ]
+  },
+  {
+    "title": "C3-4-01, Term-Related Fixed-Rate Mortgage Pooling Parameters (05/01/2019)",
+    "pdf_page": 1020,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-4, Pooling Loans into Fixed-Rate MBS"
+    ]
+  },
+  {
+    "title": "Chapter C3-5, Pooling Loans into ARM MBS",
+    "pdf_page": 1022,
+    "level": 2,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)"
+    ]
+  },
+  {
+    "title": "C3-5-01, Creating Weighted-Average ARM MBS (08/26/2014)",
+    "pdf_page": 1022,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-5, Pooling Loans into ARM MBS"
+    ]
+  },
+  {
+    "title": "C3-5-02, Calculating the Weighted-Average Pool Accrual Rates for ARM Flex Pools Using a Fixed MBS Margin (04/01/2009)",
+    "pdf_page": 1023,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-5, Pooling Loans into ARM MBS"
+    ]
+  },
+  {
+    "title": "C3-5-03, Calculating the Weighted-Average Pool Accrual Rates for ARM Flex Pools Using a Weighted-Average MBS Margin (04/01/2009)",
+    "pdf_page": 1026,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-5, Pooling Loans into ARM MBS"
+    ]
+  },
+  {
+    "title": "C3-5-04, Pooling ARMs with a Conversion Option (05/01/2019)",
+    "pdf_page": 1030,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-5, Pooling Loans into ARM MBS"
+    ]
+  },
+  {
+    "title": "C3-5-05, Commingling ARMs in MBS (02/23/2016)",
+    "pdf_page": 1031,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-5, Pooling Loans into ARM MBS"
+    ]
+  },
+  {
+    "title": "Chapter C3-6, Pooling Loans into Fannie Majors",
+    "pdf_page": 1032,
+    "level": 2,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)"
+    ]
+  },
+  {
+    "title": "C3-6-01, Parameters for Pooling Loans Into Fannie Majors (08/05/2026)",
+    "pdf_page": 1032,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-6, Pooling Loans into Fannie Majors"
+    ]
+  },
+  {
+    "title": "Chapter C3-7, Delivering and Trading MBS",
+    "pdf_page": 1034,
+    "level": 2,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)"
+    ]
+  },
+  {
+    "title": "C3-7-01, Establishing an MBS Trading Account (10/06/2021)",
+    "pdf_page": 1035,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-7, Delivering and Trading MBS"
+    ]
+  },
+  {
+    "title": "C3-7-02, Initiating an MBS Sale (07/07/2021)",
+    "pdf_page": 1042,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-7, Delivering and Trading MBS"
+    ]
+  },
+  {
+    "title": "C3-7-03, Making Good Delivery (05/01/2019)",
+    "pdf_page": 1044,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-7, Delivering and Trading MBS"
+    ]
+  },
+  {
+    "title": "C3-7-04, Delivering MBS Pool Data and Documents (04/01/2026)",
+    "pdf_page": 1048,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-7, Delivering and Trading MBS"
+    ]
+  },
+  {
+    "title": "C3-7-05, Confirming Presettlement Information (04/01/2009)",
+    "pdf_page": 1051,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-7, Delivering and Trading MBS"
+    ]
+  },
+  {
+    "title": "C3-7-06, Settling the Trade (05/05/2021)",
+    "pdf_page": 1053,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-7, Delivering and Trading MBS"
+    ]
+  },
+  {
+    "title": "C3-7-07, Sale of Fannie Mae Securities to Third Parties (05/05/2021)",
+    "pdf_page": 1057,
+    "level": 3,
+    "ancestors": [
+      "Part C, Selling, Securitizing, and Delivering Loans",
+      "Subpart C3, Mortgage-Backed Securities (MBS)",
+      "Chapter C3-7, Delivering and Trading MBS"
+    ]
+  },
+  {
+    "title": "Part D, Ensuring Quality Control (QC)",
+    "pdf_page": 1060,
+    "level": 0,
+    "ancestors": []
+  },
+  {
+    "title": "Subpart D1, Lender QC Process",
+    "pdf_page": 1061,
+    "level": 1,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)"
+    ]
+  },
+  {
+    "title": "Chapter D1-1, Lender Quality Control Process",
+    "pdf_page": 1061,
+    "level": 2,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D1, Lender QC Process"
+    ]
+  },
+  {
+    "title": "D1-1-01, Lender Quality Control Programs, Plans, and Processes (04/01/2026)",
+    "pdf_page": 1061,
+    "level": 3,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D1, Lender QC Process",
+      "Chapter D1-1, Lender Quality Control Process"
+    ]
+  },
+  {
+    "title": "D1-1-02, Lender Quality Control Staffing and Outsourcing of the Quality Control Process (04/01/2026)",
+    "pdf_page": 1067,
+    "level": 3,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D1, Lender QC Process",
+      "Chapter D1-1, Lender Quality Control Process"
+    ]
+  },
+  {
+    "title": "D1-1-03, Lender Quality Control Reporting (04/01/2026)",
+    "pdf_page": 1069,
+    "level": 3,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D1, Lender QC Process",
+      "Chapter D1-1, Lender Quality Control Process"
+    ]
+  },
+  {
+    "title": "Chapter D1-2, Lender Prefunding QC Mortgage Review",
+    "pdf_page": 1070,
+    "level": 2,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D1, Lender QC Process"
+    ]
+  },
+  {
+    "title": "D1-2-01, Lender Prefunding Quality Control Review Process (04/01/2026)",
+    "pdf_page": 1071,
+    "level": 3,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D1, Lender QC Process",
+      "Chapter D1-2, Lender Prefunding QC Mortgage Review"
+    ]
+  },
+  {
+    "title": "Chapter D1-3, Lender Post-Closing QC Mortgage Review",
+    "pdf_page": 1073,
+    "level": 2,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D1, Lender QC Process"
+    ]
+  },
+  {
+    "title": "D1-3-01, Lender Post-Closing Quality Control Review Process (04/01/2026)",
+    "pdf_page": 1073,
+    "level": 3,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D1, Lender QC Process",
+      "Chapter D1-3, Lender Post-Closing QC Mortgage Review"
+    ]
+  },
+  {
+    "title": "D1-3-02, Lender Post-Closing Quality Control Review of Approval Conditions, Underwriting Decisions, Data, and Documentation (04/01/2026)",
+    "pdf_page": 1076,
+    "level": 3,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D1, Lender QC Process",
+      "Chapter D1-3, Lender Post-Closing QC Mortgage Review"
+    ]
+  },
+  {
+    "title": "D1-3-03, Lender Post-Closing Quality Control Reverifications (04/01/2026)",
+    "pdf_page": 1080,
+    "level": 3,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D1, Lender QC Process",
+      "Chapter D1-3, Lender Post-Closing QC Mortgage Review"
+    ]
+  },
+  {
+    "title": "Subpart D2, Fannie Mae QC Process",
+    "pdf_page": 1084,
+    "level": 1,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)"
+    ]
+  },
+  {
+    "title": "Chapter D2-1, General Information on Fannie Mae QC Process",
+    "pdf_page": 1085,
+    "level": 2,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D2, Fannie Mae QC Process"
+    ]
+  },
+  {
+    "title": "D2-1-01, General Information on Fannie Mae QC Reviews (04/03/2019)",
+    "pdf_page": 1085,
+    "level": 3,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D2, Fannie Mae QC Process",
+      "Chapter D2-1, General Information on Fannie Mae QC Process"
+    ]
+  },
+  {
+    "title": "D2-1-02, Fannie Mae QC File Request and Submission Requirements (03/06/2024)",
+    "pdf_page": 1086,
+    "level": 3,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D2, Fannie Mae QC Process",
+      "Chapter D2-1, General Information on Fannie Mae QC Process"
+    ]
+  },
+  {
+    "title": "D2-1-03, Outcomes of Fannie Mae QC Reviews (11/03/2015)",
+    "pdf_page": 1088,
+    "level": 3,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D2, Fannie Mae QC Process",
+      "Chapter D2-1, General Information on Fannie Mae QC Process"
+    ]
+  },
+  {
+    "title": "D2-1-04, Identifying and Remedying Origination Defects Under the Remedies Framework (08/30/2016)",
+    "pdf_page": 1091,
+    "level": 3,
+    "ancestors": [
+      "Part D, Ensuring Quality Control (QC)",
+      "Subpart D2, Fannie Mae QC Process",
+      "Chapter D2-1, General Information on Fannie Mae QC Process"
+    ]
+  },
+  {
+    "title": "Part E, Quick Reference Materials",
+    "pdf_page": 1095,
+    "level": 0,
+    "ancestors": []
+  },
+  {
+    "title": "Chapter E-1, Selling Guide Resources",
+    "pdf_page": 1096,
+    "level": 1,
+    "ancestors": [
+      "Part E, Quick Reference Materials"
+    ]
+  },
+  {
+    "title": "E-1-01, References to Fannie Mae's Website (06/04/2025)",
+    "pdf_page": 1096,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-1, Selling Guide Resources"
+    ]
+  },
+  {
+    "title": "E-1-02, List of Contacts (02/04/2026)",
+    "pdf_page": 1097,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-1, Selling Guide Resources"
+    ]
+  },
+  {
+    "title": "E-1-03, List of Lender Contracts (08/05/2020)",
+    "pdf_page": 1103,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-1, Selling Guide Resources"
+    ]
+  },
+  {
+    "title": "Chapter E-2, Exhibits",
+    "pdf_page": 1105,
+    "level": 1,
+    "ancestors": [
+      "Part E, Quick Reference Materials"
+    ]
+  },
+  {
+    "title": "E-2-01, Required Custodial Documents (05/04/2022)",
+    "pdf_page": 1105,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-2, Exhibits"
+    ]
+  },
+  {
+    "title": "E-2-02, Suggested Format for Phase I Environmental Hazard Assessments (06/04/2025)",
+    "pdf_page": 1108,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-2, Exhibits"
+    ]
+  },
+  {
+    "title": "E-2-03, Revocable Trust Rider (Sample Language) (01/17/2013)",
+    "pdf_page": 1120,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-2, Exhibits"
+    ]
+  },
+  {
+    "title": "E-2-04, Signature Requirements for Mortgages to Inter Vivos Revocable Trusts (08/05/2026)",
+    "pdf_page": 1121,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-2, Exhibits"
+    ]
+  },
+  {
+    "title": "E-2-05, Servicing Marketplace - Mortgage Loan Servicing Purchase and Sale Agreement (12/15/2021)",
+    "pdf_page": 1125,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-2, Exhibits"
+    ]
+  },
+  {
+    "title": "E-2-06, Correcting Errors in eNotes (12/13/2023)",
+    "pdf_page": 1140,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-2, Exhibits"
+    ]
+  },
+  {
+    "title": "E-2-07, Description of eNote Header, Footer, and eNote Clause (12/13/2023)",
+    "pdf_page": 1141,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-2, Exhibits"
+    ]
+  },
+  {
+    "title": "Chapter E-3, Acronyms and Glossary of Defined Terms",
+    "pdf_page": 1143,
+    "level": 1,
+    "ancestors": [
+      "Part E, Quick Reference Materials"
+    ]
+  },
+  {
+    "title": "E-3-01, Acronyms and Glossary of Defined Terms: A (09/03/2025)",
+    "pdf_page": 1143,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-02, Acronyms and Glossary of Defined Terms: B (02/07/2024)",
+    "pdf_page": 1146,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-03, Acronyms and Glossary of Defined Terms: C (04/22/2026)",
+    "pdf_page": 1148,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-04, Acronyms and Glossary of Defined Terms: D (03/01/2023)",
+    "pdf_page": 1153,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-05, Acronyms and Glossary of Defined Terms: E (12/14/2022)",
+    "pdf_page": 1156,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-06, Acronyms and Glossary of Defined Terms: F (09/03/2025)",
+    "pdf_page": 1158,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-07, Acronyms and Glossary of Defined Terms: G (06/04/2025)",
+    "pdf_page": 1162,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-08, Acronyms and Glossary of Defined Terms: H (04/05/2023)",
+    "pdf_page": 1163,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-09, Acronyms and Glossary of Defined Terms: I (02/04/2026)",
+    "pdf_page": 1165,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-10, Acronyms and Glossary of Defined Terms: J (04/01/2009)",
+    "pdf_page": 1168,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-11, Acronyms and Glossary of Defined Terms: K (12/14/2022)",
+    "pdf_page": 1168,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-12, Acronyms and Glossary of Defined Terms: L (10/08/2025)",
+    "pdf_page": 1168,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-13, Acronyms and Glossary of Defined Terms: M (11/06/2024)",
+    "pdf_page": 1171,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-14, Acronyms and Glossary of Defined Terms: N (06/04/2025)",
+    "pdf_page": 1176,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-15, Acronyms and Glossary of Defined Terms: O (11/10/2014)",
+    "pdf_page": 1177,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-16, Acronyms and Glossary of Defined Terms: P (02/07/2024)",
+    "pdf_page": 1178,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-17, Acronyms and Glossary of Defined Terms: Q (04/01/2009)",
+    "pdf_page": 1182,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-18, Acronyms and Glossary of Defined Terms: R (05/06/2026)",
+    "pdf_page": 1183,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-19, Acronyms and Glossary of Defined Terms: S (02/07/2024)",
+    "pdf_page": 1186,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-20, Acronyms and Glossary of Defined Terms: T (02/07/2024)",
+    "pdf_page": 1191,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-21, Acronyms and Glossary of Defined Terms: U (05/01/2019)",
+    "pdf_page": 1193,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-22, Acronyms and Glossary of Defined Terms: V (09/03/2025)",
+    "pdf_page": 1194,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-23, Acronyms and Glossary of Defined Terms: W (11/10/2019)",
+    "pdf_page": 1195,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-24, Acronyms and Glossary of Defined Terms: X (04/01/2009)",
+    "pdf_page": 1195,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-25, Acronyms and Glossary of Defined Terms: Y (05/30/2017)",
+    "pdf_page": 1195,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  },
+  {
+    "title": "E-3-26, Acronyms and Glossary of Defined Terms: Z (04/01/2009)",
+    "pdf_page": 1196,
+    "level": 2,
+    "ancestors": [
+      "Part E, Quick Reference Materials",
+      "Chapter E-3, Acronyms and Glossary of Defined Terms"
+    ]
+  }
+]

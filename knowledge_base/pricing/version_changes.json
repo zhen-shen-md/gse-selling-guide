@@ -1,0 +1,281 @@
+{
+  "generated_at": "2026-11-14T10:36:13-05:00",
+  "changes": [
+    {
+      "agency": "Fannie Mae",
+      "old_document_id": "fannie-llpa-matrix-2026-01-28",
+      "new_document_id": "fannie-llpa-matrix-2026-09-30",
+      "old_effective_date": "2026-01-28",
+      "new_effective_date": "2026-09-30",
+      "compared_cells": 441,
+      "changed_cells": [],
+      "cells_only_in_old": [],
+      "cells_only_in_new": []
+    },
+    {
+      "agency": "Freddie Mac",
+      "old_document_id": "freddie-exhibit-19-2026-07-01",
+      "new_document_id": "freddie-exhibit-19-2026-11-04",
+      "old_effective_date": "2026-07-01",
+      "new_effective_date": "2026-11-04",
+      "compared_cells": 446,
+      "changed_cells": [],
+      "cells_only_in_old": [
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "cash_out_refinance",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_30_lte_60",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::cash_out_refinance::alt_fico::all_scores::gt_30_lte_60"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "cash_out_refinance",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_60_lte_70",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::cash_out_refinance::alt_fico::all_scores::gt_60_lte_70"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "cash_out_refinance",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_70_lte_75",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::cash_out_refinance::alt_fico::all_scores::gt_70_lte_75"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "cash_out_refinance",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_75_lte_80",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::cash_out_refinance::alt_fico::all_scores::gt_75_lte_80"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "cash_out_refinance",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "lte_30",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::cash_out_refinance::alt_fico::all_scores::lte_30"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "purchase",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_30_lte_60",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::purchase::alt_fico::all_scores::gt_30_lte_60"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "purchase",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_60_lte_70",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::purchase::alt_fico::all_scores::gt_60_lte_70"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "purchase",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_70_lte_75",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::purchase::alt_fico::all_scores::gt_70_lte_75"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "purchase",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_75_lte_80",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::purchase::alt_fico::all_scores::gt_75_lte_80"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "purchase",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_80_lte_85",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::purchase::alt_fico::all_scores::gt_80_lte_85"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "purchase",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_85_lte_90",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::purchase::alt_fico::all_scores::gt_85_lte_90"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "purchase",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_90_lte_95",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::purchase::alt_fico::all_scores::gt_90_lte_95"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "purchase",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_95",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::purchase::alt_fico::all_scores::gt_95"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "purchase",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "lte_30",
+          "fee_percent": 0.0,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::purchase::alt_fico::all_scores::lte_30"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "rate_term_refinance",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_30_lte_60",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::rate_term_refinance::alt_fico::all_scores::gt_30_lte_60"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "rate_term_refinance",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_60_lte_70",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::rate_term_refinance::alt_fico::all_scores::gt_60_lte_70"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "rate_term_refinance",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_70_lte_75",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::rate_term_refinance::alt_fico::all_scores::gt_70_lte_75"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "rate_term_refinance",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_75_lte_80",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::rate_term_refinance::alt_fico::all_scores::gt_75_lte_80"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "rate_term_refinance",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_80_lte_85",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::rate_term_refinance::alt_fico::all_scores::gt_80_lte_85"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "rate_term_refinance",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_85_lte_90",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::rate_term_refinance::alt_fico::all_scores::gt_85_lte_90"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "rate_term_refinance",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_90_lte_95",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::rate_term_refinance::alt_fico::all_scores::gt_90_lte_95"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "rate_term_refinance",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "gt_95",
+          "fee_percent": 0.25,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::rate_term_refinance::alt_fico::all_scores::gt_95"
+        },
+        {
+          "only_in": "old",
+          "pricing_family": "attribute",
+          "transaction_category": "rate_term_refinance",
+          "attribute_key": "alt_fico",
+          "attribute_label": "Alt FICO",
+          "score_band": "all_scores",
+          "ltv_band": "lte_30",
+          "fee_percent": 0.0,
+          "record_id": "freddie-exhibit-19-2026-07-01::freddie_mac::attribute::rate_term_refinance::alt_fico::all_scores::lte_30"
+        }
+      ],
+      "cells_only_in_new": []
+    }
+  ]
+}

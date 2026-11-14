@@ -1,0 +1,106 @@
+{
+  "schema_version": "2.0",
+  "description": "Registry of knowledge-base artifacts. Paths are relative to knowledge_base/.",
+  "editions": [
+    {
+      "agency": "Fannie Mae",
+      "edition_date": "2026-06-03",
+      "document_id": "fannie-selling-guide-2026-06-03",
+      "bulletin": null,
+      "directory": "editions/fannie/2026-06-03",
+      "source_url": "https://singlefamily.fanniemae.com/media/document/pdf/selling-guide-june-3-2026",
+      "source_sha256": "97a6b03a958a827284903902834960c032cf48131a85f7d4d360bca9826b7f05",
+      "current_sections": 432,
+      "future_sections": 0
+    },
+    {
+      "agency": "Fannie Mae",
+      "edition_date": "2026-08-05",
+      "document_id": "fannie-selling-guide-2026-08-05",
+      "bulletin": null,
+      "directory": "editions/fannie/2026-08-05",
+      "source_url": "https://singlefamily.fanniemae.com/media/document/pdf/selling-guide-august-5-2026",
+      "source_sha256": "9b3fd0e850736142868d6801e2ef7b7674f1e0a26e2cf633db537773ac28e239",
+      "current_sections": 429,
+      "future_sections": 0
+    },
+    {
+      "agency": "Fannie Mae",
+      "edition_date": "2026-09-02",
+      "document_id": "fannie-selling-guide-2026-09-02",
+      "bulletin": null,
+      "directory": "editions/fannie/2026-09-02",
+      "source_url": "https://singlefamily.fanniemae.com/media/document/pdf/selling-guide-september-2-2026",
+      "source_sha256": "1adb953f2e587948e43aee21ceaaef94f8c220e187c9fb72fa7a2686906ac970",
+      "current_sections": 434,
+      "future_sections": 0
+    },
+    {
+      "agency": "Fannie Mae",
+      "edition_date": "2026-10-07",
+      "document_id": "fannie-selling-guide-2026-10-07",
+      "bulletin": null,
+      "directory": "editions/fannie/2026-10-07",
+      "source_url": "https://singlefamily.fanniemae.com/media/document/pdf/selling-guide-october-7-2026",
+      "source_sha256": "07c22c1b2c2031473988578dcb68abac8bffe865855f98dbc7c1b7fcf7e095b5",
+      "current_sections": 434,
+      "future_sections": 0
+    },
+    {
+      "agency": "Fannie Mae",
+      "edition_date": "2026-11-04",
+      "document_id": "fannie-selling-guide-2026-11-04",
+      "bulletin": null,
+      "directory": "editions/fannie/2026-11-04",
+      "source_url": "https://singlefamily.fanniemae.com/media/document/pdf/selling-guide-november-4-2026",
+      "source_sha256": "de84c580ee64818925d557b8eef22b2db2692d6e01cd68a0041ec4e7f40e76d4",
+      "current_sections": 433,
+      "future_sections": 0
+    },
+    {
+      "agency": "Freddie Mac",
+      "edition_date": "2026-07-01",
+      "document_id": "freddie-selling-guide-2026-07-01",
+      "bulletin": "2026-9",
+      "directory": "editions/freddie/2026-07-01",
+      "source_url": null,
+      "source_sha256": "02deb8e566bef06c54aa8d2ebcfcac63bbae511c18a687d4e656e2e8ee0ee4b1",
+      "current_sections": 542,
+      "future_sections": 61
+    },
+    {
+      "agency": "Freddie Mac",
+      "edition_date": "2026-11-04",
+      "document_id": "freddie-selling-guide-2026-11-04",
+      "bulletin": "2026-15",
+      "directory": "editions/freddie/2026-11-04",
+      "source_url": "https://guide.freddiemac.com/ci/okcsFattach/get/1002095_2",
+      "source_sha256": "191085e625c18e2d77602ccbcd8f93f38e25cae31a562b8eadf021d34e1e799e",
+      "current_sections": 533,
+      "future_sections": 93
+    }
+  ],
+  "change_logs": {
+    "fannie": [
+      "changes/fannie/2026-06-03__2026-08-05.jsonl",
+      "changes/fannie/2026-08-05__2026-09-02.jsonl",
+      "changes/fannie/2026-09-02__2026-10-07.jsonl",
+      "changes/fannie/2026-10-07__2026-11-04.jsonl"
+    ],
+    "freddie": [
+      "changes/freddie/2026-07-01__2026-11-04.jsonl"
+    ]
+  },
+  "crosswalk": {
+    "candidates": "crosswalk/crosswalk_candidates.jsonl",
+    "curated_pairs": "crosswalk/curated_pairs.json",
+    "review_queue": "crosswalk/review_queue.jsonl"
+  },
+  "pricing": {
+    "current_records": "pricing/current_records.jsonl",
+    "comparisons": "pricing/comparisons.jsonl",
+    "version_changes": "pricing/version_changes.json",
+    "insights": "pricing/insights.json"
+  },
+  "official_links": "official_links.json"
+}

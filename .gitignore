@@ -1,0 +1,16 @@
+# Official source PDFs are not redistributed; fetch them with pipeline/fetch_sources.py
+sources/pdfs/
+*.new.pdf
+*.part
+
+# Generated, rebuildable artifacts
+*.sqlite
+web/public/data/
+
+# Environments and secrets
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.local
+node_modules/

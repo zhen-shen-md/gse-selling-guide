@@ -1,0 +1,31 @@
+{
+  "status": "pass",
+  "checks": {
+    "source_pdf_page_count": 2807,
+    "selling_segment_first_pdf_page": 474,
+    "servicing_segment_first_pdf_page": 1966,
+    "included_pdf_page_count": 1965,
+    "outline_item_count": 3529,
+    "selling_scope_outline_section_count": 602,
+    "located_policy_section_count": 602,
+    "unique_policy_section_id_count": 542,
+    "current_policy_record_count": 541,
+    "future_policy_record_count": 61,
+    "generated_chunk_count": 1154,
+    "missing_section_count": 0,
+    "empty_section_count": 0,
+    "heading_mismatch_count": 0,
+    "section_heading_count_issue_count": 0,
+    "future_version_heading_mismatch_count": 0,
+    "duplicate_section_record_id_count": 0,
+    "servicing_section_record_count": 0,
+    "max_chunk_chars": 4499,
+    "date_parse_warning_count": 0
+  },
+  "missing_sections": [],
+  "heading_mismatches": [],
+  "section_heading_count_issues": [],
+  "future_version_heading_mismatches": [],
+  "duplicate_section_record_ids": [],
+  "warnings": []
+}

@@ -1,0 +1,170 @@
+{
+  "schema_version": "2.0",
+  "note": "Official source documents are not redistributed in this repository. Run `python pipeline/fetch_sources.py` to download them into sources/pdfs/ and verify their SHA-256 fingerprints. Some agency URLs always serve the latest version; when that happens the hash check fails, which is the signal that a new edition exists.",
+  "documents": [
+    {
+      "document_id": "fannie-selling-guide-2026-06-03",
+      "agency": "Fannie Mae",
+      "kind": "selling_guide",
+      "edition_date": "2026-06-03",
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/selling-guide-june-3-2026",
+      "url_is_version_pinned": true,
+      "local_file": "fannie-selling-guide-2026-06-03.pdf",
+      "sha256": "97a6b03a958a827284903902834960c032cf48131a85f7d4d360bca9826b7f05"
+    },
+    {
+      "document_id": "fannie-selling-guide-2026-08-05",
+      "agency": "Fannie Mae",
+      "kind": "selling_guide",
+      "edition_date": "2026-08-05",
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/selling-guide-august-5-2026",
+      "url_is_version_pinned": true,
+      "local_file": "fannie-selling-guide-2026-08-05.pdf",
+      "sha256": "9b3fd0e850736142868d6801e2ef7b7674f1e0a26e2cf633db537773ac28e239"
+    },
+    {
+      "document_id": "fannie-selling-guide-2026-09-02",
+      "agency": "Fannie Mae",
+      "kind": "selling_guide",
+      "edition_date": "2026-09-02",
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/selling-guide-september-2-2026",
+      "url_is_version_pinned": true,
+      "local_file": "fannie-selling-guide-2026-09-02.pdf",
+      "sha256": "1adb953f2e587948e43aee21ceaaef94f8c220e187c9fb72fa7a2686906ac970"
+    },
+    {
+      "document_id": "fannie-selling-guide-2026-10-07",
+      "agency": "Fannie Mae",
+      "kind": "selling_guide",
+      "edition_date": "2026-10-07",
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/selling-guide-october-7-2026",
+      "url_is_version_pinned": true,
+      "local_file": "fannie-selling-guide-2026-10-07.pdf",
+      "sha256": "07c22c1b2c2031473988578dcb68abac8bffe865855f98dbc7c1b7fcf7e095b5"
+    },
+    {
+      "document_id": "fannie-selling-guide-2026-11-04",
+      "agency": "Fannie Mae",
+      "kind": "selling_guide",
+      "edition_date": "2026-11-04",
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/selling-guide-november-4-2026",
+      "url_is_version_pinned": true,
+      "local_file": "fannie-selling-guide-2026-11-04.pdf",
+      "sha256": "de84c580ee64818925d557b8eef22b2db2692d6e01cd68a0041ec4e7f40e76d4"
+    },
+    {
+      "document_id": "freddie-seller-servicer-guide-2026-07-01",
+      "agency": "Freddie Mac",
+      "kind": "selling_guide",
+      "edition_date": "2026-07-01",
+      "bulletin": "2026-9",
+      "url": null,
+      "url_is_version_pinned": false,
+      "archival_note": "Freddie Mac only serves the latest compiled Guide PDF. This edition's derived data is kept in knowledge_base/editions/freddie/2026-07-01/ so change history survives.",
+      "local_file": "freddie-seller-servicer-guide-2026-07-01.pdf",
+      "sha256": "02deb8e566bef06c54aa8d2ebcfcac63bbae511c18a687d4e656e2e8ee0ee4b1"
+    },
+    {
+      "document_id": "freddie-seller-servicer-guide-2026-11-04",
+      "agency": "Freddie Mac",
+      "kind": "selling_guide",
+      "edition_date": "2026-11-04",
+      "bulletin": "2026-15",
+      "url": "https://guide.freddiemac.com/ci/okcsFattach/get/1002095_2",
+      "url_is_version_pinned": false,
+      "local_file": "freddie-seller-servicer-guide-2026-11-04.pdf",
+      "sha256": "191085e625c18e2d77602ccbcd8f93f38e25cae31a562b8eadf021d34e1e799e"
+    },
+    {
+      "document_id": "fannie-llpa-matrix-2026-01-28",
+      "agency": "Fannie Mae",
+      "kind": "pricing",
+      "edition_date": "2026-01-28",
+      "url": null,
+      "url_is_version_pinned": false,
+      "archival_note": "Superseded by the 2026-09-30 matrix; Fannie serves only the latest LLPA Matrix at its stable URL.",
+      "local_file": "fannie-llpa-matrix-2026-01-28.pdf",
+      "sha256": "2d33c89436badc9883db92d206da5b8914e927157bd05514d6058d91f97f5ced"
+    },
+    {
+      "document_id": "fannie-llpa-matrix-2026-09-30",
+      "agency": "Fannie Mae",
+      "kind": "pricing",
+      "edition_date": "2026-09-30",
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/llpa-matrix-pdf",
+      "url_is_version_pinned": false,
+      "local_file": "fannie-llpa-matrix-2026-09-30.pdf",
+      "sha256": "7148f267e3a6f61143f1a2cd267d6c7329d933035d6deb0cfc3a1b7cd684c773"
+    },
+    {
+      "document_id": "freddie-exhibit-19-2026-07-01",
+      "agency": "Freddie Mac",
+      "kind": "pricing",
+      "edition_date": "2026-07-01",
+      "bulletin": "2026-9",
+      "url": null,
+      "url_is_version_pinned": false,
+      "archival_note": "Superseded by the Bulletin 2026-15 version.",
+      "local_file": "freddie-exhibit-19-2026-07-01.pdf",
+      "sha256": "77ee1e9ab28ac810cee36f1f9e3dd68b4d50e649b4a81c257430a5d4ad6d1de2"
+    },
+    {
+      "document_id": "freddie-exhibit-19-2026-11-04",
+      "agency": "Freddie Mac",
+      "kind": "pricing",
+      "edition_date": "2026-11-04",
+      "bulletin": "2026-15",
+      "url": "https://guide.freddiemac.com/euf/assets/pdfs/Exhibit_19.pdf",
+      "url_is_version_pinned": false,
+      "local_file": "freddie-exhibit-19-2026-11-04.pdf",
+      "sha256": "3680f976443ad75e5d9329130100cd53882a5c1c1c8f1ec394c6eec949cb4aba"
+    },
+    {
+      "document_id": "fannie-eligibility-matrix-2026-08-05",
+      "agency": "Fannie Mae",
+      "kind": "eligibility_reference",
+      "edition_date": "2026-08-05",
+      "url": "https://singlefamily.fanniemae.com/media/20786/display",
+      "url_is_version_pinned": false,
+      "local_file": "fannie-eligibility-matrix-2026-08-05.pdf",
+      "sha256": "d028262c668722f2fc99d1cc76dfad4d3d630d114aca47c8b9c82e2d6fda3918"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "SEL-2026-06",
+      "agency": "Fannie Mae",
+      "date": "2026-06-03",
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/announcement-sel-2026-06-selling-guide-updates",
+      "local_file": "announcements/fannie-sel-2026-06.pdf"
+    },
+    {
+      "id": "SEL-2026-07",
+      "agency": "Fannie Mae",
+      "date": "2026-08-05",
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/announcement-sel-2026-07-selling-guide-updates",
+      "local_file": "announcements/fannie-sel-2026-07.pdf"
+    },
+    {
+      "id": "SEL-2026-08",
+      "agency": "Fannie Mae",
+      "date": "2026-09-02",
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/announcement-sel-2026-08-selling-guide-updates",
+      "local_file": "announcements/fannie-sel-2026-08.pdf"
+    },
+    {
+      "id": "SEL-2026-09",
+      "agency": "Fannie Mae",
+      "date": "2026-10-07",
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/announcement-sel-2026-09-selling-guide-updates",
+      "local_file": "announcements/fannie-sel-2026-09.pdf"
+    },
+    {
+      "id": "SEL-2026-10",
+      "agency": "Fannie Mae",
+      "date": "2026-11-04",
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/announcement-sel-2026-10-selling-guide-updates",
+      "local_file": "announcements/fannie-sel-2026-10.pdf"
+    }
+  ]
+}

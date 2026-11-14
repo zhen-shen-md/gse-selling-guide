@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-11-14T15:38:31.041423+00:00",
+  "purpose": "Machine-suggested Fannie-to-Freddie selling-guide candidate crosswalk",
+  "inputs": {
+    "fannie_sections": "knowledge_base/editions/fannie/2026-11-04/sections.jsonl",
+    "fannie_sections_sha256": "eb79499706affd7f87b57ef2705488c6fc961680096a1e0882c105cbb3e94202",
+    "freddie_sections": "knowledge_base/editions/freddie/2026-11-04/sections.jsonl",
+    "freddie_sections_sha256": "504208c6c5c37d83972f61f307b14e3295a2a879f357d4d7594099a364e05150",
+    "freddie_version_policy": "current records only"
+  },
+  "matching": {
+    "method": "deterministic hybrid BM25, title overlap, phrase aliases, and policy-domain alignment",
+    "top_k": 5,
+    "review_status": "machine_suggested",
+    "legal_equivalence": "not_determined"
+  },
+  "counts": {
+    "fannie_topics": 427,
+    "freddie_current_sections": 532,
+    "candidate_pairs": 2135
+  },
+  "artifacts": {
+    "candidate_crosswalk": "crosswalk_candidates.jsonl",
+    "comparison_index": "comparison.sqlite",
+    "low_confidence_review_queue": "review_queue.jsonl",
+    "validation": "validation.json"
+  }
+}

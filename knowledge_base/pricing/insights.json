@@ -1,0 +1,36 @@
+{
+  "as_of": "2026-11-04",
+  "fannie_document_id": "fannie-llpa-matrix-2026-09-30",
+  "freddie_document_id": "freddie-exhibit-19-2026-11-04",
+  "headline": "All 441 like-for-like percentage cells are equal (Fannie LLPA Matrix 2026-09-30 vs Freddie Exhibit 19 2026-11-04).",
+  "findings": [
+    {
+      "finding": "Attribute grids",
+      "evidence": "202 of 202 aligned cells are equal."
+    },
+    {
+      "finding": "Base grids",
+      "evidence": "207 of 207 aligned cells are equal."
+    },
+    {
+      "finding": "Mortgage Insurance grids",
+      "evidence": "32 of 32 aligned cells are equal."
+    },
+    {
+      "finding": "Fannie Mae: 2026-01-28 → 2026-09-30",
+      "evidence": "0 cell values changed; 0 cells removed; 0 cells added."
+    },
+    {
+      "finding": "Freddie Mac: 2026-07-01 → 2026-11-04",
+      "evidence": "0 cell values changed; 23 cells removed (Alt FICO rows); 0 cells added."
+    },
+    {
+      "finding": "Only in Freddie Mac: Adjustable Rate Mortgage",
+      "evidence": "Transaction: Cash-out refinance. No like-for-like row in the other agency's grid."
+    },
+    {
+      "finding": "Program rules still differ",
+      "evidence": "Equal fee numbers do not make eligibility, waivers, caps, delivery codes, or effective-date rules interchangeable."
+    }
+  ]
+}

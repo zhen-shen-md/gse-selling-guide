@@ -1,0 +1,24 @@
+{
+  "status": "pass",
+  "checks": {
+    "pdf_page_count": 1199,
+    "outline_item_count": 558,
+    "outline_topic_count": 427,
+    "located_topic_count": 427,
+    "missing_topic_count": 0,
+    "generated_section_count": 433,
+    "generated_topic_section_count": 427,
+    "generated_chunk_count": 779,
+    "empty_section_count": 0,
+    "empty_chunk_count": 0,
+    "topic_heading_mismatch_count": 0,
+    "duplicate_section_id_count": 0,
+    "max_chunk_chars": 4499,
+    "forbidden_noncharacter_count": 0,
+    "repeated_publication_headers_remaining": 0,
+    "date_parse_warning_count": 0
+  },
+  "missing_topics": [],
+  "topic_heading_mismatches": [],
+  "warnings": []
+}

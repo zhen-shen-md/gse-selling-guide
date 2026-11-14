@@ -1,0 +1,53 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-11-08T14:31:56-05:00",
+  "document": {
+    "document_id": "freddie-selling-guide-2026-11-04",
+    "agency": "Freddie Mac",
+    "guide": "Freddie Mac Single-Family Seller/Servicer Guide (Selling scope)",
+    "edition_date": "2026-11-04",
+    "bulletin": "2026-15",
+    "source_file": "freddie-seller-servicer-guide-2026-11-04.pdf",
+    "source_sha256": "191085e625c18e2d77602ccbcd8f93f38e25cae31a562b8eadf021d34e1e799e",
+    "source_url": "https://guide.freddiemac.com/ci/okcsFattach/get/1002095_2",
+    "source_pdf_pages": 3433,
+    "pdf_metadata": {
+      "Author": "Freddie Mac",
+      "CreationDate": "D:20230126205502-05'00'",
+      "Creator": "Acrobat PDFMaker 17 for Word",
+      "Keywords": "Freddie Mac Single-Family Seller/Servicer Guide, selling requirements, servicing requirements, Guide PDF, Seller requirements, Servicer requirements",
+      "ModDate": "D:20261104162208-05'00'",
+      "Producer": "Adobe PDF Library 15.0",
+      "Subject": "Single-Family Seller/Servicer Guide",
+      "Title": "Freddie Mac Single-Family Seller/Servicer Guide PDF"
+    }
+  },
+  "scope": {
+    "included": [
+      "Compilation notice (PDF p. 1)",
+      "Freddie Mac - Seller/Servicer Relationship segment (PDF pp. 2-502)",
+      "Selling segment (PDF pp. 503-2102)"
+    ],
+    "excluded": [
+      "Servicing segment (PDF p. 2103 onward; Series 7000-9000)",
+      "External materials referenced but not embedded in the PDF"
+    ],
+    "interpretation": "The shared Seller/Servicer Relationship segment is kept because Freddie Mac states that it applies to all Seller/Servicers."
+  },
+  "versioning": {
+    "strategy": "current and future-effective versions are separate records (section_record_id '<id>::current' or '<id>::future-<date>')",
+    "current_records": 532,
+    "future_records": 93
+  },
+  "chunking": {
+    "strategy": "canonical-section-version-first, then paragraph/line-aware character windows",
+    "max_chars": 4500,
+    "overlap_chars": 500
+  },
+  "counts": {
+    "outline_items": 4098,
+    "unique_policy_section_ids": 537,
+    "policy_section_records": 625,
+    "chunks": 1216
+  }
+}

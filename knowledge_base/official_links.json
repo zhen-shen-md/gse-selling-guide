@@ -1,0 +1,2143 @@
+{
+  "fannie": {
+    "A1-1-01": {
+      "url": null,
+      "title": "Application and Approval of Seller/Servicer",
+      "checked_on": "2026-11-08"
+    },
+    "A2-1-01": {
+      "url": null,
+      "title": "Contractual Obligations for Sellers/Servicers",
+      "checked_on": "2026-11-08"
+    },
+    "A2-1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-1-02/nature-mortgage-transaction",
+      "title": "Nature of Mortgage Transaction",
+      "checked_on": "2026-11-08"
+    },
+    "A2-1-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-1-03/indemnification-losses",
+      "title": "Indemnification for Losses",
+      "checked_on": "2026-11-08"
+    },
+    "A2-2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-2-01/representations-and-warranties-overview",
+      "title": "Representations and Warranties Overview",
+      "checked_on": "2026-11-08"
+    },
+    "A2-2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-2-02/delivery-information-and-delivery-option-specific-representations-and-warranties",
+      "title": "Delivery Information and Delivery-Option Specific Representations and Warranties",
+      "checked_on": "2026-11-08"
+    },
+    "A2-2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-2-03/document-warranties",
+      "title": "Document Warranties",
+      "checked_on": "2026-11-08"
+    },
+    "A2-2-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-2-04/limited-waiver-and-enforcement-relief-representations-and-warranties",
+      "title": "Limited Waiver and Enforcement Relief of Representations and Warranties",
+      "checked_on": "2026-11-08"
+    },
+    "A2-2-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-2-05/invalidation-limited-waiver-representations-and-warranties",
+      "title": "Invalidation of Limited Waiver of Representations and Warranties",
+      "checked_on": "2026-11-08"
+    },
+    "A2-2-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-2-06/representations-and-warranties-property-value",
+      "title": "Representations and Warranties on Property Value",
+      "checked_on": "2026-11-08"
+    },
+    "A2-2-07": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-2-07/life-loan-representations-and-warranties",
+      "title": "Life-of-Loan Representations and Warranties",
+      "checked_on": "2026-11-08"
+    },
+    "A2-3.1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-3.1-01/lender-breach-contract",
+      "title": "Lender Breach of Contract",
+      "checked_on": "2026-11-08"
+    },
+    "A2-3.1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-3.1-02/sanctions-suspensions-and-terminations",
+      "title": "Sanctions, Suspensions, and Terminations",
+      "checked_on": "2026-11-08"
+    },
+    "A2-3.2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-3.2-01/loan-repurchases-and-make-whole-payments-requested-fannie-mae",
+      "title": "Loan Repurchases and Make Whole Payments Requested by Fannie Mae",
+      "checked_on": "2026-11-08"
+    },
+    "A2-3.2-02": {
+      "url": null,
+      "title": "Enforcement Relief for Breaches of Certain Representations and Warranties Related to Underwriting and Eligibility",
+      "checked_on": "2026-11-08"
+    },
+    "A2-3.2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-3.2-03/remedies-framework",
+      "title": "Remedies Framework",
+      "checked_on": "2026-11-08"
+    },
+    "A2-3.3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-3.3-01/compensatory-fees",
+      "title": "Compensatory Fees",
+      "checked_on": "2026-11-08"
+    },
+    "A2-4.1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-4.1-01/establishing-loan-files",
+      "title": "Establishing Loan Files",
+      "checked_on": "2026-11-08"
+    },
+    "A2-4.1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-4.1-02/ownership-and-retention-loan-files-and-records",
+      "title": "Ownership and Retention of Loan Files and Records",
+      "checked_on": "2026-11-08"
+    },
+    "A2-4.1-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-4.1-03/electronic-records-signatures-and-transactions",
+      "title": "Electronic Records, Signatures, and Transactions",
+      "checked_on": "2026-11-08"
+    },
+    "A2-4.1-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-4.1-04/notarization-standards",
+      "title": "Notarization Standards",
+      "checked_on": "2026-11-08"
+    },
+    "A2-5-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/a2-5-01/fannie-mae-trade-name-and-trademarks",
+      "title": "Fannie Mae Trade Name and Trademarks",
+      "checked_on": "2026-11-08"
+    },
+    "A3-1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-1-01/fannie-maes-technology-products",
+      "title": "Fannie Mae’s Technology Products",
+      "checked_on": "2026-11-08"
+    },
+    "A3-2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-2-01/compliance-laws",
+      "title": "Compliance With Laws",
+      "checked_on": "2026-11-08"
+    },
+    "A3-2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-2-02/responsible-lending-practices",
+      "title": "Responsible Lending Practices",
+      "checked_on": "2026-11-08"
+    },
+    "A3-3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-3-01/outsourcing-mortgage-processing-and-third-party-originations",
+      "title": "Outsourcing of Mortgage Processing and Third-Party Originations",
+      "checked_on": "2026-11-08"
+    },
+    "A3-3-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-3-02/concurrent-servicing-transfers",
+      "title": "Concurrent Servicing Transfers",
+      "checked_on": "2026-11-08"
+    },
+    "A3-3-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-3-03/other-servicing-arrangements",
+      "title": "Other Servicing Arrangements",
+      "checked_on": "2026-11-08"
+    },
+    "A3-3-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-3-04/document-custodians",
+      "title": "Document Custodians",
+      "checked_on": "2026-11-08"
+    },
+    "A3-3-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-3-05/custody-mortgage-documents",
+      "title": "Custody of Mortgage Documents",
+      "checked_on": "2026-11-08"
+    },
+    "A3-4-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-4-01/confidentiality-information",
+      "title": "Confidentiality of Information",
+      "checked_on": "2026-11-08"
+    },
+    "A3-4-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-4-02/data-quality-and-integrity",
+      "title": "Data Quality and Integrity",
+      "checked_on": "2026-11-08"
+    },
+    "A3-4-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-4-03/preventing-detecting-and-reporting-mortgage-fraud",
+      "title": "Preventing, Detecting, and Reporting Mortgage Fraud",
+      "checked_on": "2026-11-08"
+    },
+    "A3-5-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-5-01/fidelity-bond-and-errors-and-omissions-coverage-provisions",
+      "title": "Fidelity Bond and Errors and Omissions Coverage Provisions",
+      "checked_on": "2026-11-08"
+    },
+    "A3-5-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-5-02/fidelity-bond-policy-requirements",
+      "title": "Fidelity Bond Policy Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "A3-5-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-5-03/errors-and-omissions-policy-requirements",
+      "title": "Errors and Omissions Policy Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "A3-5-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/a3-5-04/reporting-fidelity-bond-and-errors-and-omissions-events",
+      "title": "Reporting Fidelity Bond and Errors and Omissions Events",
+      "checked_on": "2026-11-08"
+    },
+    "A4-1-01": {
+      "url": null,
+      "title": "Maintaining Seller/Servicer Eligibility",
+      "checked_on": "2026-11-08"
+    },
+    "A4-1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/a4-1-02/submission-financial-statements-and-reports",
+      "title": "Submission of Financial Statements and Reports",
+      "checked_on": "2026-11-08"
+    },
+    "A4-1-03": {
+      "url": null,
+      "title": "Report of Changes in the Seller/Servicer’s Organization",
+      "checked_on": "2026-11-08"
+    },
+    "A4-1-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/a4-1-04/submission-irrevocable-limited-powers-attorney",
+      "title": "Submission of Irrevocable Limited Powers of Attorney",
+      "checked_on": "2026-11-08"
+    },
+    "B1-1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b1-1-01/contents-application-package",
+      "title": "Contents of the Application Package",
+      "checked_on": "2026-11-08"
+    },
+    "B1-1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b1-1-02/blanket-authorization-form",
+      "title": "Blanket Authorization Form",
+      "checked_on": "2026-11-08"
+    },
+    "B1-1-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b1-1-03/allowable-age-credit-documents-and-federal-income-tax-returns",
+      "title": "Allowable Age of Credit Documents and Federal Income Tax Returns",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.1-01/occupancy-types",
+      "title": "Occupancy Types",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.2-01/loan-value-ltv-ratios",
+      "title": "Loan-to-Value (LTV) Ratios",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.2-02/combined-loan-value-cltv-ratios",
+      "title": "Combined Loan-to-Value (CLTV) Ratios",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.2-03/home-equity-combined-loan-value-hcltv-ratios",
+      "title": "Home Equity Combined Loan-to-Value (HCLTV) Ratios",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.2-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.2-04/subordinate-financing",
+      "title": "Subordinate Financing",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.3-01/purchase-transactions",
+      "title": "Purchase Transactions",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.3-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.3-02/limited-cash-out-refinance-transactions",
+      "title": "Limited Cash-Out Refinance Transactions",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.3-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.3-03/cash-out-refinance-transactions",
+      "title": "Cash-Out Refinance Transactions",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.3-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.3-04/prohibited-refinancing-practices",
+      "title": "Prohibited Refinancing Practices",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.3-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.3-05/payoff-installment-land-contract-requirements",
+      "title": "Payoff of Installment Land Contract Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.4-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.4-01/fixed-rate-loans",
+      "title": "Fixed-Rate Loans",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.4-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.4-02/adjustable-rate-mortgages-arms",
+      "title": "Adjustable-Rate Mortgages (ARMs)",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.4-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.4-03/convertible-arms",
+      "title": "Convertible ARMs",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.4-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.4-04/temporary-interest-rate-buydowns",
+      "title": "Temporary Interest Rate Buydowns",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.5-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.5-01/loan-limits",
+      "title": "Loan Limits",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.5-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.5-02/loan-eligibility",
+      "title": "Loan Eligibility",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.5-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.5-03/legal-requirements",
+      "title": "Legal Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.5-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.5-04/escrow-accounts",
+      "title": "Escrow Accounts",
+      "checked_on": "2026-11-08"
+    },
+    "B2-1.5-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-1.5-05/principal-curtailments",
+      "title": "Principal Curtailments",
+      "checked_on": "2026-11-08"
+    },
+    "B2-2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-2-01/general-borrower-eligibility-requirements",
+      "title": "General Borrower Eligibility Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B2-2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-2-02/non-us-citizen-borrower-eligibility-requirements",
+      "title": "Non-U.S. Citizen Borrower Eligibility Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B2-2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-2-03/multiple-financed-properties-same-borrower",
+      "title": "Multiple Financed Properties for the Same Borrower",
+      "checked_on": "2026-11-08"
+    },
+    "B2-2-04": {
+      "url": null,
+      "title": "Guarantors, Co-Signers, or Non-Occupant Borrowers on the Subject Transaction",
+      "checked_on": "2026-11-08"
+    },
+    "B2-2-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-2-05/inter-vivos-revocable-trusts",
+      "title": "Inter Vivos Revocable Trusts",
+      "checked_on": "2026-11-08"
+    },
+    "B2-2-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-2-06/homeownership-education-and-housing-counseling",
+      "title": "Homeownership Education and Housing Counseling",
+      "checked_on": "2026-11-08"
+    },
+    "B2-2-07": {
+      "url": null,
+      "title": "First-Generation Homebuyer Loans",
+      "checked_on": "2026-11-08"
+    },
+    "B2-3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-3-01/general-property-eligibility",
+      "title": "General Property Eligibility",
+      "checked_on": "2026-11-08"
+    },
+    "B2-3-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-3-02/special-property-eligibility-and-underwriting-considerations-factory-built-housing",
+      "title": "Special Property Eligibility and Underwriting Considerations: Factory-Built Housing",
+      "checked_on": "2026-11-08"
+    },
+    "B2-3-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-3-03/special-property-eligibility-and-underwriting-considerations-leasehold-estates",
+      "title": "Special Property Eligibility and Underwriting Considerations: Leasehold Estates",
+      "checked_on": "2026-11-08"
+    },
+    "B2-3-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-3-04/special-property-eligibility-considerations",
+      "title": "Special Property Eligibility Considerations",
+      "checked_on": "2026-11-08"
+    },
+    "B2-3-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b2-3-05/properties-affected-disaster",
+      "title": "Properties Affected by a Disaster",
+      "checked_on": "2026-11-08"
+    },
+    "B3-1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-1-01/comprehensive-risk-assessment",
+      "title": "Comprehensive Risk Assessment",
+      "checked_on": "2026-11-08"
+    },
+    "B3-2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-2-01/general-information-du",
+      "title": "General Information on DU",
+      "checked_on": "2026-11-08"
+    },
+    "B3-2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-2-02/du-validation-service",
+      "title": "DU Validation Service",
+      "checked_on": "2026-11-08"
+    },
+    "B3-2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-2-03/risk-factors-evaluated-du",
+      "title": "Risk Factors Evaluated by DU",
+      "checked_on": "2026-11-08"
+    },
+    "B3-2-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-2-04/du-documentation-requirements",
+      "title": "DU Documentation Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B3-2-05": {
+      "url": null,
+      "title": "Approve/Eligible Recommendations",
+      "checked_on": "2026-11-08"
+    },
+    "B3-2-06": {
+      "url": null,
+      "title": "Approve/Ineligible Recommendations",
+      "checked_on": "2026-11-08"
+    },
+    "B3-2-07": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-2-07/refer-caution-recommendations",
+      "title": "Refer with Caution Recommendations",
+      "checked_on": "2026-11-08"
+    },
+    "B3-2-08": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-2-08/out-scope-recommendations",
+      "title": "Out of Scope Recommendations",
+      "checked_on": "2026-11-08"
+    },
+    "B3-2-09": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-2-09/erroneous-credit-report-data",
+      "title": "Erroneous Credit Report Data",
+      "checked_on": "2026-11-08"
+    },
+    "B3-2-10": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-2-10/accuracy-du-data-du-tolerances-and-errors-credit-report",
+      "title": "Accuracy of DU Data, DU Tolerances, and Errors in the Credit Report",
+      "checked_on": "2026-11-08"
+    },
+    "B3-2-11": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-2-11/du-underwriting-findings-report",
+      "title": "DU Underwriting Findings Report",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.1-01/general-income-information",
+      "title": "General Income Information",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.1-02/tax-return-and-transcript-documentation-requirements",
+      "title": "Tax Return and Transcript Documentation Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.1-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.1-03/income-calculator",
+      "title": "Income Calculator",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.1-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.1-04/verbal-verification-employment",
+      "title": "Verbal Verification of Employment",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.2-01/standards-employment-and-income-documentation",
+      "title": "Standards for Employment and Income Documentation",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.2-02/standards-employment-related-income",
+      "title": "Standards for Employment-Related Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.3-01/base-income",
+      "title": "Base Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.3-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.3-02/bonus-commission-overtime-and-tip-income",
+      "title": "Bonus, Commission, Overtime, and Tip Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.3-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.3-03/employment-offers-or-contracts",
+      "title": "Employment Offers or Contracts",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.3-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.3-04/housing-parsonage-and-automobile-allowances",
+      "title": "Housing (Parsonage) and Automobile Allowances",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.3-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.3-05/military-income",
+      "title": "Military Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.3-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.3-06/mortgage-differential-payments-income",
+      "title": "Mortgage Differential Payments Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.3-07": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.3-07/restricted-stock-units-and-restricted-stock-employment-income",
+      "title": "Restricted Stock Units and Restricted Stock Employment Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.3-08": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.3-08/seasonal-income",
+      "title": "Seasonal Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.3-09": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.3-09/temporary-leave-income",
+      "title": "Temporary Leave Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-01/general-requirements-other-sources-income",
+      "title": "General Requirements for Other Sources of Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-02/alimony-child-support-equalization-payments-or-separate-maintenance",
+      "title": "Alimony, Child Support, Equalization Payments, or Separate Maintenance",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-03/annuity-pension-or-retirement-income",
+      "title": "Annuity, Pension, or Retirement Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-04/boarder-income",
+      "title": "Boarder Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-05/capital-gains-income",
+      "title": "Capital Gains Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-06/employment-related-assets-qualifying-income",
+      "title": "Employment Related Assets as Qualifying Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-07": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-07/foster-care-income",
+      "title": "Foster-Care Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-08": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-08/interest-and-dividend-income",
+      "title": "Interest and Dividend Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-09": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-09/long-term-disability-income",
+      "title": "Long-term Disability Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-10": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-10/mortgage-credit-certificates",
+      "title": "Mortgage Credit Certificates",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-11": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-11/notes-receivable-income",
+      "title": "Notes Receivable Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-12": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-12/public-assistance-income",
+      "title": "Public Assistance Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-13": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-13/royalty-payment-income",
+      "title": "Royalty Payment Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-14": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-14/section-8-housing-choice-voucher-homeownership-program-payments",
+      "title": "Section 8 Housing Choice Voucher Homeownership Program Payments",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-15": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-15/social-security-income",
+      "title": "Social Security Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-16": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-16/trust-income",
+      "title": "Trust Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-17": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-17/unemployment-benefits-income",
+      "title": "Unemployment Benefits Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-18": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.4-18/va-benefits-income",
+      "title": "VA Benefits Income",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.4-19": {
+      "url": null,
+      "title": "Schedule K-1 Income <25% Ownership",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.5-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.5-01/underwriting-factors-and-documentation-self-employed-borrower",
+      "title": "Underwriting Factors and Documentation for a Self-Employed Borrower",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.5-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.5-02/business-structures",
+      "title": "Business Structures",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.5-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.5-03/irs-forms-quick-reference",
+      "title": "IRS Forms Quick Reference",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.6-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.6-01/general-information-analyzing-individual-tax-returns",
+      "title": "General Information on Analyzing Individual Tax Returns",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.6-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.6-02/income-reported-irs-form-1040",
+      "title": "Income Reported on IRS Form 1040",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.6-03": {
+      "url": null,
+      "title": "Income or Loss Reported on IRS Form 1040, Schedule C",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.6-04": {
+      "url": null,
+      "title": "Income or Loss Reported on IRS Form 1040, Schedule D",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.6-05": {
+      "url": null,
+      "title": "Income or Loss Reported on IRS Form 1040, Schedule E",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.6-06": {
+      "url": null,
+      "title": "Income or Loss Reported on IRS Form 1040, Schedule F",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.6-07": {
+      "url": null,
+      "title": "Income or Loss Reported on IRS Form 1065 or IRS Form 1120S, Schedule K-1",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.7-01": {
+      "url": null,
+      "title": "Analyzing Partnership Returns for a Partnership or LLC",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.7-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.7-02/analyzing-returns-s-corporation",
+      "title": "Analyzing Returns for an S Corporation",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.7-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.7-03/analyzing-returns-corporation",
+      "title": "Analyzing Returns for a Corporation",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.7-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.7-04/analyzing-profit-and-loss-statements",
+      "title": "Analyzing Profit and Loss Statements",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.8-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.8-01/general-rental-income-information",
+      "title": "General Rental Income Information",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.8-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.8-02/rental-income-subject-property",
+      "title": "Rental Income from the Subject Property",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.8-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.8-03/rental-income-subject-property-short-term-rental",
+      "title": "Rental Income from the Subject Property: Short-Term Rental",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.8-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.8-04/rental-income-non-subject-property",
+      "title": "Rental Income from Non-Subject Property",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.8-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.8-05/rental-income-non-subject-property-departing-residence",
+      "title": "Rental Income from Non-Subject Property: Departing Residence",
+      "checked_on": "2026-11-08"
+    },
+    "B3-3.8-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-3.8-06/rental-income-non-subject-property-investment-properties-purchased-within-45-days-subject-property",
+      "title": "Rental Income from Non-Subject Property: Investment Properties Purchased within 45 Days of the Subject Property",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.1-01/minimum-reserve-requirements",
+      "title": "Minimum Reserve Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.1-02/interested-party-contributions-ipcs",
+      "title": "Interested Party Contributions (IPCs)",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.1-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.1-03/lender-incentives",
+      "title": "Lender Incentives",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.1-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.1-04/virtual-currency",
+      "title": "Virtual Currency",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.2-01/verification-deposits-and-assets",
+      "title": "Verification of Deposits and Assets",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.2-02/depository-accounts",
+      "title": "Depository Accounts",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.2-03/individual-development-accounts",
+      "title": "Individual Development Accounts",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.2-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.2-04/pooled-savings-community-savings-funds",
+      "title": "Pooled Savings (Community Savings Funds)",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.2-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.2-05/foreign-assets",
+      "title": "Foreign Assets",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-01/stocks-stock-options-bonds-and-mutual-funds",
+      "title": "Stocks, Stock Options, Bonds, and Mutual Funds",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-02/trust-accounts",
+      "title": "Trust Accounts",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-03/retirement-accounts",
+      "title": "Retirement Accounts",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-04/personal-gifts",
+      "title": "Personal Gifts",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-05/gifts-equity",
+      "title": "Gifts of Equity",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-06/grants-and-lender-contributions",
+      "title": "Grants and Lender Contributions",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-07": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-07/disaster-relief-grants-or-loans",
+      "title": "Disaster Relief Grants or Loans",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-08": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-08/employer-assistance",
+      "title": "Employer Assistance",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-09": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-09/earnest-money-deposit",
+      "title": "Earnest Money Deposit",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-10": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-10/anticipated-sales-proceeds",
+      "title": "Anticipated Sales Proceeds",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-11": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-11/trade-equity",
+      "title": "Trade Equity",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-12": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-12/rent-related-credits",
+      "title": "Rent-Related Credits",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-13": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-13/sweat-equity",
+      "title": "Sweat Equity",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-14": {
+      "url": null,
+      "title": "Bridge/Swing Loans",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-15": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-15/borrowed-funds-secured-asset",
+      "title": "Borrowed Funds Secured by an Asset",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-16": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-16/credit-card-financing-and-reward-points",
+      "title": "Credit Card Financing and Reward Points",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-17": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-17/personal-unsecured-loans",
+      "title": "Personal Unsecured Loans",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-18": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-18/sale-personal-assets",
+      "title": "Sale of Personal Assets",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-19": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-19/cash-value-life-insurance",
+      "title": "Cash Value of Life Insurance",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-20": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.3-20/anticipated-savings-and-cash-hand",
+      "title": "Anticipated Savings and Cash-on-Hand",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.3-21": {
+      "url": null,
+      "title": "Borrower's Earned Real Estate Commission",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.4-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.4-01/du-asset-verification",
+      "title": "DU Asset Verification",
+      "checked_on": "2026-11-08"
+    },
+    "B3-4.4-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-4.4-02/requirements-certain-assets-du",
+      "title": "Requirements for Certain Assets in DU",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.1-01/general-requirements-credit-scores",
+      "title": "General Requirements for Credit Scores",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.1-02/determining-credit-score-mortgage-loan",
+      "title": "Determining the Credit Score for a Mortgage Loan",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.2-01/requirements-credit-reports",
+      "title": "Requirements for Credit Reports",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.2-02/types-credit-reports",
+      "title": "Types of Credit Reports",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.2-03/accuracy-credit-information-credit-report",
+      "title": "Accuracy of Credit Information in a Credit Report",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.3-01/number-and-age-accounts",
+      "title": "Number and Age of Accounts",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.3-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.3-02/payment-history",
+      "title": "Payment History",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.3-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.3-03/previous-mortgage-payment-history",
+      "title": "Previous Mortgage Payment History",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.3-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.3-04/inquiries-recent-attempts-obtain-new-credit",
+      "title": "Inquiries: Recent Attempts to Obtain New Credit",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.3-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.3-05/credit-utilization",
+      "title": "Credit Utilization",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.3-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.3-06/authorized-users-credit",
+      "title": "Authorized Users of Credit",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.3-07": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.3-07/significant-derogatory-credit-events-waiting-periods-and-re-establishing-credit",
+      "title": "Significant Derogatory Credit Events - Waiting Periods and Re-establishing Credit",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.3-08": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.3-08/extenuating-circumstances-derogatory-credit",
+      "title": "Extenuating Circumstances for Derogatory Credit",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.3-09": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.3-09/du-credit-report-analysis",
+      "title": "DU Credit Report Analysis",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.4-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.4-01/eligibility-requirements-loans-nontraditional-credit",
+      "title": "Eligibility Requirements for Loans with Nontraditional Credit",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.4-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.4-02/number-and-types-nontraditional-credit-references",
+      "title": "Number and Types of Nontraditional Credit References",
+      "checked_on": "2026-11-08"
+    },
+    "B3-5.4-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-5.4-03/documentation-and-assessment-nontraditional-credit-history",
+      "title": "Documentation and Assessment of a Nontraditional Credit History",
+      "checked_on": "2026-11-08"
+    },
+    "B3-6-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-6-01/general-information-liabilities",
+      "title": "General Information on Liabilities",
+      "checked_on": "2026-11-08"
+    },
+    "B3-6-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-6-02/debt-income-ratios",
+      "title": "Debt-to-Income Ratios",
+      "checked_on": "2026-11-08"
+    },
+    "B3-6-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-6-03/monthly-housing-expense-subject-property",
+      "title": "Monthly Housing Expense for the Subject Property",
+      "checked_on": "2026-11-08"
+    },
+    "B3-6-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-6-04/qualifying-payment-requirements",
+      "title": "Qualifying Payment Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B3-6-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-6-05/monthly-debt-obligations",
+      "title": "Monthly Debt Obligations",
+      "checked_on": "2026-11-08"
+    },
+    "B3-6-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-6-06/qualifying-impact-other-real-estate-owned",
+      "title": "Qualifying Impact of Other Real Estate Owned",
+      "checked_on": "2026-11-08"
+    },
+    "B3-6-07": {
+      "url": null,
+      "title": "Debts Paid Off At or Prior to Closing",
+      "checked_on": "2026-11-08"
+    },
+    "B3-6-08": {
+      "url": "https://selling-guide.fanniemae.com/sel/b3-6-08/du-requirements-liability-assessment",
+      "title": "DU: Requirements for Liability Assessment",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.1-01/definition-market-value",
+      "title": "Definition of Market Value",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.1-02/lender-responsibilities",
+      "title": "Lender Responsibilities",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.1-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.1-03/appraiser-selection-criteria",
+      "title": "Appraiser Selection Criteria",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.1-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.1-04/unacceptable-appraisal-practices",
+      "title": "Unacceptable Appraisal Practices",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.1-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.1-05/disclosure-information-appraisers",
+      "title": "Disclosure of Information to Appraisers",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.1-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.1-06/uniform-appraisal-dataset-uad-and-uniform-collateral-data-portal-ucdp",
+      "title": "Uniform Appraisal Dataset (UAD) and the Uniform Collateral Data Portal (UCDP)",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.2-01/appraisal-report-forms-and-exhibits",
+      "title": "Appraisal Report Forms and Exhibits",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.2-02/desktop-appraisals",
+      "title": "Desktop Appraisals",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.2-03/hybrid-appraisals",
+      "title": "Hybrid Appraisals",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.2-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.2-04/appraisal-age-and-use-requirements",
+      "title": "Appraisal Age and Use Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.2-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.2-05/requirements-verifying-completion-and-postponed-improvements",
+      "title": "Requirements for Verifying Completion and Postponed Improvements",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-01/review-appraisal-report",
+      "title": "Review of the Appraisal Report",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.3-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-02/subject-and-contract-sections-appraisal-report",
+      "title": "Subject and Contract Sections of the Appraisal Report",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.3-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-03/neighborhood-section-appraisal-report",
+      "title": "Neighborhood Section of the Appraisal Report",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.3-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-04/site-section-appraisal-report",
+      "title": "Site Section of the Appraisal Report",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.3-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-05/improvements-section-appraisal-report",
+      "title": "Improvements Section of the Appraisal Report",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.3-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-06/property-condition-and-quality-construction-improvements",
+      "title": "Property Condition and Quality of Construction of the Improvements",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.3-07": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-07/sales-comparison-approach-section-appraisal-report",
+      "title": "Sales Comparison Approach Section of the Appraisal Report",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.3-08": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-08/comparable-sales",
+      "title": "Comparable Sales",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.3-09": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-09/adjustments-comparable-sales",
+      "title": "Adjustments to Comparable Sales",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.3-10": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-10/cost-and-income-approach-value",
+      "title": "Cost and Income Approach to Value",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.3-11": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-11/valuation-analysis-and-reconciliation",
+      "title": "Valuation Analysis and Reconciliation",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.3-12": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-12/appraisal-quality-matters",
+      "title": "Appraisal Quality Matters",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.4-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.4-01/factory-built-housing-manufactured-housing",
+      "title": "Factory-Built Housing: Manufactured Housing",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.4-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.4-02/factory-built-housing-modular-prefabricated-panelized-or-sectional-housing",
+      "title": "Factory-Built Housing: Modular, Prefabricated, Panelized, or Sectional Housing",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.4-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.4-03/condo-appraisal-requirements",
+      "title": "Condo Appraisal Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.4-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.4-04/co-op-appraisal-requirements",
+      "title": "Co-op Appraisal Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.4-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.4-05/leasehold-interests-appraisal-requirements",
+      "title": "Leasehold Interests Appraisal Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.4-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.4-06/community-land-trust-appraisal-requirements",
+      "title": "Community Land Trust Appraisal Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.4-07": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.4-07/mixed-use-property-appraisal-requirements",
+      "title": "Mixed-Use Property Appraisal Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.4-08": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.4-08/environmental-hazards-appraisal-requirements",
+      "title": "Environmental Hazards Appraisal Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.4-09": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.4-09/special-assessment-or-community-facilities-districts-appraisal-requirements",
+      "title": "Special Assessment or Community Facilities Districts Appraisal Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.4-10": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.4-10/value-acceptance",
+      "title": "Value Acceptance",
+      "checked_on": "2026-11-08"
+    },
+    "B4-1.4-11": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-1.4-11/value-acceptance-property-data",
+      "title": "Value Acceptance + Property Data",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.1-01/general-information-project-standards",
+      "title": "General Information on Project Standards",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.1-02/waiver-project-review",
+      "title": "Waiver of Project Review",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.1-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.1-03/ineligible-projects",
+      "title": "Ineligible Projects",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.1-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.1-04/environmental-hazard-assessments",
+      "title": "Environmental Hazard Assessments",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.1-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.1-05/unacceptable-environmental-hazards",
+      "title": "Unacceptable Environmental Hazards",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.1-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.1-06/remedial-actions-environmental-hazard-assessments-below-standards",
+      "title": "Remedial Actions for Environmental Hazard Assessments Below Standards",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.2-01/full-review-process",
+      "title": "Full Review Process",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.2-02/full-review-additional-eligibility-requirements-units-new-and-newly-converted-condo-projects",
+      "title": "Full Review: Additional Eligibility Requirements for Units in New and Newly Converted Condo Projects",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.2-03/fha-approved-condo-review-eligibility",
+      "title": "FHA-Approved Condo Review Eligibility",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.2-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.2-04/project-eligibility-review-service-pers",
+      "title": "Project Eligibility Review Service (PERS)",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.2-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.2-05/projects-special-considerations",
+      "title": "Projects with Special Considerations",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.3-01/eligibility-requirements-units-pud-projects",
+      "title": "Eligibility Requirements for Units in PUD Projects",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.3-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.3-02/co-op-project-eligibility",
+      "title": "Co-op Project Eligibility",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.3-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.3-03/legal-requirements-co-op-projects",
+      "title": "Legal Requirements for Co-op Projects",
+      "checked_on": "2026-11-08"
+    },
+    "B4-2.3-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.3-04/loan-eligibility-co-op-share-loans",
+      "title": "Loan Eligibility for Co-op Share Loans",
+      "checked_on": "2026-11-08"
+    },
+    "B5-1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-1-01/high-balance-mortgage-loan-eligibility-and-underwriting",
+      "title": "High-Balance Mortgage Loan Eligibility and Underwriting",
+      "checked_on": "2026-11-08"
+    },
+    "B5-1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-1-02/high-balance-pricing-mortgage-insurance-special-feature-codes-and-delivery-limitations",
+      "title": "High-Balance Pricing, Mortgage Insurance, Special Feature Codes, and Delivery Limitations",
+      "checked_on": "2026-11-08"
+    },
+    "B5-2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-2-01/manufactured-housing",
+      "title": "Manufactured Housing",
+      "checked_on": "2026-11-08"
+    },
+    "B5-2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-2-02/manufactured-housing-loan-eligibility",
+      "title": "Manufactured Housing Loan Eligibility",
+      "checked_on": "2026-11-08"
+    },
+    "B5-2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-2-03/manufactured-housing-underwriting-requirements",
+      "title": "Manufactured Housing Underwriting Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B5-2-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-2-04/manufactured-housing-pricing-mortgage-insurance-and-loan-delivery-requirements",
+      "title": "Manufactured Housing Pricing, Mortgage Insurance, and Loan Delivery Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B5-2-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-2-05/manufactured-housing-legal-considerations",
+      "title": "Manufactured Housing Legal Considerations",
+      "checked_on": "2026-11-08"
+    },
+    "B5-3.1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-3.1-01/conversion-construction-permanent-financing-overview",
+      "title": "Conversion of Construction-to-Permanent Financing: Overview",
+      "checked_on": "2026-11-08"
+    },
+    "B5-3.1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-3.1-02/conversion-construction-permanent-financing-single-closing-transactions",
+      "title": "Conversion of Construction-to-Permanent Financing: Single-Closing Transactions",
+      "checked_on": "2026-11-08"
+    },
+    "B5-3.1-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-3.1-03/conversion-construction-permanent-financing-two-closing-transactions",
+      "title": "Conversion of Construction-to-Permanent Financing: Two-Closing Transactions",
+      "checked_on": "2026-11-08"
+    },
+    "B5-3.2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-3.2-01/homestyle-renovation-mortgages",
+      "title": "HomeStyle Renovation Mortgages",
+      "checked_on": "2026-11-08"
+    },
+    "B5-3.2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-3.2-02/homestyle-renovation-mortgages-loan-and-borrower-eligibility",
+      "title": "HomeStyle Renovation Mortgages: Loan and Borrower Eligibility",
+      "checked_on": "2026-11-08"
+    },
+    "B5-3.2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-3.2-03/homestyle-renovation-mortgages-collateral-considerations",
+      "title": "HomeStyle Renovation Mortgages: Collateral Considerations",
+      "checked_on": "2026-11-08"
+    },
+    "B5-3.2-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-3.2-04/homestyle-renovation-mortgages-costs-and-escrow-accounts",
+      "title": "HomeStyle Renovation Mortgages: Costs and Escrow Accounts",
+      "checked_on": "2026-11-08"
+    },
+    "B5-3.2-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-3.2-05/homestyle-renovation-mortgages-completion-certification",
+      "title": "HomeStyle Renovation Mortgages: Completion Certification",
+      "checked_on": "2026-11-08"
+    },
+    "B5-3.2-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-3.2-06/homestyle-renovation-renovation-contract-renovation-loan-agreement-and-lien-waiver",
+      "title": "HomeStyle Renovation: Renovation Contract, Renovation Loan Agreement, and Lien Waiver",
+      "checked_on": "2026-11-08"
+    },
+    "B5-3.3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-3.3-01/homestyle-refresh-improvements-existing-properties",
+      "title": "HomeStyle Refresh for Improvements on Existing Properties",
+      "checked_on": "2026-11-08"
+    },
+    "B5-3.4-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-3.4-01/property-assessed-clean-energy-loans",
+      "title": "Property Assessed Clean Energy Loans",
+      "checked_on": "2026-11-08"
+    },
+    "B5-4.1-01": {
+      "url": null,
+      "title": "Texas Section 50(a)(6) Loans",
+      "checked_on": "2026-11-08"
+    },
+    "B5-4.1-02": {
+      "url": null,
+      "title": "Texas Section 50(a)(6) Loan Eligibility",
+      "checked_on": "2026-11-08"
+    },
+    "B5-4.1-03": {
+      "url": null,
+      "title": "Texas Section 50(a)(6) Loan Underwriting, Collateral, and Closing Considerations",
+      "checked_on": "2026-11-08"
+    },
+    "B5-4.1-04": {
+      "url": null,
+      "title": "Texas Section 50(a)(6) Loan Delivery and Servicing Considerations",
+      "checked_on": "2026-11-08"
+    },
+    "B5-4.2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-4.2-01/native-american-conventional-lending-initiative-nacli",
+      "title": "Native American Conventional Lending Initiative (NACLI)",
+      "checked_on": "2026-11-08"
+    },
+    "B5-4.2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-4.2-02/disaster-related-limited-cash-out-refinance-flexibilities",
+      "title": "Disaster-Related Limited Cash-Out Refinance Flexibilities",
+      "checked_on": "2026-11-08"
+    },
+    "B5-4.2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-4.2-03/loans-secured-homepath-properties",
+      "title": "Loans Secured by HomePath Properties",
+      "checked_on": "2026-11-08"
+    },
+    "B5-5.1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-5.1-01/community-seconds-loans",
+      "title": "Community Seconds",
+      "checked_on": "2026-11-08"
+    },
+    "B5-5.1-02": {
+      "url": null,
+      "title": "Community Seconds: Shared Appreciation Transactions",
+      "checked_on": "2026-11-08"
+    },
+    "B5-5.2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-5.2-01/loans-resale-restrictions-general-information",
+      "title": "Loans With Resale Restrictions: General Information",
+      "checked_on": "2026-11-08"
+    },
+    "B5-5.2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-5.2-02/loans-resale-restrictions-eligibility-collateral-and-delivery-requirements",
+      "title": "Loans with Resale Restrictions: Eligibility, Collateral and Delivery Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B5-5.3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-5.3-01/shared-equity-overview",
+      "title": "Shared Equity Overview",
+      "checked_on": "2026-11-08"
+    },
+    "B5-5.3-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-5.3-02/shared-equity-transactions-general-requirements",
+      "title": "Shared Equity Transactions: General Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B5-5.3-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-5.3-03/shared-equity-transactions-eligibility-underwriting-and-collateral-requirements",
+      "title": "Shared Equity Transactions: Eligibility, Underwriting and Collateral Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B5-5.3-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-5.3-04/massachusetts-resale-restriction-loan-eligibility-requirements",
+      "title": "Massachusetts Resale Restriction Loan Eligibility Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B5-6-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-6-01/homeready-mortgage-loan-and-borrower-eligibility",
+      "title": "HomeReady Mortgage Loan and Borrower Eligibility",
+      "checked_on": "2026-11-08"
+    },
+    "B5-6-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-6-02/homeready-mortgage-underwriting-methods-and-requirements",
+      "title": "HomeReady Mortgage Underwriting Methods and Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B5-6-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-6-03/homeready-mortgage-loan-pricing-mortgage-insurance-and-special-feature-codes",
+      "title": "HomeReady Mortgage Loan Pricing, Mortgage Insurance, and Special Feature Codes",
+      "checked_on": "2026-11-08"
+    },
+    "B5-7-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-7-01/high-ltv-refinance-loan-and-borrower-eligibility",
+      "title": "High LTV Refinance Loan and Borrower Eligibility",
+      "checked_on": "2026-11-08"
+    },
+    "B5-7-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-7-02/high-ltv-refinance-underwriting-documentation-and-collateral-requirements-new-loan",
+      "title": "High LTV Refinance Underwriting, Documentation, and Collateral Requirements for the New Loan",
+      "checked_on": "2026-11-08"
+    },
+    "B5-7-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-7-03/high-ltv-refinance-alternative-qualification-path",
+      "title": "High LTV Refinance Alternative Qualification Path",
+      "checked_on": "2026-11-08"
+    },
+    "B5-7-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-7-04/high-ltv-refinance-representations-and-warranties",
+      "title": "High LTV Refinance Representations and Warranties",
+      "checked_on": "2026-11-08"
+    },
+    "B5-7-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b5-7-05/high-ltv-refinance-pricing-mortgage-insurance-and-special-feature-codes",
+      "title": "High LTV Refinance Pricing, Mortgage Insurance, and Special Feature Codes",
+      "checked_on": "2026-11-08"
+    },
+    "B6-1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b6-1-01/general-government-mortgage-loan-requirements",
+      "title": "General Government Mortgage Loan Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B6-1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b6-1-02/eligible-fha-insured-mortgage-loans",
+      "title": "Eligible FHA-Insured Mortgage Loans",
+      "checked_on": "2026-11-08"
+    },
+    "B6-1-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b6-1-03/eligible-va-guaranteed-mortgages",
+      "title": "Eligible VA-Guaranteed Mortgages",
+      "checked_on": "2026-11-08"
+    },
+    "B6-1-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b6-1-04/eligible-hud-guaranteed-section-184-mortgages",
+      "title": "Eligible HUD-Guaranteed Section 184 Mortgages",
+      "checked_on": "2026-11-08"
+    },
+    "B6-1-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b6-1-05/eligible-rd-guaranteed-mortgages",
+      "title": "Eligible RD-Guaranteed Mortgages",
+      "checked_on": "2026-11-08"
+    },
+    "B7-1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-1-01/provision-mortgage-insurance",
+      "title": "Provision of Mortgage Insurance",
+      "checked_on": "2026-11-08"
+    },
+    "B7-1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-1-02/mortgage-insurance-coverage-requirements",
+      "title": "Mortgage Insurance Coverage Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B7-1-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-1-03/lender-purchased-mortgage-insurance",
+      "title": "Lender-Purchased Mortgage Insurance",
+      "checked_on": "2026-11-08"
+    },
+    "B7-1-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-1-04/financed-borrower-purchased-mortgage-insurance",
+      "title": "Financed Borrower-Purchased Mortgage Insurance",
+      "checked_on": "2026-11-08"
+    },
+    "B7-1-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-1-05/government-mortgage-loan-guaranty-or-insurance",
+      "title": "Government Mortgage Loan Guaranty or Insurance",
+      "checked_on": "2026-11-08"
+    },
+    "B7-2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-2-01/provision-title-insurance",
+      "title": "Provision of Title Insurance",
+      "checked_on": "2026-11-08"
+    },
+    "B7-2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-2-02/title-insurer-requirements",
+      "title": "Title Insurer Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B7-2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-2-03/general-title-insurance-coverage",
+      "title": "General Title Insurance Coverage",
+      "checked_on": "2026-11-08"
+    },
+    "B7-2-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-2-04/special-title-insurance-coverage-considerations",
+      "title": "Special Title Insurance Coverage Considerations",
+      "checked_on": "2026-11-08"
+    },
+    "B7-2-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-2-05/title-exceptions-and-impediments",
+      "title": "Title Exceptions and Impediments",
+      "checked_on": "2026-11-08"
+    },
+    "B7-2-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-2-06/attorney-title-opinion-letter-requirements",
+      "title": "Attorney Title Opinion Letter Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B7-3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-3-01/general-property-insurance-requirements-all-property-types",
+      "title": "General Property Insurance Requirements for All Property Types",
+      "checked_on": "2026-11-08"
+    },
+    "B7-3-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-3-02/property-insurance-requirements-one-four-unit-properties",
+      "title": "Property Insurance Requirements for One-to Four-Unit Properties",
+      "checked_on": "2026-11-08"
+    },
+    "B7-3-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-3-03/master-property-insurance-requirements-project-developments",
+      "title": "Master Property Insurance Requirements for Project Developments",
+      "checked_on": "2026-11-08"
+    },
+    "B7-3-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-3-04/individual-property-insurance-requirements-unit-project-development",
+      "title": "Property Insurance Requirements for Individual Units in a Project Development",
+      "checked_on": "2026-11-08"
+    },
+    "B7-3-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-3-05/additional-insurance-requirements",
+      "title": "Additional Insurance Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B7-3-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-3-06/flood-insurance-requirements-all-property-types",
+      "title": "Flood Insurance Requirements for All Property Types",
+      "checked_on": "2026-11-08"
+    },
+    "B7-3-07": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-3-07/evidence-property-insurance",
+      "title": "Evidence of Property Insurance",
+      "checked_on": "2026-11-08"
+    },
+    "B7-3-08": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-3-08/mortgagee-clause-named-insured-and-notice-cancellation-requirements",
+      "title": "Mortgagee Clause, Named Insured, and Notice of Cancellation Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B7-4-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b7-4-01/general-liability-insurance-requirements-project-developments",
+      "title": "General Liability Insurance Requirements for Project Developments",
+      "checked_on": "2026-11-08"
+    },
+    "B7-4-02": {
+      "url": null,
+      "title": "Fidelity/Crime Insurance Requirements for Project Developments",
+      "checked_on": "2026-11-08"
+    },
+    "B8-1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-1-01/publication-legal-documents",
+      "title": "Publication of Legal Documents",
+      "checked_on": "2026-11-08"
+    },
+    "B8-2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-2-01/security-instruments-conventional-mortgages",
+      "title": "Security Instruments for Conventional Mortgages",
+      "checked_on": "2026-11-08"
+    },
+    "B8-2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-2-02/special-purpose-security-instruments",
+      "title": "Special-Purpose Security Instruments",
+      "checked_on": "2026-11-08"
+    },
+    "B8-2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-2-03/signature-requirements-security-instruments",
+      "title": "Signature Requirements for Security Instruments",
+      "checked_on": "2026-11-08"
+    },
+    "B8-3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-3-01/notes-conventional-mortgages",
+      "title": "Notes for Conventional Mortgages",
+      "checked_on": "2026-11-08"
+    },
+    "B8-3-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-3-02/special-note-provisions-and-language-requirements",
+      "title": "Special Note Provisions and Language Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B8-3-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-3-03/signature-requirements-notes",
+      "title": "Signature Requirements for Notes",
+      "checked_on": "2026-11-08"
+    },
+    "B8-3-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-3-04/note-endorsement",
+      "title": "Note Endorsement",
+      "checked_on": "2026-11-08"
+    },
+    "B8-4-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-4-01/riders-and-addenda",
+      "title": "Riders and Addenda",
+      "checked_on": "2026-11-08"
+    },
+    "B8-5-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-5-01/general-information-special-purpose-legal-documents",
+      "title": "General Information on Special-Purpose Legal Documents",
+      "checked_on": "2026-11-08"
+    },
+    "B8-5-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-5-02/inter-vivos-revocable-trust-mortgage-documentation-and-signature-requirements",
+      "title": "Inter Vivos Revocable Trust Mortgage Documentation and Signature Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B8-5-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-5-03/homestyle-renovation-mortgage-documentation-requirements",
+      "title": "HomeStyle Renovation Mortgage Documentation Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "B8-5-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-5-04/sample-legal-documents",
+      "title": "Sample Legal Documents",
+      "checked_on": "2026-11-08"
+    },
+    "B8-5-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-5-05/requirements-use-power-attorney",
+      "title": "Requirements for Use of a Power of Attorney",
+      "checked_on": "2026-11-08"
+    },
+    "B8-6-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-6-01/authorized-use-intervening-and-blanket-assignments",
+      "title": "Authorized Use of Intervening and Blanket Assignments",
+      "checked_on": "2026-11-08"
+    },
+    "B8-7-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-7-01/mortgage-electronic-registration-systems-mers-inc",
+      "title": "Mortgage Electronic Registration Systems (MERS), Inc.",
+      "checked_on": "2026-11-08"
+    },
+    "B8-8-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-8-01/general-information-emortgages",
+      "title": "General Information on eMortgages",
+      "checked_on": "2026-11-08"
+    },
+    "B8-8-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/b8-8-02/requirements-creating-closing-and-correcting-enotes",
+      "title": "Requirements for Creating, Closing, and Correcting eNotes",
+      "checked_on": "2026-11-08"
+    },
+    "C1-1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/c1-1-01/execution-options",
+      "title": "Execution Options",
+      "checked_on": "2026-11-08"
+    },
+    "C1-2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/c1-2-01/general-information-delivering-loan-data-and-documents",
+      "title": "General Information on Delivering Loan Data and Documents",
+      "checked_on": "2026-11-08"
+    },
+    "C1-2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/c1-2-02/loan-data-and-documentation-delivery-requirements",
+      "title": "Loan Data and Documentation Delivery Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "C1-2-03": {
+      "url": null,
+      "title": "Ownership of Mortgage Loans Prior to Purchase or Securitization and Third-Party Security Interests",
+      "checked_on": "2026-11-08"
+    },
+    "C1-2-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/c1-2-04/delivering-emortgages-fannie-mae",
+      "title": "Delivering eMortgages to Fannie Mae",
+      "checked_on": "2026-11-08"
+    },
+    "C1-2-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/c1-2-05/bailee-letters",
+      "title": "Bailee Letters",
+      "checked_on": "2026-11-08"
+    },
+    "C1-3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/c1-3-01/general-information-remittance-types",
+      "title": "General Information on Remittance Types",
+      "checked_on": "2026-11-08"
+    },
+    "C2-1.1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-1.1-01/mandatory-commitment-process",
+      "title": "Mandatory Commitment Process",
+      "checked_on": "2026-11-08"
+    },
+    "C2-1.1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-1.1-02/general-information-about-mandatory-commitment-pricing-and-fees",
+      "title": "General Information about Mandatory Commitment Pricing and Fees",
+      "checked_on": "2026-11-08"
+    },
+    "C2-1.1-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-1.1-03/mandatory-commitment-terms-amounts-periods-and-other-requirements",
+      "title": "Mandatory Commitment Terms, Amounts, Periods and Other Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "C2-1.1-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-1.1-04/mandatory-commitment-extensions-and-pair-offs",
+      "title": "Mandatory Commitment Extensions and Pair-Offs",
+      "checked_on": "2026-11-08"
+    },
+    "C2-1.1-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-1.1-05/servicing-fees",
+      "title": "Servicing Fees",
+      "checked_on": "2026-11-08"
+    },
+    "C2-1.1-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-1.1-06/accrued-interest-payments-regularly-amortizing-mortgages",
+      "title": "Accrued Interest Payments for Regularly Amortizing Mortgages",
+      "checked_on": "2026-11-08"
+    },
+    "C2-1.1-07": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-1.1-07/standard-arm-and-converted-arm-resale-commitments",
+      "title": "Standard ARM and Converted ARM Resale Commitments",
+      "checked_on": "2026-11-08"
+    },
+    "C2-1.2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-1.2-01/best-efforts-commitment-process",
+      "title": "Best Efforts Commitment Process",
+      "checked_on": "2026-11-08"
+    },
+    "C2-1.2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-1.2-02/best-efforts-commitment-pricing-periods-and-fees",
+      "title": "Best Efforts Commitment Pricing, Periods, and Fees",
+      "checked_on": "2026-11-08"
+    },
+    "C2-1.2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-1.2-03/best-efforts-commitment-terms-amounts-and-other-requirements",
+      "title": "Best Efforts Commitment Terms, Amounts, and Other Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "C2-1.3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-1.3-01/servicing-marketplace",
+      "title": "Servicing Marketplace",
+      "checked_on": "2026-11-08"
+    },
+    "C2-2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-2-01/general-requirements-good-delivery-whole-loans",
+      "title": "General Requirements for Good Delivery of Whole Loans",
+      "checked_on": "2026-11-08"
+    },
+    "C2-2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-2-02/documentation-requirements-whole-loan-deliveries",
+      "title": "Documentation Requirements for Whole Loan Deliveries",
+      "checked_on": "2026-11-08"
+    },
+    "C2-2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-2-03/general-information-whole-loan-purchasing-policies",
+      "title": "General Information on Whole Loan Purchasing Policies",
+      "checked_on": "2026-11-08"
+    },
+    "C2-2-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-2-04/timing-distribution-whole-loan-purchase-proceeds",
+      "title": "Timing of Distribution of Whole Loan Purchase Proceeds",
+      "checked_on": "2026-11-08"
+    },
+    "C2-2-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-2-05/whole-loan-purchasing-process",
+      "title": "Whole Loan Purchasing Process",
+      "checked_on": "2026-11-08"
+    },
+    "C2-2-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-2-06/authorization-transfer-funds",
+      "title": "Authorization to Transfer Funds",
+      "checked_on": "2026-11-08"
+    },
+    "C2-2-07": {
+      "url": "https://selling-guide.fanniemae.com/sel/c2-2-07/purchase-payee-codes",
+      "title": "Purchase Payee Codes",
+      "checked_on": "2026-11-08"
+    },
+    "C3-1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-1-01/general-information-about-fannie-maes-mbs-program",
+      "title": "General Information About Fannie Mae’s MBS Program",
+      "checked_on": "2026-11-08"
+    },
+    "C3-1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-1-02/preparing-pool-loans-mbs",
+      "title": "Preparing to Pool Loans into MBS",
+      "checked_on": "2026-11-08"
+    },
+    "C3-2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-2-01/determining-eligibility-loans-pooled-mbs",
+      "title": "Determining Eligibility for Loans Pooled into MBS",
+      "checked_on": "2026-11-08"
+    },
+    "C3-2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-2-02/selecting-servicing-option",
+      "title": "Selecting a Servicing Option",
+      "checked_on": "2026-11-08"
+    },
+    "C3-2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-2-03/mbs-remittance-type-and-selecting-remittance-cycle",
+      "title": "MBS Remittance Type and Selecting a Remittance Cycle",
+      "checked_on": "2026-11-08"
+    },
+    "C3-2-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-2-04/mandatory-mbs-commitments",
+      "title": "Mandatory MBS Commitments",
+      "checked_on": "2026-11-08"
+    },
+    "C3-3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-3-01/determining-and-remitting-guaranty-fees",
+      "title": "Determining and Remitting Guaranty Fees",
+      "checked_on": "2026-11-08"
+    },
+    "C3-3-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-3-02/accessing-buyup-and-buydown-ratios-and-calculating-payments-or-charges",
+      "title": "Accessing Buyup and Buydown Ratios and Calculating Payments or Charges",
+      "checked_on": "2026-11-08"
+    },
+    "C3-3-03": {
+      "url": null,
+      "title": "Buying Up and Buying Down the Guaranty Fee for MBS",
+      "checked_on": "2026-11-08"
+    },
+    "C3-4-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-4-01/term-related-fixed-rate-mortgage-pooling-parameters",
+      "title": "Term-Related Fixed-Rate Mortgage Pooling Parameters",
+      "checked_on": "2026-11-08"
+    },
+    "C3-5-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-5-01/creating-weighted-average-arm-mbs",
+      "title": "Creating Weighted-Average ARM MBS",
+      "checked_on": "2026-11-08"
+    },
+    "C3-5-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-5-02/calculating-weighted-average-pool-accrual-rates-arm-flex-pools-using-fixed-mbs-margin",
+      "title": "Calculating the Weighted-Average Pool Accrual Rates for ARM Flex Pools Using a Fixed MBS Margin",
+      "checked_on": "2026-11-08"
+    },
+    "C3-5-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-5-03/calculating-weighted-average-pool-accrual-rates-arm-flex-pools-using-weighted-average-mbs-margin",
+      "title": "Calculating the Weighted-Average Pool Accrual Rates for ARM Flex Pools Using a Weighted-Average MBS Margin",
+      "checked_on": "2026-11-08"
+    },
+    "C3-5-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-5-04/pooling-arms-conversion-option",
+      "title": "Pooling ARMs with a Conversion Option",
+      "checked_on": "2026-11-08"
+    },
+    "C3-5-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-5-05/commingling-arms-mbs",
+      "title": "Commingling ARMs in MBS",
+      "checked_on": "2026-11-08"
+    },
+    "C3-6-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-6-01/parameters-pooling-loans-fannie-majors",
+      "title": "Parameters for Pooling Loans Into Fannie Majors",
+      "checked_on": "2026-11-08"
+    },
+    "C3-7-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-7-01/establishing-mbs-trading-account",
+      "title": "Establishing an MBS Trading Account",
+      "checked_on": "2026-11-08"
+    },
+    "C3-7-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-7-02/initiating-mbs-sale",
+      "title": "Initiating an MBS Sale",
+      "checked_on": "2026-11-08"
+    },
+    "C3-7-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-7-03/making-good-delivery",
+      "title": "Making Good Delivery",
+      "checked_on": "2026-11-08"
+    },
+    "C3-7-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-7-04/delivering-mbs-pool-data-and-documents",
+      "title": "Delivering MBS Pool Data and Documents",
+      "checked_on": "2026-11-08"
+    },
+    "C3-7-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-7-05/confirming-presettlement-information",
+      "title": "Confirming Presettlement Information",
+      "checked_on": "2026-11-08"
+    },
+    "C3-7-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-7-06/settling-trade",
+      "title": "Settling the Trade",
+      "checked_on": "2026-11-08"
+    },
+    "C3-7-07": {
+      "url": "https://selling-guide.fanniemae.com/sel/c3-7-07/sale-fannie-mae-securities-third-parties",
+      "title": "Sale of Fannie Mae Securities to Third Parties",
+      "checked_on": "2026-11-08"
+    },
+    "D1-1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/d1-1-01/lender-quality-control-programs-plans-and-processes",
+      "title": "Lender Quality Control Programs, Plans, and Processes",
+      "checked_on": "2026-11-08"
+    },
+    "D1-1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/d1-1-02/lender-quality-control-staffing-and-outsourcing-quality-control-process",
+      "title": "Lender Quality Control Staffing and Outsourcing of the Quality Control Process",
+      "checked_on": "2026-11-08"
+    },
+    "D1-1-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/d1-1-03/lender-quality-control-reporting",
+      "title": "Lender Quality Control Reporting",
+      "checked_on": "2026-11-08"
+    },
+    "D1-2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/d1-2-01/lender-prefunding-quality-control-review-process",
+      "title": "Lender Prefunding Quality Control Review Process",
+      "checked_on": "2026-11-08"
+    },
+    "D1-3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/d1-3-01/lender-post-closing-quality-control-review-process",
+      "title": "Lender Post-Closing Quality Control Review Process",
+      "checked_on": "2026-11-08"
+    },
+    "D1-3-02": {
+      "url": null,
+      "title": "Lender Post-Closing Quality Control Review of Approval Conditions, Underwriting Decisions, Data, and Documentation",
+      "checked_on": "2026-11-08"
+    },
+    "D1-3-03": {
+      "url": null,
+      "title": "Lender Post-Closing Quality Control Reverifications",
+      "checked_on": "2026-11-08"
+    },
+    "D2-1-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/d2-1-01/general-information-fannie-mae-qc-reviews",
+      "title": "General Information on Fannie Mae QC Reviews",
+      "checked_on": "2026-11-08"
+    },
+    "D2-1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/d2-1-02/fannie-mae-qc-file-request-and-submission-requirements",
+      "title": "Fannie Mae QC File Request and Submission Requirements",
+      "checked_on": "2026-11-08"
+    },
+    "D2-1-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/d2-1-03/outcomes-fannie-mae-qc-reviews",
+      "title": "Outcomes of Fannie Mae QC Reviews",
+      "checked_on": "2026-11-08"
+    },
+    "D2-1-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/d2-1-04/identifying-and-remedying-origination-defects-under-remedies-framework",
+      "title": "Identifying and Remedying Origination Defects Under the Remedies Framework",
+      "checked_on": "2026-11-08"
+    },
+    "E-1-01": {
+      "url": null,
+      "title": "References to Fannie Mae's Website",
+      "checked_on": "2026-11-08"
+    },
+    "E-1-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-1-02/list-contacts",
+      "title": "List of Contacts",
+      "checked_on": "2026-11-08"
+    },
+    "E-1-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-1-03/list-lender-contracts",
+      "title": "List of Lender Contracts",
+      "checked_on": "2026-11-08"
+    },
+    "E-2-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-2-01/required-custodial-documents",
+      "title": "Required Custodial Documents",
+      "checked_on": "2026-11-08"
+    },
+    "E-2-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-2-02/suggested-format-phase-i-environmental-hazard-assessments",
+      "title": "Suggested Format for Phase I Environmental Hazard Assessments",
+      "checked_on": "2026-11-08"
+    },
+    "E-2-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-2-03/revocable-trust-rider-sample-language",
+      "title": "Revocable Trust Rider (Sample Language)",
+      "checked_on": "2026-11-08"
+    },
+    "E-2-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-2-04/signature-requirements-mortgages-inter-vivos-revocable-trusts",
+      "title": "Signature Requirements for Mortgages to Inter Vivos Revocable Trusts",
+      "checked_on": "2026-11-08"
+    },
+    "E-2-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-2-05/servicing-marketplace-mortgage-loan-servicing-purchase-and-sale-agreement",
+      "title": "Servicing Marketplace - Mortgage Loan Servicing Purchase and Sale Agreement",
+      "checked_on": "2026-11-08"
+    },
+    "E-2-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-2-06/correcting-errors-enotes",
+      "title": "Correcting Errors in eNotes",
+      "checked_on": "2026-11-08"
+    },
+    "E-2-07": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-2-07/description-enote-header-footer-and-enote-clause",
+      "title": "Description of eNote Header, Footer, and eNote Clause",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-01": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-01/acronyms-and-glossary-defined-terms",
+      "title": "Acronyms and Glossary of Defined Terms: A",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-02": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-02/acronyms-and-glossary-defined-terms-b",
+      "title": "Acronyms and Glossary of Defined Terms: B",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-03": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-03/acronyms-and-glossary-defined-terms-c",
+      "title": "Acronyms and Glossary of Defined Terms: C",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-04": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-04/acronyms-and-glossary-defined-terms-d",
+      "title": "Acronyms and Glossary of Defined Terms: D",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-05": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-05/acronyms-and-glossary-defined-terms-e",
+      "title": "Acronyms and Glossary of Defined Terms: E",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-06": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-06/acronyms-and-glossary-defined-terms-f",
+      "title": "Acronyms and Glossary of Defined Terms: F",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-07": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-07/acronyms-and-glossary-defined-terms-g",
+      "title": "Acronyms and Glossary of Defined Terms: G",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-08": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-08/acronyms-and-glossary-defined-terms-h",
+      "title": "Acronyms and Glossary of Defined Terms: H",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-09": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-09/acronyms-and-glossary-defined-terms-i",
+      "title": "Acronyms and Glossary of Defined Terms: I",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-10": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-10/acronyms-and-glossary-defined-terms-j",
+      "title": "Acronyms and Glossary of Defined Terms: J",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-11": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-11/acronyms-and-glossary-defined-terms-k",
+      "title": "Acronyms and Glossary of Defined Terms: K",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-12": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-12/acronyms-and-glossary-defined-terms-l",
+      "title": "Acronyms and Glossary of Defined Terms: L",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-13": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-13/acronyms-and-glossary-defined-terms-m",
+      "title": "Acronyms and Glossary of Defined Terms: M",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-14": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-14/acronyms-and-glossary-defined-terms-n",
+      "title": "Acronyms and Glossary of Defined Terms: N",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-15": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-15/acronyms-and-glossary-defined-terms-o",
+      "title": "Acronyms and Glossary of Defined Terms: O",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-16": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-16/acronyms-and-glossary-defined-terms-p",
+      "title": "Acronyms and Glossary of Defined Terms: P",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-17": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-17/acronyms-and-glossary-defined-terms-q",
+      "title": "Acronyms and Glossary of Defined Terms: Q",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-18": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-18/acronyms-and-glossary-defined-terms-r",
+      "title": "Acronyms and Glossary of Defined Terms: R",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-19": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-19/acronyms-and-glossary-defined-terms-s",
+      "title": "Acronyms and Glossary of Defined Terms: S",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-20": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-20/acronyms-and-glossary-defined-terms-t",
+      "title": "Acronyms and Glossary of Defined Terms: T",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-21": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-21/acronyms-and-glossary-defined-terms-u",
+      "title": "Acronyms and Glossary of Defined Terms: U",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-22": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-22/acronyms-and-glossary-defined-terms-v",
+      "title": "Acronyms and Glossary of Defined Terms: V",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-23": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-23/acronyms-and-glossary-defined-terms-w",
+      "title": "Acronyms and Glossary of Defined Terms: W",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-24": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-24/acronyms-and-glossary-defined-terms-x",
+      "title": "Acronyms and Glossary of Defined Terms: X",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-25": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-25/acronyms-and-glossary-defined-terms-y",
+      "title": "Acronyms and Glossary of Defined Terms: Y",
+      "checked_on": "2026-11-08"
+    },
+    "E-3-26": {
+      "url": "https://selling-guide.fanniemae.com/sel/e-3-26/acronyms-and-glossary-defined-terms-z",
+      "title": "Acronyms and Glossary of Defined Terms: Z",
+      "checked_on": "2026-11-08"
+    }
+  },
+  "summary": {
+    "fannie_resolved": 397,
+    "fannie_total": 427
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-11-14T10:35:49-05:00",
+  "document": {
+    "document_id": "fannie-selling-guide-2026-10-07",
+    "agency": "Fannie Mae",
+    "guide": "Fannie Mae Single Family Selling Guide",
+    "edition_date": "2026-10-07",
+    "source_file": "fannie-selling-guide-2026-10-07.pdf",
+    "source_sha256": "07c22c1b2c2031473988578dcb68abac8bffe865855f98dbc7c1b7fcf7e095b5",
+    "source_url": "https://singlefamily.fanniemae.com/media/document/pdf/selling-guide-october-7-2026",
+    "pdf_pages": 1197,
+    "pdf_metadata": {
+      "ModDate": "D:20261007083822-05'00'",
+      "Producer": "mPDF 8.2.7",
+      "Title": "Selling Guide 10-07-26",
+      "Keywords": "Selling Guide 10-07-26",
+      "Author": "m1ucjs",
+      "CreationDate": "D:20260929200226Z"
+    }
+  },
+  "scope": {
+    "included": "Preface and Parts A-E of the Fannie Mae Single Family Selling Guide",
+    "excluded": [
+      "Cover, copyright notice, and table of contents",
+      "External materials incorporated by reference but not embedded in the PDF"
+    ]
+  },
+  "chunking": {
+    "strategy": "canonical-topic-first, then paragraph/line-aware character windows",
+    "max_chars": 4500,
+    "overlap_chars": 500
+  },
+  "counts": {
+    "outline_items": 559,
+    "topic_sections": 428,
+    "all_sections": 434,
+    "chunks": 778
+  }
+}

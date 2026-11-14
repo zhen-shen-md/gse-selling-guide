@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Search, compare, and track changes in the Fannie Mae and Freddie Mac selling guides, with citations to the official sources.">
+  <title>GSE Selling Guide</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#ask" aria-label="GSE Selling Guide home">
+      <span class="brand-mark" aria-hidden="true">G</span>
+      <span><strong>GSE Selling Guide</strong><small>Fannie Mae + Freddie Mac</small></span>
+    </a>
+    <div class="status-group">
+      <span class="status-dot" aria-hidden="true"></span>
+      <span id="kb-status">Loading…</span>
+      <span class="mode-badge" id="ai-mode" title="AI answers need the optional server with an API key">Evidence mode</span>
+    </div>
+  </header>
+
+  <div class="shell">
+    <aside class="sidebar" aria-label="Primary navigation">
+      <nav>
+        <button class="nav-item active" data-view="ask"><span aria-hidden="true">≍</span> Ask &amp; compare</button>
+        <button class="nav-item" data-view="search"><span aria-hidden="true">⌕</span> Search guides</button>
+        <button class="nav-item" data-view="sidebyside"><span aria-hidden="true">⇆</span> Side-by-side</button>
+        <button class="nav-item" data-view="changes"><span aria-hidden="true">Δ</span> What's new</button>
+        <button class="nav-item" data-view="pricing"><span aria-hidden="true">%</span> Pricing</button>
+        <button class="nav-item" data-view="about"><span aria-hidden="true">i</span> Sources &amp; method</button>
+      </nav>
+      <div class="sidebar-note">
+        <span class="eyebrow">Not official guidance</span>
+        <p>Every result links to the agency's own guide. Machine comparisons are research aids, not eligibility decisions.</p>
+      </div>
+    </aside>
+
+    <main>
+      <!-- Ask & compare -->
+      <section class="view active" id="view-ask">
+        <div class="page-heading">
+          <div>
+            <span class="eyebrow">Policy question</span>
+            <h1>Ask once. See both guides.</h1>
+            <p>Ask a selling-policy question in plain language. The most relevant Fannie Mae and Freddie Mac sections are retrieved side by side, with a comparison summary and links to the official text.</p>
+          </div>
+          <div class="metric-stack" aria-label="Knowledge base editions">
+            <div><strong id="metric-fannie">—</strong><span>Fannie edition</span></div>
+            <div><strong id="metric-freddie">—</strong><span>Freddie edition</span></div>
+          </div>
+        </div>
+        <form class="query-card" id="ask-form">
+          <label for="ask-query">Ask a Fannie Mae vs. Freddie Mac question</label>
+          <div class="query-row">
+            <input id="ask-query" value="How do limited cash-out refinance requirements differ?" autocomplete="off">
+            <button class="primary-button" type="submit">Ask &amp; compare</button>
+          </div>
+          <div class="suggestions" aria-label="Suggested questions">
+            <button type="button" data-query="rental income from a departing residence">Departing residence rent</button>
+            <button type="button" data-query="verbal verification of employment timing">Verbal VOE</button>
+            <button type="button" data-query="condo project review requirements">Condo review</button>
+            <button type="button" data-query="self-employed borrower income documentation">Self-employed income</button>
+            <button type="button" data-query="How do limited cash-out refinance requirements differ?">Limited cash-out</button>
+          </div>
+        </form>
+        <div class="notice hidden" id="ask-notice" role="status"></div>
+        <section class="summary-card hidden" id="ask-summary" aria-live="polite"></section>
+        <section class="evidence-columns hidden" id="ask-evidence"></section>
+      </section>
+
+      <!-- Search -->
+      <section class="view" id="view-search">
+        <div class="page-heading compact"><div><span class="eyebrow">Full-text search</span><h1>Search both selling guides</h1><p>Search by topic, phrase, or section number (for example <code>B3-3.1-04</code> or <code>5501.1</code>).</p></div></div>
+        <form class="query-card" id="search-form">
+          <div class="search-controls">
+            <label class="grow" for="search-query">Search terms<input id="search-query" value="rental income departing residence"></label>
+            <label for="search-agency">Agency<select id="search-agency"><option value="both">Both agencies</option><option value="fannie">Fannie Mae</option><option value="freddie">Freddie Mac</option></select></label>
+            <label class="checkbox-label"><input type="checkbox" id="search-future"> Include upcoming Freddie versions</label>
+            <button class="primary-button align-end" type="submit">Search</button>
+          </div>
+        </form>
+        <div class="notice hidden" id="search-notice" role="status"></div>
+        <div class="search-results" id="search-results"></div>
+      </section>
+
+      <!-- Side-by-side -->
+      <section class="view" id="view-sidebyside">
+        <div class="page-heading compact"><div><span class="eyebrow">Section crosswalk</span><h1>Read sections side by side</h1><p>Pick a section from either guide. Its likely counterparts in the other guide are listed (human-reviewed pairs first), and you can read both texts next to each other.</p></div></div>
+        <form class="query-card" id="sbs-form">
+          <div class="search-controls">
+            <label class="grow" for="sbs-id">Section number<input id="sbs-id" list="sbs-options" placeholder="B2-1.3-03 or 4301.5" autocomplete="off"></label>
+            <datalist id="sbs-options"></datalist>
+            <button class="primary-button align-end" type="submit">Open</button>
+          </div>
+        </form>
+        <div class="notice hidden" id="sbs-notice" role="status"></div>
+        <section id="sbs-result"></section>
+      </section>
+
+      <!-- What's new -->
+      <section class="view" id="view-changes">
+        <div class="page-heading compact"><div><span class="eyebrow">Edition-to-edition changes</span><h1>What changed in the guides</h1><p id="changes-lead">Section-level changes between the previous and current editions, linked to the announcement or bulletin that introduced them.</p></div></div>
+        <div class="change-stats" id="change-stats"></div>
+        <form class="query-card filter-card" id="changes-form">
+          <div class="search-controls">
+            <label for="chg-agency">Agency<select id="chg-agency"><option value="both">Both agencies</option><option value="fannie">Fannie Mae</option><option value="freddie">Freddie Mac</option></select></label>
+            <label for="chg-period">Edition period<select id="chg-period"><option value="">All periods</option></select></label>
+            <label for="chg-type">Change type<select id="chg-type"></select></label>
+            <label for="chg-month">Revision month<select id="chg-month"><option value="">Any month</option></select></label>
+            <label for="chg-ann">Announcement<select id="chg-ann"><option value="">Any</option></select></label>
+            <label class="grow" for="chg-text">Filter text<input id="chg-text" placeholder="e.g. rental income, condo, VantageScore"></label>
+          </div>
+        </form>
+        <div class="grid-count" id="changes-count"></div>
+        <div class="change-list" id="changes-list"></div>
+      </section>
+
+      <!-- Pricing -->
+      <section class="view" id="view-pricing">
+        <div class="page-heading compact"><div><span class="eyebrow">LLPA matrix + Exhibit 19 credit fees</span><h1>Pricing adjustments, side by side</h1><p id="pricing-headline">Loading…</p></div></div>
+        <div class="insight-grid" id="pricing-insights"></div>
+        <div class="pricing-layout">
+          <form class="pricing-form" id="pricing-form">
+            <h2>Loan scenario</h2>
+            <label>Transaction<select id="pricing-transaction"><option value="purchase">Purchase</option><option value="rate_term_refinance">Fannie limited cash-out / Freddie no cash-out</option><option value="cash_out_refinance">Cash-out refinance</option></select></label>
+            <div class="field-pair"><label>Credit score<input id="pricing-score" type="number" min="300" max="900" value="745"></label><label>LTV (%)<input id="pricing-ltv" type="number" min="1" max="150" step="0.01" value="78"></label></div>
+            <fieldset><legend>Loan attributes</legend><div class="attribute-grid" id="attribute-options"></div></fieldset>
+            <button class="primary-button full" type="submit">Compare adjustments</button>
+            <p class="form-note">Uncapped matrix lookup only. Eligibility, waivers, credits, and contract pricing are evaluated separately.</p>
+          </form>
+          <section class="pricing-result" id="pricing-result"><div class="empty-state"><span>%</span><h2>Build a scenario</h2><p>Choose loan characteristics to compare each agency's published adjustments.</p></div></section>
+        </div>
+        <section class="grid-browser" aria-labelledby="grid-browser-title">
+          <div class="grid-browser-heading">
+            <div><span class="eyebrow">Published matrices</span><h2 id="grid-browser-title">Every grid, side by side</h2><p>Values are parsed from each agency's PDF. Highlighted cells differ between the agencies; a dash means that agency publishes no matching cell.</p></div>
+            <div class="grid-count" id="pricing-grid-count"></div>
+          </div>
+          <div class="matrix-toolbar">
+            <label>Grid family<select id="grid-family-filter"><option value="all">All grid families</option><option value="base">Base grids</option><option value="attribute">Loan attributes</option><option value="mortgage_insurance">Mortgage insurance</option></select></label>
+            <label>Transaction<select id="grid-transaction-filter"><option value="all">All transactions</option><option value="purchase">Purchase</option><option value="rate_term_refinance">Fannie limited cash-out / Freddie no cash-out</option><option value="cash_out_refinance">Cash-out refinance</option></select></label>
+          </div>
+          <div class="matrix-segments" id="pricing-grid-catalog"></div>
+          <section class="provision-section" aria-labelledby="provision-title">
+            <div class="section-heading"><div><span class="eyebrow">Outside the grids</span><h2 id="provision-title">Credits, waivers, and caps</h2></div><p>Dollar credits and waivers are kept separate from percentage grids so units are never mixed.</p></div>
+            <div class="provision-grid" id="pricing-provisions"></div>
+          </section>
+        </section>
+      </section>
+
+      <!-- About -->
+      <section class="view" id="view-about">
+        <div class="page-heading compact"><div><span class="eyebrow">Sources and method</span><h1>What is in this knowledge base</h1><p>Built from the agencies' published PDFs. Scope, editions, and limits are stated here so results can be checked.</p></div></div>
+        <div class="source-grid" id="source-grid"></div>
+        <div class="scope-callout"><strong>Use the official guides for decisions.</strong><p>This is an independent research tool, not affiliated with or endorsed by Fannie Mae, Freddie Mac, or FHFA. It does not determine loan eligibility or establish that similarly worded rules are equivalent. Guide text is © Fannie Mae and © Freddie Mac and is reproduced here for research with links back to the official sources.</p></div>
+        <div class="method-grid">
+          <article><h2>How sections are extracted</h2><p>Each guide PDF is split at its canonical section headings using the PDF bookmarks. Freddie's Servicing segment is excluded. Current and future-effective Freddie versions are kept as separate records.</p></article>
+          <article><h2>How changes are detected</h2><p>Sections are matched across editions by number, then title, then text similarity, so renumbered or merged sections are not reported as deleted. Layout-only and editorial changes are separated from substantive revisions.</p></article>
+          <article><h2>How guides are compared</h2><p>Candidate counterparts come from a lexical and structural matcher. Human-reviewed pairs are shown first. Candidates are leads, not legal equivalence.</p></article>
+          <article><h2>AI answers (optional)</h2><p>This site works without AI. Running the optional server with an API key adds AI summaries for questions and changes, constrained to the retrieved text. See the README.</p></article>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

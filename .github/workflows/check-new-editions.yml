@@ -1,0 +1,37 @@
+name: Check for new guide editions
+
+# Fannie Mae and Freddie Mac usually publish on the first Wednesday of the month.
+on:
+  schedule:
+    - cron: "0 14 * * 4"   # Thursdays 14:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Probe agency sources
+        id: probe
+        run: |
+          set +e
+          python pipeline/fetch_sources.py --check-latest | tee probe.log
+          echo "code=${PIPESTATUS[0]}" >> "$GITHUB_OUTPUT"
+      - name: Open an issue when a new edition is published
+        if: steps.probe.outputs.code == '3'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="New GSE guide or pricing edition detected ($(date -u +%Y-%m-%d))"
+          if ! gh issue list --state open --search "New GSE guide or pricing edition detected" | grep -q .; then
+            { echo "The weekly check found new source documents:"; echo; echo '```'; grep -E "^(NEW|HASH)" probe.log; echo '```';
+              echo; echo "Follow **Updating to a new edition** in the README."; } > body.md
+            gh issue create --title "$title" --body-file body.md
+          fi

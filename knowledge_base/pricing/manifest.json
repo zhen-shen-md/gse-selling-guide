@@ -1,0 +1,56 @@
+{
+  "schema_version": "2.0",
+  "generated_at": "2026-11-14T10:36:13-05:00",
+  "scope": "Fannie Mae LLPAs and Freddie Mac Credit Fees (selling-side pricing only)",
+  "current_pair": {
+    "fannie": "fannie-llpa-matrix-2026-09-30",
+    "freddie": "freddie-exhibit-19-2026-11-04"
+  },
+  "documents": [
+    {
+      "document_id": "fannie-llpa-matrix-2026-01-28",
+      "agency": "Fannie Mae",
+      "edition_date": "2026-01-28",
+      "bulletin": null,
+      "url": null,
+      "sha256": "2d33c89436badc9883db92d206da5b8914e927157bd05514d6058d91f97f5ced"
+    },
+    {
+      "document_id": "fannie-llpa-matrix-2026-09-30",
+      "agency": "Fannie Mae",
+      "edition_date": "2026-09-30",
+      "bulletin": null,
+      "url": "https://singlefamily.fanniemae.com/media/document/pdf/llpa-matrix-pdf",
+      "sha256": "7148f267e3a6f61143f1a2cd267d6c7329d933035d6deb0cfc3a1b7cd684c773"
+    },
+    {
+      "document_id": "freddie-exhibit-19-2026-07-01",
+      "agency": "Freddie Mac",
+      "edition_date": "2026-07-01",
+      "bulletin": "2026-9",
+      "url": null,
+      "sha256": "77ee1e9ab28ac810cee36f1f9e3dd68b4d50e649b4a81c257430a5d4ad6d1de2"
+    },
+    {
+      "document_id": "freddie-exhibit-19-2026-11-04",
+      "agency": "Freddie Mac",
+      "edition_date": "2026-11-04",
+      "bulletin": "2026-15",
+      "url": "https://guide.freddiemac.com/euf/assets/pdfs/Exhibit_19.pdf",
+      "sha256": "3680f976443ad75e5d9329130100cd53882a5c1c1c8f1ec394c6eec949cb4aba"
+    }
+  ],
+  "method": "Grid cells parsed from each agency's PDF text; credits and waivers transcribed in curated_provisions.json and re-verified against PDF text on every build.",
+  "normalization": {
+    "transaction_mapping": {
+      "Fannie limited cash-out refinance": "rate_term_refinance",
+      "Freddie no cash-out refinance": "rate_term_refinance"
+    },
+    "delta_definition": "Fannie value minus Freddie value"
+  },
+  "counts": {
+    "current_records": 887,
+    "comparisons": 441,
+    "unmatched_cells": 5
+  }
+}

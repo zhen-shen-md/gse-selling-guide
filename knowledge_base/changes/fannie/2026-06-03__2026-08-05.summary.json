@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-11-14T10:35:54-05:00",
+  "agency": "Fannie Mae",
+  "old_edition": "2026-06-03",
+  "new_edition": "2026-08-05",
+  "counts": {
+    "editorial": 5,
+    "layout_only": 21,
+    "removed": 1,
+    "renumbered": 6,
+    "revised": 16,
+    "split": 2
+  },
+  "substantive_change_count": 25,
+  "by_month": {
+    "2018-09": 1,
+    "2022-04": 1,
+    "2025-08": 1,
+    "2026-08": 19
+  },
+  "announcements": [
+    "SEL-2026-07"
+  ],
+  "quality": {
+    "text_changed_without_revision_date_change": [
+      "B7-3-05",
+      "B7-3-08",
+      "C2-2-01",
+      "C3-5-02",
+      "C3-5-03"
+    ],
+    "note": "'editorial' = text changed but the agency did not re-date the section (usually cross-reference renumbering or navigation links); 'layout_only' = same words, different PDF text order."
+  }
+}

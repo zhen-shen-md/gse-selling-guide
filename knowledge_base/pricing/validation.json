@@ -1,0 +1,123 @@
+{
+  "status": "pass",
+  "generated_at": "2026-11-14T10:36:13-05:00",
+  "checks": {
+    "all_source_hashes_match": true,
+    "no_duplicate_cells": true,
+    "latest_base_cells_207_each": true,
+    "latest_mi_cells_32_each": true,
+    "all_curated_quotes_found": true,
+    "comparison_count": 441
+  },
+  "documents": {
+    "fannie-llpa-matrix-2026-01-28": {
+      "sha256_matches_manifest": true,
+      "grid_cells": 441,
+      "cells_by_family": {
+        "base": 207,
+        "attribute": 202,
+        "mortgage_insurance": 32
+      },
+      "base_cells": 207,
+      "mortgage_insurance_cells": 32,
+      "attributes": [
+        "adjustable_rate",
+        "condominium",
+        "high_balance_arm",
+        "high_balance_fixed_rate",
+        "investment_property",
+        "manufactured_home",
+        "second_home",
+        "subordinate_financing",
+        "two_to_four_units"
+      ],
+      "duplicate_record_ids": 0,
+      "curated_provisions_checked": 8,
+      "curated_quotes_missing": [],
+      "notes": [
+        "p7: Source label reads '> 740'; the next band ends at 739, so it is read as '≥ 740' to avoid leaving a score of 740 uncovered."
+      ]
+    },
+    "fannie-llpa-matrix-2026-09-30": {
+      "sha256_matches_manifest": true,
+      "grid_cells": 441,
+      "cells_by_family": {
+        "base": 207,
+        "attribute": 202,
+        "mortgage_insurance": 32
+      },
+      "base_cells": 207,
+      "mortgage_insurance_cells": 32,
+      "attributes": [
+        "adjustable_rate",
+        "condominium",
+        "high_balance_arm",
+        "high_balance_fixed_rate",
+        "investment_property",
+        "manufactured_home",
+        "second_home",
+        "subordinate_financing",
+        "two_to_four_units"
+      ],
+      "duplicate_record_ids": 0,
+      "curated_provisions_checked": 8,
+      "curated_quotes_missing": [],
+      "notes": [
+        "p7: Source label reads '> 740'; the next band ends at 739, so it is read as '≥ 740' to avoid leaving a score of 740 uncovered."
+      ]
+    },
+    "freddie-exhibit-19-2026-07-01": {
+      "sha256_matches_manifest": true,
+      "grid_cells": 469,
+      "cells_by_family": {
+        "base": 207,
+        "attribute": 230,
+        "mortgage_insurance": 32
+      },
+      "base_cells": 207,
+      "mortgage_insurance_cells": 32,
+      "attributes": [
+        "adjustable_rate",
+        "alt_fico",
+        "condominium",
+        "high_balance_arm",
+        "high_balance_fixed_rate",
+        "investment_property",
+        "manufactured_home",
+        "second_home",
+        "subordinate_financing",
+        "two_to_four_units"
+      ],
+      "duplicate_record_ids": 0,
+      "curated_provisions_checked": 6,
+      "curated_quotes_missing": [],
+      "notes": []
+    },
+    "freddie-exhibit-19-2026-11-04": {
+      "sha256_matches_manifest": true,
+      "grid_cells": 446,
+      "cells_by_family": {
+        "base": 207,
+        "attribute": 207,
+        "mortgage_insurance": 32
+      },
+      "base_cells": 207,
+      "mortgage_insurance_cells": 32,
+      "attributes": [
+        "adjustable_rate",
+        "condominium",
+        "high_balance_arm",
+        "high_balance_fixed_rate",
+        "investment_property",
+        "manufactured_home",
+        "second_home",
+        "subordinate_financing",
+        "two_to_four_units"
+      ],
+      "duplicate_record_ids": 0,
+      "curated_provisions_checked": 6,
+      "curated_quotes_missing": [],
+      "notes": []
+    }
+  }
+}

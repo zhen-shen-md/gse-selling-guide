@@ -103,6 +103,8 @@ GitHub Pages site always runs in evidence-only mode.
 
 ## How it works
 
+Full technical specification (chunk design, crosswalk scoring, change detection, pricing parser): [docs/TECHNICAL.md](docs/TECHNICAL.md).
+
 1. **Extraction.** Each PDF is split at its canonical section headings, located through the PDF bookmarks.
    Freddie's Servicing segment boundary is read from the bookmarks, never hardcoded, because it moves between
    editions (page 1,966 in July, page 2,103 in November). Malformed bookmarks, such as `(11/04/026)` or a

@@ -16,6 +16,7 @@ Freddie Mac content is linked. Numbers below describe the November 4, 2026 editi
 10. [Web application and AI layer](#10-web-application-and-ai-layer)
 11. [Validation and testing](#11-validation-and-testing)
 12. [Known limitations and roadmap](#12-known-limitations-and-roadmap)
+13. [Retrieval evaluation](#13-retrieval-evaluation)
 
 ---
 
@@ -468,10 +469,55 @@ matching source hashes.
 
 | Limitation | Planned improvement |
 |---|---|
-| Crosswalk is lexical; 80 low-confidence top matches | Re-rank candidates with embeddings and an LLM judge, then confirm in `curated_pairs.json`; grow the curated set from 11 to about 100 high-traffic topics |
+| Crosswalk is lexical; 80 low-confidence top matches | Hybrid lexical + embedding candidates (measured +11 points hit@3, §13), then an LLM judge, then human confirmation in `curated_pairs.json` |
 | Continuation chunks lack a heading in `text` | Contextual chunk headers (§4.3) and subsection-level chunks using Freddie's `(a)`, `(b)` bookmarks |
 | Tables are flattened to text | Table-aware extraction for eligibility and documentation tables |
 | Freddie bulletins not parsed; only two Freddie editions | Index Freddie bulletins and their tracked-revision files when they can be retrieved |
-| Ask & compare has no formal evaluation | A question set with expected sections per agency, scored on every build |
+| Production search is keyword-only (plain-language hit@5 0.56, §13) | Add embeddings as a hybrid, not a replacement: offline for the crosswalk, query-time in server mode or with an in-browser model for the site |
 | External documents (Eligibility Matrix, Exhibit 19A, forms) not indexed | Add them as separate document types with their own extractors |
 | Only usable through the website and CLI | An MCP server so AI assistants can query the knowledge base directly |
+
+## 13. Retrieval evaluation
+
+Full method and numbers: [`eval/README.md`](../eval/README.md) and [`eval/results/REPORT.md`](../eval/results/REPORT.md).
+
+**Set-up.**
+- 120 questions: 74 in guide wording, 33 in plain language, 13 identifiers.
+- Expected sections for each agency were chosen from the section titles *before* running any retriever. The set
+  still awaits SME review.
+- Each question is scored against each agency, giving 238 judgements.
+- Embeddings use `BAAI/bge-small-en-v1.5`, a local 384-dimension model.
+
+| Method (pooled) | hit@1 | hit@5 | MRR@10 | hit@5: plain language | hit@5: identifiers |
+|---|---|---|---|---|---|
+| Keyword (production) | 0.59 | 0.81 | 0.69 | 0.56 | 0.96 |
+| BM25 (FTS5) | 0.59 | 0.83 | 0.69 | 0.67 | 0.88 |
+| Embedding + section header | 0.71 | 0.85 | 0.78 | 0.71 | 0.79 |
+| **Hybrid: keyword + embedding (RRF)** | 0.66 | **0.89** | 0.76 | 0.73 | **0.96** |
+| Hybrid: BM25 + embedding (RRF) | 0.70 | 0.89 | 0.78 | 0.74 | 0.92 |
+
+**Paired comparison against production at hit@5:**
+- Keyword + embedding gains 19 judgements and loses **0** (sign test p < 0.001).
+- BM25 + embedding: 26 gains, 6 losses (p = 0.001).
+- Embedding alone: 29 gains, 18 losses (p = 0.14, not significant), and it is worse on identifiers.
+
+**Crosswalk (85 gold Fannie topics: 11 curated, 74 derived from the question set):**
+
+| Method | hit@1 | hit@3 | hit@5 |
+|---|---|---|---|
+| Lexical (production) | 0.68 | 0.82 | 0.87 |
+| Embedding | 0.72 | 0.88 | 0.91 |
+| Hybrid (RRF) | 0.74 | 0.93 | 0.94 |
+
+**Findings.**
+1. **Embeddings help where vocabulary differs.** Plain-language questions rise from 0.56 to 0.73 hit@5. Crosswalk
+   pairs like "Value Acceptance" → "Automated collateral evaluation" jump from rank 15 to rank 2.
+2. **Embeddings hurt on exact identifiers and generic catch-all sections.** For example, Fannie's Social Security
+   income → Freddie 5305.1 "Requirements for all other income" ranks 1 lexically but 15 by embedding.
+3. **The two methods fail on different items**, so fusing them beats both. The recommended design is hybrid
+   retrieval that keeps the keyword scorer for IDs.
+4. **Chunk-format variants are within noise on this set:**
+   - adding a section header gives +2 points hit@1;
+   - splitting into pieces of about 1,500 characters, so the 512-token model sees all the text, gives +1 point
+     hit@10 and −3 points hit@1.
+

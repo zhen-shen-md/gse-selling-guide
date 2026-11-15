@@ -119,9 +119,17 @@ Full technical specification (chunk design, crosswalk scoring, change detection,
    cell. Credits and waivers are a short transcribed list that every build re-verifies against the PDF text.
 5. **Validation.** `pipeline/validate_knowledge_bases.py` cross-checks every artifact and runs in CI.
 
+## Evaluation
+
+A 120-question retrieval benchmark ([eval/](eval/README.md)) compares the production keyword search, BM25, local
+embeddings, and hybrids. Hybrid keyword + embedding retrieval raises hit@5 from 0.81 to 0.89 with no regressions
+(plain-language questions: 0.56 → 0.73). Embedding-only search is worse on identifiers. See
+[eval/results/REPORT.md](eval/results/REPORT.md).
+
 ## Known limitations
 
 - The crosswalk is a relevance aid: 80 of 427 top matches are low-confidence. Help by reviewing pairs (see below).
+- Production search is still keyword-only; the evaluation shows a hybrid with embeddings is better (not yet shipped).
 - External documents incorporated by reference (forms, Exhibit 19A, the Eligibility Matrix) are not indexed as text.
 - About 7% of Fannie sections have no verified online-guide link and fall back to the official PDF page.
 - Freddie Mac bulletins are not yet parsed. Freddie changes are dated from the Guide itself, and announcement links cover Fannie only.
